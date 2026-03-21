@@ -7,50 +7,64 @@ nav_order: 1
 
 # Getting Started
 
-Welcome to Read & Preach! This guide will walk you through everything you need to get up and running.
+Welcome to Read & Preach! This guide walks you through the first-time setup so you get the most out of the app right away.
 
-## Prerequisites
+## Requirements
 
-Before installing Read & Preach, make sure your device meets the following requirements:
+- **iPhone or iPad** running iOS 16.0 or later
+- No account, no internet connection required
 
-- **iOS**: Version 14.0 or later
-- **Android**: Version 8.0 (Oreo) or later
+## Step 1 — Install the app
 
-## Download the App
+Download Read & Preach from the App Store. See the [Installation guide](../installation/) for details.
 
-1. Open the **App Store** (iOS) or **Google Play Store** (Android)
-2. Search for **"Read & Preach"**
-3. Tap **Install** / **Get**
-4. Wait for the download to complete
+## Step 2 — Set up your reading plan (Bible tab)
 
-## Creating an Account
+When you open the Bible tab for the first time, you will be asked to configure a reading plan:
 
-1. Open the app after installation
-2. Tap **Sign Up** on the welcome screen
-3. Enter your name, email address, and a password
-4. Tap **Create Account**
-5. Check your email for a verification link and confirm your address
+1. Tap **Go to Settings** (or open the Settings tab directly)
+2. Scroll to **Bible Reading Settings**
+3. Choose a **reading mode**:
+   - **Sequential** — Genesis to Revelation
+   - **NT → OT** — New Testament first, then Old Testament
+   - **Custom** — drag books into your preferred order
+   - **Free** — mark chapters as read without a daily schedule
+4. Choose a **duration** (1, 2, or 3 years)
+5. Tap **Generate Plan** to create your daily reading schedule
 
-## Logging In
+Once the plan is generated, the Bible tab will show today's assigned chapters.
 
-If you already have an account:
+## Step 3 — Set up your ministry role (Report tab)
 
-1. Open the app
-2. Tap **Log In**
-3. Enter your email and password
-4. Tap **Sign In**
+To get accurate monthly hour goals in the Report tab:
 
-## Your First Steps
+1. Open the **Settings tab**
+2. Scroll to **Report Settings → Recurring Role**
+3. Select your role: **Publisher**, **Auxiliary Pioneer**, or **Regular Pioneer**
+4. Set the start month
+5. Tap **Save Role**
 
-Once logged in, here's what to explore first:
+Your monthly goal will now appear in the Report tab summary.
 
-- **Home Feed** — Your daily readings and devotionals appear here
-- **Library** — Browse the full collection of scriptures and content
-- **My Notes** — Access all your annotations and highlights
-- **Sermons** — Start organizing your first sermon outline
+## Step 4 — Enable reminders (optional)
 
-## Next Steps
+To get a daily reminder to read:
 
-- Learn about all available [Features](../features/)
-- Read the [Installation Guide](../installation/) for detailed platform setup
-- Browse the [FAQ](../faq/) for common questions
+1. Open **Settings → Bible Reading Settings**
+2. Scroll to **Daily Reminder**
+3. Toggle it on and choose a time
+
+The notification will show which chapters are scheduled for that day.
+
+## Step 5 — Enable the streak tracker (optional)
+
+1. Open **Settings → Bible Reading Settings**
+2. Toggle on **Reading Streak**
+3. The streak counter appears in the Progress card on the Bible tab
+
+Milestone celebrations appear at 5, 14, 30, 90, 180, and 365 consecutive days.
+
+## Next steps
+
+- Read the full [Features overview](../features/)
+- Check the [FAQ](../faq/) for common questions

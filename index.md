@@ -3,32 +3,35 @@ layout: home
 title: Home
 ---
 
-# Welcome to Read & Preach App
+# Read & Preach
 
-The **Read & Preach App** is your all-in-one companion for reading, studying, and sharing your faith. Whether you're preparing a sermon, following a reading plan, or looking for daily inspiration, Read & Preach has you covered.
+**Read & Preach** is a native iOS app for Jehovah's Witnesses to track their daily ministry service and Bible reading progress — all in one place, fully offline, with no account required.
 
-## What is Read & Preach?
+## What does the app do?
 
-Read & Preach is a mobile application designed to help you:
+| Tab | Purpose |
+|-----|---------|
+| [Report](docs/features#report-tab) | Log daily ministry hours, placements, and Bible studies |
+| [Bible](docs/features#bible-tab) | Track your progress through all 1,189 Bible chapters |
+| [Settings](docs/features#settings) | Configure reading plans, reminders, roles, and more |
 
-- **Read** — Access a full library of scriptures, devotionals, and study materials
-- **Study** — Use built-in tools to annotate, highlight, and take notes
-- **Preach** — Prepare and organize sermons with ease
-- **Share** — Share passages and insights with your community
+## Key highlights
 
-## Getting Started
-
-New to Read & Preach? Check out our [Getting Started guide](docs/getting-started) to install the app and set up your account.
+- **No account needed** — all data stays on your device
+- **iPhone & iPad** — fully adaptive layout for all screen sizes
+- **3 languages** — English, German, French
+- **Export & Import** — back up and restore all your data as a JSON file
+- **Free** — no in-app purchases, no subscription
 
 ## Documentation
 
 | Section | Description |
 |---------|-------------|
-| [Getting Started](docs/getting-started) | Installation and first-time setup |
-| [Features](docs/features) | Full overview of app features |
-| [Installation](docs/installation) | Detailed platform-specific install guides |
+| [Getting Started](docs/getting-started) | First-time setup and configuration |
+| [Features](docs/features) | Full overview of all features |
+| [Installation](docs/installation) | How to install and update the app |
 | [FAQ](docs/faq) | Frequently asked questions |
 
 ## Support
 
-Have a question or found a bug? Visit our [FAQ](docs/faq) or open an issue on [GitHub](https://github.com/dosje/Read-Preach-Documentation/issues).
+Found a bug or have a question? Open an issue on the [documentation repository](https://github.com/dosje/Read-Preach-Documentation/issues).

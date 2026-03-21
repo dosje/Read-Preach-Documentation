@@ -10,62 +10,95 @@ nav_order: 4
 ## General
 
 **What is Read & Preach?**
-Read & Preach is a mobile app designed to help you read scripture, study the Bible, and prepare sermons all in one place.
+Read & Preach is a native iOS app for Jehovah's Witnesses that combines ministry service reporting with Bible reading progress tracking. It works fully offline and requires no account.
 
-**Is Read & Preach free?**
-Read & Preach offers a free tier with core features. Premium features such as advanced commentary, additional translations, and unlimited sermon storage are available via subscription.
+**Is the app free?**
+Yes. Read & Preach is completely free with no in-app purchases and no subscription.
 
 **What platforms is the app available on?**
-Read & Preach is available on iOS (14.0+) and Android (8.0+).
+iPhone and iPad only (iOS 16.0 or later). The app is optimized for both devices with an adaptive layout.
+
+**Is an internet connection required?**
+No. The app works fully offline. An internet connection is only used if you tap a link to open a passage on JW.org or in JW Library.
+
+**What languages are supported?**
+English, German, and French. Change the language in **Settings → General → Language**.
 
 ---
 
-## Account & Data
+## Data & Privacy
 
-**How do I reset my password?**
-1. On the login screen, tap **Forgot Password**
-2. Enter your email address
-3. Check your inbox for a password reset link
-4. Follow the link to create a new password
+**Where is my data stored?**
+All data is stored locally on your device only. Nothing is sent to any server or third party.
 
-**Can I use the app on multiple devices?**
-Yes! Sign in with the same account on any supported device and your data will sync automatically.
+**Does the app collect any personal data or analytics?**
+No. Read & Preach does not collect, track, or share any data.
 
-**What happens to my data if I delete the app?**
-Your account data, notes, highlights, and sermon drafts are stored securely in the cloud. Reinstalling and logging in will restore everything.
+**How do I back up my data?**
+Use the Export function in **Settings → Export & Import**. You can export Ministry Reports, Bible Reading progress (including streak and history), and Memorial Reading data to a JSON file. Store this file anywhere you like — iCloud Drive, email, or the Files app.
+
+**How do I restore my data after reinstalling or on a new device?**
+Use **Settings → Export & Import → Import** and select your previously exported JSON file. All selected data will be restored.
+
+**What happens if I delete the app?**
+All data on your device is permanently deleted. Export your data first if you want to keep it.
 
 ---
 
-## Content & Features
+## Report Tab
 
-**Which Bible translations are available?**
-Read & Preach includes several translations including KJV, NIV, ESV, NKJV, and more. The full list is available in the app under **Library → Translations**.
+**How do I set my monthly hour goal?**
+Go to **Settings → Report Settings → Recurring Role**, select your role (Publisher, Auxiliary Pioneer, or Regular Pioneer), and set the start month. Each role has a defined monthly hour requirement.
 
-**Can I use the app offline?**
-Yes. Download content for offline use via **Settings → Downloads**. Once downloaded, you can read and access your notes without an internet connection.
+**Can I log data for past days?**
+Yes. Tap any day in the calendar to switch to that day and enter or edit data.
 
-**How do I export a sermon?**
-Open the sermon in the Sermon Builder, tap the **Share** icon in the top right, and choose **Export as PDF** or **Share via Email**.
+**What is a one-time assignment?**
+A one-time assignment lets you set a temporary Auxiliary Pioneer month (15 or 30 hours) without changing your recurring role. Configure it in **Settings → Report Settings → One-Time Assignment**.
+
+---
+
+## Bible Tab
+
+**How do I set up a reading plan?**
+Open **Settings → Bible Reading Settings**, choose a reading mode and duration, then tap **Generate Plan**. Your daily chapters will then appear in the Bible tab.
+
+**What reading modes are available?**
+- **Sequential** — Genesis to Revelation
+- **NT → OT** — New Testament first, then Old Testament
+- **Custom** — drag books into your preferred order
+- **Free** — no schedule, mark chapters at your own pace
+
+**What happens if I miss a day in my reading plan?**
+Missed chapters are automatically rescheduled into upcoming days while keeping your target daily pace. You do not need to do anything manually.
+
+**How does the streak work?**
+The streak counts consecutive days on which you read at least one chapter. A 2-day grace period applies — if you miss a day, the streak does not reset immediately. You will receive a reminder notification on the first and second missed day (if Daily Reminder is enabled). The streak resets on the third missed day.
+
+**How do I see which chapters I have already read and when?**
+Tap **View History** in the Progress card on the Bible tab. The history sheet shows a daily log of all chapters read (grouped by date) and a log of every time you completed the entire Bible.
+
+**What is the Memorial Tracker?**
+The Memorial Tracker appears during the Memorial season (approximately 7 days before Nisan 14). It shows the assigned Bible passages and chapters from *Jesus — The Way, the Truth, the Life* for each day. It resets automatically each year after the Memorial date.
 
 ---
 
 ## Troubleshooting
 
-**The app won't open / keeps crashing**
-- Try force-closing the app and reopening it
-- Ensure your device OS is up to date
-- Try reinstalling the app (your data is saved to the cloud)
+**The app shows Jeremiah chapters after I just started reading Genesis.**
+This can happen if you had a previous reading plan from an earlier version of the app. Go to **Settings → Bible Reading Settings** and tap **Recalculate Plan** to regenerate a clean schedule based on your current progress.
 
-**My data isn't syncing**
-- Check that you have an active internet connection
-- Sign out and sign back in to force a sync
-- If the issue persists, contact support
+**My streak reset even though I read yesterday.**
+The streak allows up to 2 missed days before resetting. If it reset, it means 3 or more consecutive days passed without a chapter being marked as read.
 
-**I can't find a Bible translation I need**
-Check **Library → Translations** for the full list. If a specific translation isn't available, please submit a request via [GitHub Issues](https://github.com/dosje/Read-Preach-Documentation/issues).
+**The Daily Reminder notification is not showing today's chapters.**
+Make sure you have granted notification permission to the app in **iPhone Settings → Notifications → Read & Preach**. Also check that the reminder is enabled in **Settings → Bible Reading Settings → Daily Reminder**.
+
+**The app is crashing on launch.**
+Try force-closing the app and reopening it. If the issue persists, try reinstalling (export your data first).
 
 ---
 
 ## Contact & Support
 
-Still have questions? Open an issue on our [GitHub repository](https://github.com/dosje/Read-Preach-Documentation/issues) or reach out through the app's built-in feedback form under **Settings → Feedback**.
+Found a bug or have a suggestion? Open an issue on the [documentation GitHub repository](https://github.com/dosje/Read-Preach-Documentation/issues).
