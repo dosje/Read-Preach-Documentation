@@ -1,0 +1,22 @@
+title: Read & Preach App
+description: Official documentation for the Read & Preach App
+baseurl: "/Read-Preach-Documentation"
+url: "https://dosje.github.io"
+
+theme: minima
+
+# Navigation
+header_pages:
+  - docs/getting-started.md
+  - docs/features.md
+  - docs/installation.md
+  - docs/faq.md
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
