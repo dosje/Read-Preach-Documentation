@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Premiers pas
 permalink: /fr/docs/getting-started/
 ---

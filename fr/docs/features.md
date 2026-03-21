@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Fonctionnalités
 permalink: /fr/docs/features/
 ---

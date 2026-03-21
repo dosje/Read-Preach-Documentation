@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Erste Schritte
 permalink: /de/docs/getting-started/
 ---

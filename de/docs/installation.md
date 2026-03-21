@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Installation
 permalink: /de/docs/installation/
 ---

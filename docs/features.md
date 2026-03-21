@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Features
 permalink: /docs/features/
 nav_order: 2
