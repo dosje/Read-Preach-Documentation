@@ -5,7 +5,7 @@ title: Home
 
 # Read & Preach
 
-**Read & Preach** is a native iOS app for Jehovah's Witnesses to track their daily ministry service and Bible reading progress — all in one place, fully offline, with no account required.
+**Read & Preach** is a native iOS app for brothers to track their daily ministry service and Bible reading progress — all in one place, fully offline, with no account required.
 
 ## What does the app do?
 
@@ -34,4 +34,4 @@ title: Home
 
 ## Support
 
-Found a bug or have a question? Open an issue on the [documentation repository](https://github.com/dosje/Read-Preach-Documentation/issues).
+Found a bug or have a question? Contact us via [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) or visit our [contact page](https://www.read-preach.com/contactus).

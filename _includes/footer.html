@@ -1,0 +1,65 @@
+<footer class="site-footer">
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+
+      <!-- Left: Copyright -->
+      <div class="footer-col footer-col-left">
+        <p>Copyright &copy; {{ site.time | date: "%Y" }} Read &amp; Preach &mdash; Jeff Dostert</p>
+      </div>
+
+      <!-- Right: Language switcher -->
+      <div class="footer-col footer-col-right">
+        <p class="lang-switcher">
+          {% assign current = page.url %}
+          {% if current contains '/de/' %}
+            <a href="{{ current | replace: '/de/', '/' | prepend: site.baseurl }}">EN</a>
+            &nbsp;|&nbsp;
+            <strong>DE</strong>
+            &nbsp;|&nbsp;
+            <a href="{{ current | replace: '/de/', '/fr/' | prepend: site.baseurl }}">FR</a>
+          {% elsif current contains '/fr/' %}
+            <a href="{{ current | replace: '/fr/', '/' | prepend: site.baseurl }}">EN</a>
+            &nbsp;|&nbsp;
+            <a href="{{ current | replace: '/fr/', '/de/' | prepend: site.baseurl }}">DE</a>
+            &nbsp;|&nbsp;
+            <strong>FR</strong>
+          {% else %}
+            <strong>EN</strong>
+            &nbsp;|&nbsp;
+            <a href="{{ page.url | replace: site.baseurl, '' | prepend: site.baseurl | prepend: '/de' }}">DE</a>
+            &nbsp;|&nbsp;
+            <a href="{{ page.url | replace: site.baseurl, '' | prepend: site.baseurl | prepend: '/fr' }}">FR</a>
+          {% endif %}
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+</footer>
+
+<style>
+  .footer-col-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .footer-col-left p,
+  .footer-col-right p {
+    margin: 0;
+    font-size: 0.875rem;
+    color: #828282;
+  }
+  .lang-switcher a {
+    color: #828282;
+    text-decoration: none;
+  }
+  .lang-switcher a:hover {
+    text-decoration: underline;
+  }
+  .lang-switcher strong {
+    color: #424242;
+  }
+</style>
