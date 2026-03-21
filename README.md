@@ -1,6 +1,6 @@
 # Ministry & Bible Reading Tracker
 
-A mobile app for tracking ministry service hours and Bible reading progress.
+The offical documenation for the mobile app for tracking ministry service hours and Bible reading progress called "Read & Preach".
 
 ## Features
 
