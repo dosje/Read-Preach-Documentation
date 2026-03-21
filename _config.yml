@@ -1,7 +1,7 @@
 title: Read & Preach App
 description: Official documentation for the Read & Preach App
-baseurl: "/Read-Preach-Documentation"
-url: "https://dosje.github.io"
+baseurl: ""
+url: "https://docs.read-preach.com"
 
 theme: minima
 
