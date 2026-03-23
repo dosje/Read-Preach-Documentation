@@ -4,6 +4,28 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
+    <!-- Detect current language once, used for both nav links and language switcher -->
+    {%- assign current_url = page.url -%}
+    {%- if current_url contains '/de/' -%}
+      {%- assign active_lang = 'DE' -%}
+      {%- assign lang_prefix = '/de' -%}
+      {%- assign en_url = current_url | replace: '/de/', '/' -%}
+      {%- assign de_url = '' -%}
+      {%- assign fr_url = current_url | replace: '/de/', '/fr/' -%}
+    {%- elsif current_url contains '/fr/' -%}
+      {%- assign active_lang = 'FR' -%}
+      {%- assign lang_prefix = '/fr' -%}
+      {%- assign en_url = current_url | replace: '/fr/', '/' -%}
+      {%- assign de_url = current_url | replace: '/fr/', '/de/' -%}
+      {%- assign fr_url = '' -%}
+    {%- else -%}
+      {%- assign active_lang = 'EN' -%}
+      {%- assign lang_prefix = '' -%}
+      {%- assign en_url = '' -%}
+      {%- assign de_url = '/de' | append: current_url -%}
+      {%- assign fr_url = '/fr' | append: current_url -%}
+    {%- endif -%}
+
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {{- site.title | escape -}}
     </a>
@@ -24,30 +46,13 @@
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">
+            <a class="page-link" href="{{ lang_prefix }}{{ my_page.url | relative_url }}">
               {{- my_page.title | escape -}}
             </a>
           {%- endif -%}
         {%- endfor -%}
 
         <!-- Language Switcher Dropdown -->
-        {%- assign current_url = page.url -%}
-        {%- if current_url contains '/de/' -%}
-          {%- assign active_lang = 'DE' -%}
-          {%- assign en_url = current_url | replace: '/de/', '/' -%}
-          {%- assign de_url = '' -%}
-          {%- assign fr_url = current_url | replace: '/de/', '/fr/' -%}
-        {%- elsif current_url contains '/fr/' -%}
-          {%- assign active_lang = 'FR' -%}
-          {%- assign en_url = current_url | replace: '/fr/', '/' -%}
-          {%- assign de_url = current_url | replace: '/fr/', '/de/' -%}
-          {%- assign fr_url = '' -%}
-        {%- else -%}
-          {%- assign active_lang = 'EN' -%}
-          {%- assign en_url = '' -%}
-          {%- assign de_url = '/de' | append: current_url -%}
-          {%- assign fr_url = '/fr' | append: current_url -%}
-        {%- endif -%}
 
         <div class="lang-dropdown">
           <button class="lang-dropdown-btn" aria-label="Select language">

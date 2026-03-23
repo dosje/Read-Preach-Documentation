@@ -125,4 +125,20 @@
     color: #1a73e8;
     font-weight: 600;
   }
+
+  /* Mobile: stack footer columns and prevent dropdown from going off-screen */
+  @media (max-width: 600px) {
+    .footer-col-wrapper {
+      flex-direction: column;
+      gap: 8px;
+      align-items: flex-start;
+    }
+    .lang-dropdown--footer {
+      overflow: visible;
+    }
+    .lang-dropdown-menu--footer {
+      right: auto;
+      left: 0;
+    }
+  }
 </style>
