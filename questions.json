@@ -1,5 +1,45 @@
 [
   {
+    "id": "gen_1_q1",
+    "chapterKey": "Genesis|1",
+    "questionText": "On which creative day did God make the sun, moon, and stars?",
+    "options": [
+      "Day 2",
+      "Day 3",
+      "Day 4",
+      "Day 6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "On the fourth day God made the two great luminaries and the stars to give light on the earth and to mark seasons, days, and years.",
+    "sourceReference": "Genesis 1:14-19",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01001014&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
+    "id": "gen_1_q2",
+    "chapterKey": "Genesis|1",
+    "questionText": "What phrase is repeated after each day of creation to show God's approval?",
+    "options": [
+      "\"And it was so\"",
+      "\"God saw that it was good\"",
+      "\"Let there be light\"",
+      "\"God blessed it\""
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "After each creative work, the account says 'God saw that it was good,' showing divine satisfaction with his handiwork.",
+    "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01001004&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
     "id": "gen_1_q3",
     "chapterKey": "Genesis|1",
     "questionText": "In whose image was mankind created?",
@@ -16,6 +56,86 @@
       "https://www.jw.org/finder?bible=01001027&wtlocale=E"
     ],
     "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
+    "id": "gen_2_q1",
+    "chapterKey": "Genesis|2",
+    "questionText": "From what material did God form the first man?",
+    "options": [
+      "Clay from a river",
+      "Dust from the ground",
+      "Sand from the sea",
+      "Stone from a mountain"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Genesis 2:7 says God 'formed man from the dust of the ground' and breathed into his nostrils the breath of life.",
+    "sourceReference": "Genesis 2:7",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01002007&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
+    "id": "gen_2_q2",
+    "chapterKey": "Genesis|2",
+    "questionText": "What was the name of the garden where God placed Adam?",
+    "options": [
+      "Eden",
+      "Canaan",
+      "Sharon",
+      "Goshen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "God planted a garden in Eden, eastward, and placed the man he had formed there (Genesis 2:8).",
+    "sourceReference": "Genesis 2:8, 15",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01002008&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
+    "id": "gen_3_q1",
+    "chapterKey": "Genesis|3",
+    "questionText": "What did God say would happen to Adam if he ate from the tree of the knowledge of good and bad?",
+    "options": [
+      "He would become wise",
+      "He would die",
+      "He would be banished immediately",
+      "He would lose his memory"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "God warned: 'For in the day you eat from it you will certainly die' (Genesis 2:17). This introduced the prospect of death into human history.",
+    "sourceReference": "Genesis 2:17; 3:3",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01002017&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
+    "id": "gen_3_q2",
+    "chapterKey": "Genesis|3",
+    "questionText": "What did God promise in Genesis 3:15 regarding the serpent's \"offspring\" and the woman's \"offspring\"?",
+    "options": [
+      "They would live in peace",
+      "The woman's offspring would crush the serpent's head",
+      "The serpent's offspring would rule the earth",
+      "Both would be removed from the garden"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Genesis 3:15 records the first Messianic prophecy: the offspring of the woman would strike the serpent's head, pointing to the crushing of Satan by Jesus Christ.",
+    "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01003015&wtlocale=E"
+    ],
+    "difficulty": "intermediate",
     "questionType": "single",
     "correctAnswerIndices": []
   },
