@@ -1,5 +1,25 @@
 [
   {
+    "id": "gen_1_q3",
+    "chapterKey": "Genesis|1",
+    "questionText": "In whose image was mankind created?",
+    "options": [
+      "The angels",
+      "God",
+      "The animals",
+      "Adam"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Genesis 1:27 states: 'God created man in his image, in God's image he created him; male and female he created them.'",
+    "sourceReference": "Genesis 1:27; Insight on the Scriptures, Vol. 2, \"Man\"",
+    "sourceURLs": [
+      "https://www.jw.org/finder?bible=01001027&wtlocale=E"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
+  },
+  {
     "id": "act_2_q1",
     "chapterKey": "Acts|2",
     "questionText": "What event happened on the day of Pentecost as described in Acts 2?",
