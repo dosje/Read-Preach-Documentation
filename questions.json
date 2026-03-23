@@ -1,0 +1,35 @@
+[
+  {
+    "id": "act_2_q1",
+    "chapterKey": "Acts|2",
+    "questionText": "What event happened on the day of Pentecost as described in Acts 2?",
+    "options": [
+      "Jesus appeared visibly to all in Jerusalem",
+      "The holy spirit was poured out and the disciples spoke in different languages",
+      "The apostles performed a mass healing at the temple",
+      "An angel announced the resurrection to the crowd"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "On Pentecost 33 CE the holy spirit was poured out, the disciples spoke in tongues (different languages), and about 3,000 were baptised that day (Acts 2:1-4, 41).",
+    "sourceReference": "Acts 2:1-4, 41",
+    "sourceURLs": [
+      "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+    ],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": [],
+    "translations": {
+      "de": {
+        "questionText": "Welches Ereignis trug sich am Pfingsttag zu, wie es in der Apostelgeschichte 2 beschrieben wird?",
+        "options": [
+          "Jesus erschien allen sichtbar in Jerusalem.",
+          "Der Heilige Geist wurde ausgegossen und die Jünger sprachen in verschiedenen Sprachen.",
+          "Die Apostel führten im Tempel eine Massenheilung durch.",
+          "Ein Engel verkündete der Menge die Auferstehung."
+        ],
+        "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die Jünger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
+        "sourceReference": "Apostelgeschichte 2:1-4, 41"
+      }
+    }
+  }
+]
