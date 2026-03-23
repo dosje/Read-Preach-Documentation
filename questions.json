@@ -171,5 +171,23 @@
         "sourceReference": "Apostelgeschichte 2:1-4, 41"
       }
     }
+  },
+  {
+    "id": "gen_1_q4",
+    "chapterKey": "Genesis|1",
+    "questionText": "On which \"day\" where humans created?",
+    "options": [
+      "The 5th day.",
+      "The 2nd day.",
+      "The 3rd day.",
+      "The 7th day."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When you read through the verses, you can see that is says that it was on 5th day, that Jehova created us humans.",
+    "sourceReference": "Genesis 1:26-31",
+    "sourceURLs": [],
+    "difficulty": "basic",
+    "questionType": "single",
+    "correctAnswerIndices": []
   }
 ]
