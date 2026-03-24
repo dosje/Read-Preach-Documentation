@@ -10,6 +10,7 @@
             "Day 6"
         ],
         "correctAnswerIndex": 2,
+        "correctAnswerIndices": [],
         "explanation": "On the fourth day God made the two great luminaries and the stars to give light on the earth and to mark seasons, days, and years.",
         "sourceReference": "Genesis 1:14-19",
         "sourceURLs": [
@@ -17,7 +18,6 @@
         ],
         "difficulty": "basic",
         "questionType": "single",
-        "correctAnswerIndices": [],
         "translations": []
     },
     {
