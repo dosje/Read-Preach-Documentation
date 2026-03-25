@@ -361,7 +361,7 @@
             "The 6th day.",
             "The 7th day."
         ],
-        "correctAnswerIndex": 2,
+        "correctAnswerIndex": 1,
         "difficulty": "basic",
         "questionType": "single",
         "sortOrder": 0,
@@ -375,6 +375,7 @@
                     "Der 6. Tag.",
                     "Der 7. Tag."
                 ],
+                "sourceURLs": [],
                 "explanation": "Nach Genesis 1:26-31 schuf Gott den Menschen am sechsten Tag der Schöpfung.",
                 "questionText": "An welchem Tag wurde der Mensch erschaffen?",
                 "sourceReference": "Genesis 1:26-31"
@@ -386,6 +387,7 @@
                     "Le 6ème jour.",
                     "Le 7e jour."
                 ],
+                "sourceURLs": [],
                 "explanation": "Selon la Genèse 1:26-31, Dieu a créé l'homme le sixième jour de la création.",
                 "questionText": "Quel est le jour de la création de l'homme ?",
                 "sourceReference": "Genèse 1:26-31"
@@ -565,6 +567,47 @@
                 "explanation": "Genèse 3:15 rapporte la première prophétie messianique : la descendance de la femme frappera la tête du serpent, évoquant l'écrasement de Satan par Jésus-Christ.",
                 "questionText": "Qu'est-ce que Dieu a promis dans Genèse 3:15 concernant la \"descendance\" du serpent et la \"descendance\" de la femme ?",
                 "sourceReference": "Genèse 3:15 ; Apocalypse 12:9 ; Regard sur les Ecritures, vol. 1, \"Inimitié\"."
+            }
+        }
+    },
+    {
+        "id": "gen_3_q3",
+        "chapterKey": "Genesis|3",
+        "questionText": "Which wild animal was the most cautious of the field, that Jehovah God has made?",
+        "options": [
+            "The lion",
+            "The lizard",
+            "The serpent",
+            "The ant"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "If you read Genesis 3:1 it will say: \"Now the serpent was the most cautious of all the wild animals of the field that Jehovah God had made\".",
+        "sourceReference": "Gensis 3:1",
+        "translations": {
+            "de": {
+                "options": [
+                    "Der Löwe",
+                    "Die Eidechse",
+                    "Die Schlange",
+                    "Die Ameise"
+                ],
+                "explanation": "Wenn Sie Genesis 3:1 lesen, steht dort: \"Die Schlange aber war das vorsichtigste unter allen wilden Tieren des Feldes, die Jehova Gott gemacht hatte\".",
+                "questionText": "Welches wilde Tier war das vorsichtigste auf dem Feld, das Jehova Gott gemacht hat?",
+                "sourceReference": "Gensis 3:1"
+            },
+            "fr": {
+                "options": [
+                    "Le lion",
+                    "Le lézard",
+                    "Le serpent",
+                    "La fourmi"
+                ],
+                "explanation": "Si vous lisez Genèse 3:1, vous lirez ce qui suit : \"Le serpent était le plus prudent de tous les animaux sauvages des champs que Jéhovah Dieu avait faits\".",
+                "questionText": "Quel est l'animal sauvage le plus prudent des champs que Jéhovah Dieu a créés ?",
+                "sourceReference": "Gensis 3:1"
             }
         }
     },
