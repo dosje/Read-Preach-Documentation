@@ -583,7 +583,31 @@
         "questionType": "single",
         "sortOrder": 0,
         "explanation": "Test",
-        "sourceReference": "Test"
+        "sourceReference": "Test",
+        "translations": {
+            "de": {
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "explanation": "Test",
+                "questionText": "Test",
+                "sourceReference": "Test"
+            },
+            "fr": {
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "explanation": "Test",
+                "questionText": "Test",
+                "sourceReference": "Test"
+            }
+        }
     },
     {
         "id": "joh_3_q1",
