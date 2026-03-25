@@ -94,6 +94,47 @@
         }
     },
     {
+        "id": "exo_1_q1",
+        "chapterKey": "Exodus|1",
+        "questionText": "Test",
+        "options": [
+            "t",
+            "z",
+            "h",
+            "j"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "hh",
+        "sourceReference": "gg",
+        "translations": {
+            "de": {
+                "options": [
+                    "t",
+                    "z",
+                    "h",
+                    "j"
+                ],
+                "explanation": "hh",
+                "questionText": "Test",
+                "sourceReference": "gg"
+            },
+            "fr": {
+                "options": [
+                    "t",
+                    "z",
+                    "h",
+                    "j"
+                ],
+                "explanation": "hh",
+                "questionText": "Test",
+                "sourceReference": "gg"
+            }
+        }
+    },
+    {
         "id": "exo_3_q1",
         "chapterKey": "Exodus|3",
         "questionText": "What did God tell Moses the divine name is?",
