@@ -1,5 +1,129 @@
 [
     {
+        "id": "act_2_q1",
+        "chapterKey": "Acts|2",
+        "questionText": "What event happened on the day of Pentecost as described in Acts 2?",
+        "options": [
+            "Jesus appeared visibly to all in Jerusalem",
+            "The holy spirit was poured out and the disciples spoke in different languages",
+            "The apostles performed a mass healing at the temple",
+            "An angel announced the resurrection to the crowd"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "On Pentecost 33 CE the holy spirit was poured out, the disciples spoke in tongues (different languages), and about 3,000 were baptised that day (Acts 2:1-4, 41).",
+        "sourceReference": "Acts 2:1-4, 41",
+        "sourceURLs": [
+            "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Jesus erschien allen sichtbar in Jerusalem.",
+                    "Der Heilige Geist wurde ausgegossen und die JÃ¼nger sprachen in verschiedenen Sprachen.",
+                    "Die Apostel fÃ¼hrten im Tempel eine Massenheilung durch.",
+                    "Ein Engel verkÃ¼ndete der Menge die Auferstehung."
+                ],
+                "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die JÃ¼nger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
+                "questionText": "Welches Ereignis trug sich am Pfingsttag zu, wie es in der Apostelgeschichte 2 beschrieben wird?",
+                "sourceReference": "Apostelgeschichte 2:1-4, 41"
+            },
+            "fr": {
+                "options": [
+                    "Jésus est apparu visiblement à tous les habitants de Jérusalem",
+                    "Le Saint-Esprit a été répandu et les disciples ont parlé en différentes langues.",
+                    "Les apôtres procèdent à une guérison collective au temple",
+                    "Un ange annonce la résurrection à la foule"
+                ],
+                "explanation": "Le jour de la Pentecôte 33 CE, le Saint-Esprit a été répandu, les disciples ont parlé en langues (différentes langues) et environ 3 000 personnes ont été baptisées ce jour-là (Actes 2:1-4, 41).",
+                "questionText": "Quel événement s'est produit le jour de la Pentecôte, tel qu'il est décrit dans Actes 2 ?",
+                "sourceReference": "Actes 2:1-4, 41"
+            }
+        }
+    },
+    {
+        "id": "act_2_q2",
+        "chapterKey": "Acts|2",
+        "questionText": "Peter quoted Psalm 16 in Acts 2 to prove what point about Jesus?",
+        "options": [
+            "That Jesus was greater than Moses",
+            "That Jesus was the promised Messiah who would be resurrected",
+            "That Jesus had existed before Abraham",
+            "That Jesus fulfilled the Sabbath requirement"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Peter argued that David, speaking prophetically, foretold the resurrection of the Christ â€” since David himself died and his tomb was still there, the prophecy must refer to Jesus (Acts 2:25-32).",
+        "sourceReference": "Acts 2:25-32; Psalm 16:8-11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=44002025&wtlocale=E"
+        ]
+    },
+    {
+        "id": "exo_3_q1",
+        "chapterKey": "Exodus|3",
+        "questionText": "What did God tell Moses the divine name is?",
+        "options": [
+            "El Shaddai",
+            "Adonai",
+            "I Will Become What I Choose to Become (YHWH)",
+            "Jehovah of Armies"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "At the burning bush God revealed his name as 'I Will Become What I Choose to Become' (YHWH / Jehovah), emphasising his ability to fulfil his purposes.",
+        "sourceReference": "Exodus 3:14-15; Insight on the Scriptures, Vol. 2, \"Jehovah\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02003014&wtlocale=E"
+        ]
+    },
+    {
+        "id": "exo_20_q1",
+        "chapterKey": "Exodus|20",
+        "questionText": "What is the first of the Ten Commandments?",
+        "options": [
+            "Do not make idols",
+            "Remember the Sabbath day",
+            "You must have no other gods besides God",
+            "Do not take the name of God in vain"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The first commandment is: 'You must have no other gods besides me' (Exodus 20:3), establishing exclusive devotion to Jehovah.",
+        "sourceReference": "Exodus 20:3",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02020003&wtlocale=E"
+        ]
+    },
+    {
+        "id": "exo_20_q2",
+        "chapterKey": "Exodus|20",
+        "questionText": "According to the Ten Commandments, what should be done on the Sabbath day?",
+        "options": [
+            "Offer a sacrifice at the altar",
+            "Fast and pray",
+            "Cease from all work and keep it holy",
+            "Travel to the tabernacle"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The fourth commandment required that no work be done on the Sabbath â€” neither by the Israelite, his household, nor his animals â€” because God rested on the seventh day (Exodus 20:8-11).",
+        "sourceReference": "Exodus 20:8-11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02020008&wtlocale=E"
+        ]
+    },
+    {
         "id": "gen_1_q1",
         "chapterKey": "Genesis|1",
         "questionText": "On which creative day did God make the sun, moon, and stars?",
@@ -250,6 +374,306 @@
         "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01003015&wtlocale=E"
+        ]
+    },
+    {
+        "id": "joh_3_q1",
+        "chapterKey": "John|3",
+        "questionText": "What did Jesus tell Nicodemus a person must do to see the Kingdom of God?",
+        "options": [
+            "Observe all the Mosaic law",
+            "Be born again (from water and spirit)",
+            "Perform many miraculous deeds",
+            "Give all his possessions to the poor"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus said: 'Unless anyone is born of water and spirit, he cannot enter into the Kingdom of God' (John 3:5), referring to the anointing by holy spirit required for those who will rule in heaven.",
+        "sourceReference": "John 3:3-6",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43003003&wtlocale=E"
+        ]
+    },
+    {
+        "id": "joh_3_q2",
+        "chapterKey": "John|3",
+        "questionText": "What does John 3:16 say God gave because he loved the world so much?",
+        "options": [
+            "His law and commandments",
+            "His angels to protect mankind",
+            "His only-begotten Son",
+            "The holy spirit without measure"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "'For God loved the world so much that he gave his only-begotten Son, so that everyone exercising faith in him might not be destroyed but have everlasting life' (John 3:16).",
+        "sourceReference": "John 3:16",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43003016&wtlocale=E"
+        ]
+    },
+    {
+        "id": "joh_11_q1",
+        "chapterKey": "John|11",
+        "questionText": "What miracle did Jesus perform that demonstrated his power over death, shortly before his own death?",
+        "options": [
+            "He healed ten lepers",
+            "He raised Lazarus from the dead after four days",
+            "He restored sight to a man born blind",
+            "He fed 5,000 men with five loaves and two fish"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus raised Lazarus who had been in the tomb for four days (John 11:39, 43-44). This miracle strengthened faith and foreshadowed the resurrection Jesus himself would experience.",
+        "sourceReference": "John 11:38-44",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43011038&wtlocale=E"
+        ]
+    },
+    {
+        "id": "joh_17_q1",
+        "chapterKey": "John|17",
+        "questionText": "In his prayer to his Father in John 17, what did Jesus say constitutes everlasting life?",
+        "options": [
+            "Performing many good works",
+            "Keeping the Sabbath and the festivals",
+            "Taking in knowledge of the Father and the Son",
+            "Baptism and regular prayer"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus prayed: 'This means everlasting life, their taking in knowledge of you, the only true God, and of the one whom you sent, Jesus Christ' (John 17:3). Knowing God and Christ is foundational to eternal life.",
+        "sourceReference": "John 17:3",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43017003&wtlocale=E"
+        ]
+    },
+    {
+        "id": "mat_5_q1",
+        "chapterKey": "Matthew|5",
+        "questionText": "According to Jesus' Sermon on the Mount, who are \"the meek\"?",
+        "options": [
+            "Those who are mourning",
+            "Those who hunger and thirst for righteousness",
+            "Those who will inherit the earth",
+            "Those who are persecuted"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 5:5: 'Happy are the mild-tempered, since they will inherit the earth.' The meek â€” those who are humble and submissive to God â€” receive the earth as their inheritance.",
+        "sourceReference": "Matthew 5:5; Psalm 37:11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40005005&wtlocale=E"
+        ]
+    },
+    {
+        "id": "mat_5_q2",
+        "chapterKey": "Matthew|5",
+        "questionText": "In the Sermon on the Mount, Jesus said his disciples are the \"salt of the earth.\" What does this imply about their role?",
+        "options": [
+            "They should be numerous like grains of salt",
+            "They preserve and add moral flavour to society",
+            "They should keep themselves pure and separate",
+            "They bring a sharp or difficult message"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Salt was used for preservation and flavouring. Jesus meant his followers would exert a preserving, morally wholesome influence on those around them.",
+        "sourceReference": "Matthew 5:13",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40005013&wtlocale=E"
+        ]
+    },
+    {
+        "id": "mat_6_q1",
+        "chapterKey": "Matthew|6",
+        "questionText": "In the Lord's Prayer, what is the first petition Jesus taught his disciples to make?",
+        "options": [
+            "Give us today our bread for this day",
+            "Let your name be sanctified",
+            "Forgive us our debts",
+            "Deliver us from the wicked one"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 6:9 shows the first petition is 'Let your name be sanctified' â€” honouring and clearing God's name comes before requests for personal needs.",
+        "sourceReference": "Matthew 6:9",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40006009&wtlocale=E"
+        ]
+    },
+    {
+        "id": "mat_6_q2",
+        "chapterKey": "Matthew|6",
+        "questionText": "What does Jesus say about storing up treasures on earth versus in heaven?",
+        "options": [
+            "We should equally value both earthly and heavenly treasures",
+            "Earthly treasures bring lasting happiness",
+            "Heavenly treasures cannot be corrupted by moth, rust, or thieves",
+            "We should give half our wealth to the poor"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus contrasts earthly treasures â€” which rust, are eaten by moths, and can be stolen â€” with heavenly treasures, which are permanent. He concludes: 'Where your treasure is, there your heart will be also' (Matthew 6:20-21).",
+        "sourceReference": "Matthew 6:19-21",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40006019&wtlocale=E"
+        ]
+    },
+    {
+        "id": "mat_24_q1",
+        "chapterKey": "Matthew|24",
+        "questionText": "In Matthew 24, what sign did Jesus give that would indicate \"the conclusion of the system of things\"?",
+        "options": [
+            "A single catastrophic earthquake",
+            "A combination of wars, food shortages, earthquakes, pestilences, and increased lawlessness",
+            "The rebuilding of the Jerusalem temple",
+            "A great comet appearing in the sky"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 24:7-12 lists wars, food shortages, earthquakes, pestilences, false prophets, and increased lawlessness as parts of the composite sign of the last days.",
+        "sourceReference": "Matthew 24:3-14",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40024003&wtlocale=E"
+        ]
+    },
+    {
+        "id": "psa_23_q1",
+        "chapterKey": "Psalms|23",
+        "questionText": "How does David describe Jehovah at the opening of Psalm 23?",
+        "options": [
+            "My King",
+            "My Shepherd",
+            "My Rock",
+            "My Light"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Psalm 23 opens: 'Jehovah is my Shepherd. I will lack nothing.' David draws on his own experience as a shepherd to illustrate God's tender care.",
+        "sourceReference": "Psalm 23:1",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19023001&wtlocale=E"
+        ]
+    },
+    {
+        "id": "psa_23_q2",
+        "chapterKey": "Psalms|23",
+        "questionText": "What does Psalm 23:4 say David will not fear, even when walking through the valley of deep shadow?",
+        "options": [
+            "Enemies",
+            "Death",
+            "Darkness",
+            "Calamity"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "'Even if I walk in the valley of deep shadow, I fear no calamity' â€” the phrase often rendered 'valley of the shadow of death' reflects trust in God's presence even in the darkest trials.",
+        "sourceReference": "Psalm 23:4",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19023004&wtlocale=E"
+        ]
+    },
+    {
+        "id": "psa_83_q1",
+        "chapterKey": "Psalms|83",
+        "questionText": "What request does Psalm 83 make regarding God's name?",
+        "options": [
+            "That his name be praised in all the earth",
+            "That people may know that Jehovah alone is the Most High over all the earth",
+            "That his name be hidden from the nations",
+            "That his name be written in the heavens"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Psalm 83:18 says: 'May people know that you, whose name is Jehovah, you alone are the Most High over all the earth.' This verse preserves God's personal name in many Bible translations.",
+        "sourceReference": "Psalm 83:18",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19083018&wtlocale=E"
+        ]
+    },
+    {
+        "id": "rev_21_q1",
+        "chapterKey": "Revelation|21",
+        "questionText": "What does Revelation 21:4 promise God will do away with?",
+        "options": [
+            "The sea and the mountains",
+            "Death, mourning, outcry, and pain",
+            "The sun and moon (replaced by God's glory)",
+            "All memory of the former world"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Revelation 21:4 promises: 'He will wipe out every tear from their eyes, and death will be no more, neither will mourning nor outcry nor pain be anymore.' This describes conditions in the new world.",
+        "sourceReference": "Revelation 21:3-4",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66021003&wtlocale=E"
+        ]
+    },
+    {
+        "id": "rev_21_q2",
+        "chapterKey": "Revelation|21",
+        "questionText": "What does the \"new Jerusalem\" descending from heaven in Revelation 21 represent?",
+        "options": [
+            "A literal rebuilt city in Palestine",
+            "The heavenly government â€” Christ and his 144,000 co-rulers â€” coming to rule over the earth",
+            "The church as a spiritual community",
+            "The angels sent to protect the earth"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The new Jerusalem symbolises the Kingdom of God â€” Jesus Christ and the 144,000 anointed ones â€” descending to bring righteous rule and blessing to all the earth (Revelation 21:2; 3:12).",
+        "sourceReference": "Revelation 21:2; 3:12; Insight on the Scriptures, Vol. 2, \"New Jerusalem\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66021002&wtlocale=E"
+        ]
+    },
+    {
+        "id": "rev_22_q1",
+        "chapterKey": "Revelation|22",
+        "questionText": "What does the river of water of life in Revelation 22 flowing from God's throne represent?",
+        "options": [
+            "Literal water for the new earth",
+            "God's life-giving provisions â€” including the ransom and Kingdom blessings â€” that restore humans to perfect life",
+            "The holy spirit flowing to the angels",
+            "The prayers of all the holy ones"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The river of life proceeding from God's throne symbolises the life-giving blessings God provides through his Kingdom â€” ultimately leading to the full restoration of human life.",
+        "sourceReference": "Revelation 22:1-2; Ezekiel 47:1-12",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66022001&wtlocale=E"
         ]
     }
 ]
