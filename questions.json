@@ -94,6 +94,27 @@
         }
     },
     {
+        "id": "exo_1_q1",
+        "chapterKey": "Exodus|1",
+        "questionText": "Test Frage 1",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "multiple",
+        "sortOrder": 0,
+        "explanation": "Test",
+        "sourceReference": "Trd",
+        "correctAnswerIndices": [
+            0,
+            1
+        ]
+    },
+    {
         "id": "exo_3_q1",
         "chapterKey": "Exodus|3",
         "questionText": "What did God tell Moses the divine name is?",
