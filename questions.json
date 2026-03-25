@@ -61,7 +61,31 @@
         "sourceReference": "Acts 2:25-32; Psalm 16:8-11",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=44002025&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Dass Jesus größer war als Mose",
+                    "dass Jesus der verheißene Messias war, der wieder auferstehen würde",
+                    "Dass Jesus schon vor Abraham existiert hat",
+                    "Dass Jesus das Sabbatgebot erfüllt hat"
+                ],
+                "explanation": "Petrus argumentierte, dass David, der prophetisch sprach, die Auferstehung des Christus voraussagte â€\" da David selbst starb und sein Grab noch da war, musste sich die Prophezeiung auf Jesus beziehen (Apostelgeschichte 2:25-32).",
+                "questionText": "Petrus zitierte Psalm 16 in Apostelgeschichte 2, um zu beweisen, was er über Jesus sagen wollte?",
+                "sourceReference": "Apostelgeschichte 2:25-32; Psalm 16:8-11"
+            },
+            "fr": {
+                "options": [
+                    "Jésus était plus grand que Moïse",
+                    "Que Jésus était le Messie promis qui serait ressuscité",
+                    "Que Jésus a existé avant Abraham",
+                    "Jésus a satisfait aux exigences du sabbat"
+                ],
+                "explanation": "Pierre a soutenu que David, en parlant de manière prophétique, avait annoncé la résurrection du Christ - puisque David lui-même était mort et que son tombeau était toujours là, la prophétie devait se référer à Jésus (Actes 2:25-32).",
+                "questionText": "Pierre a cité le Psaume 16 dans Actes 2 pour prouver quel point concernant Jésus ?",
+                "sourceReference": "Actes 2:25-32 ; Psaume 16:8-11"
+            }
+        }
     },
     {
         "id": "exo_3_q1",
@@ -81,7 +105,31 @@
         "sourceReference": "Exodus 3:14-15; Insight on the Scriptures, Vol. 2, \"Jehovah\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=02003014&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "El Schaddai",
+                    "Adonai",
+                    "Ich werde werden, was ich werden will (JHWH)",
+                    "Jehova der Armeen"
+                ],
+                "explanation": "Am brennenden Dornbusch offenbarte Gott seinen Namen als \"Ich werde werden, was ich will\" (JHWH / Jehova) und betonte damit seine Fähigkeit, seine Pläne zu erfüllen.",
+                "questionText": "Wie nannte Gott Moses den göttlichen Namen?",
+                "sourceReference": "Exodus 3:14-15; Einsicht in die Heilige Schrift, Band 2, \"Jehova\""
+            },
+            "fr": {
+                "options": [
+                    "El Shaddai",
+                    "Adonaï",
+                    "Je deviendrai ce que j'ai choisi de devenir (YHWH)",
+                    "Jéhovah des armées"
+                ],
+                "explanation": "Dans le buisson ardent, Dieu a révélé son nom : \"Je deviendrai ce que j'ai choisi de devenir\" (YHWH / Jéhovah), soulignant ainsi sa capacité à accomplir ses desseins.",
+                "questionText": "Quel est le nom divin que Dieu a dit à Moïse ?",
+                "sourceReference": "Exode 3:14-15 ; Regard sur les Ecritures, vol. 2, \"Jéhovah\"."
+            }
+        }
     },
     {
         "id": "exo_20_q1",
@@ -101,7 +149,31 @@
         "sourceReference": "Exodus 20:3",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=02020003&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Macht keine Götzenbilder",
+                    "Denkt an den Sabbattag",
+                    "Ihr dürft keine anderen Götter neben Gott haben",
+                    "Du sollst den Namen Gottes nicht missbrauchen"
+                ],
+                "explanation": "Das erste Gebot lautet: Du sollst keine anderen Götter neben mir haben\" (2. Mose 20:3), womit die ausschließliche Hingabe an Jehova festgelegt wird.",
+                "questionText": "Wie lautet das erste der Zehn Gebote?",
+                "sourceReference": "Exodus 20:3"
+            },
+            "fr": {
+                "options": [
+                    "Ne pas fabriquer d'idoles",
+                    "Se souvenir du jour du sabbat",
+                    "Vous ne devez pas avoir d'autres dieux que Dieu",
+                    "Ne pas prendre le nom de Dieu en vain"
+                ],
+                "explanation": "Le premier commandement est le suivant : Tu n'auras pas d'autres dieux que moi\" (Exode 20:3), qui établit la dévotion exclusive à Jéhovah.",
+                "questionText": "Quel est le premier des dix commandements ?",
+                "sourceReference": "Exode 20:3"
+            }
+        }
     },
     {
         "id": "exo_20_q2",
@@ -121,7 +193,31 @@
         "sourceReference": "Exodus 20:8-11",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=02020008&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Bringen Sie ein Opfer auf dem Altar dar",
+                    "Fasten und Beten",
+                    "Hört auf mit der Arbeit und haltet sie heilig",
+                    "Reise zum Tabernakel"
+                ],
+                "explanation": "Das vierte Gebot verlangte, dass am Sabbat keine Arbeit verrichtet werden durfte â€\" weder vom Israeliten, noch von seinem Haushalt, noch von seinen Tieren â€\" weil Gott am siebten Tag ruhte (Exodus 20:8-11).",
+                "questionText": "Was soll man nach den Zehn Geboten am Sabbat tun?",
+                "sourceReference": "Exodus 20:8-11"
+            },
+            "fr": {
+                "options": [
+                    "Offrir un sacrifice à l'autel",
+                    "Jeûner et prier",
+                    "Cessez tout travail et gardez-le saint",
+                    "Voyage vers le tabernacle"
+                ],
+                "explanation": "Le quatrième commandement exigeait qu'aucun travail ne soit effectué le jour du sabbat - ni par l'Israélite, ni par sa famille, ni par ses animaux - parce que Dieu se reposait le septième jour (Exode 20:8-11).",
+                "questionText": "Selon les dix commandements, que doit-on faire le jour du sabbat ?",
+                "sourceReference": "Exode 20:8-11"
+            }
+        }
     },
     {
         "id": "gen_1_q1",
@@ -314,7 +410,31 @@
         "sourceReference": "Genesis 2:7",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002007&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Lehm aus einem Fluss",
+                    "Staub vom Boden",
+                    "Sand aus dem Meer",
+                    "Stein von einem Berg"
+                ],
+                "explanation": "In Genesis 2:7 heißt es, dass Gott den Menschen aus dem Staub der Erde formte\" und ihm den Lebensatem in die Nase blies.",
+                "questionText": "Aus welchem Material hat Gott den ersten Menschen geformt?",
+                "sourceReference": "Mose 2:7"
+            },
+            "fr": {
+                "options": [
+                    "Argile de rivière",
+                    "Poussière du sol",
+                    "Sable de la mer",
+                    "Pierre d'une montagne"
+                ],
+                "explanation": "La Genèse 2:7 dit que Dieu \"forma l'homme de la poussière du sol\" et qu'il insuffla dans ses narines un souffle de vie.",
+                "questionText": "De quelle matière Dieu a-t-il formé le premier homme ?",
+                "sourceReference": "Genèse 2:7"
+            }
+        }
     },
     {
         "id": "gen_2_q2",
@@ -334,7 +454,31 @@
         "sourceReference": "Genesis 2:8, 15",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002008&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Eden",
+                    "Kanaan",
+                    "Sharon",
+                    "Goshen"
+                ],
+                "explanation": "Gott pflanzte einen Garten in Eden, im Osten, und setzte den Menschen, den er geformt hatte, dorthin (1. Mose 2,8).",
+                "questionText": "Wie lautete der Name des Gartens, in den Gott Adam setzte?",
+                "sourceReference": "Genesis 2:8, 15"
+            },
+            "fr": {
+                "options": [
+                    "Eden",
+                    "Canaan",
+                    "Sharon",
+                    "Goshen"
+                ],
+                "explanation": "Dieu planta un jardin en Eden, à l'est, et y plaça l'homme qu'il avait formé (Genèse 2:8).",
+                "questionText": "Quel est le nom du jardin où Dieu a placé Adam ?",
+                "sourceReference": "Genèse 2:8, 15"
+            }
+        }
     },
     {
         "id": "gen_3_q1",
@@ -354,7 +498,31 @@
         "sourceReference": "Genesis 2:17; 3:3",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002017&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Er würde weise werden",
+                    "Er würde sterben",
+                    "Er würde sofort verbannt werden.",
+                    "Er würde sein Gedächtnis verlieren"
+                ],
+                "explanation": "Gott warnte: \"Denn an dem Tag, an dem ihr davon esst, werdet ihr sterben\" (1. Mose 2,17). Damit wurde die Aussicht auf den Tod in die menschliche Geschichte eingeführt.",
+                "questionText": "Was sagte Gott, was mit Adam geschehen würde, wenn er vom Baum der Erkenntnis von Gut und Böse aß?",
+                "sourceReference": "Mose 2:17; 3:3"
+            },
+            "fr": {
+                "options": [
+                    "Il deviendra sage",
+                    "Il mourrait",
+                    "Il serait banni immédiatement",
+                    "Il perdrait la mémoire"
+                ],
+                "explanation": "Dieu a prévenu : \"Le jour où tu en mangeras, tu mourras certainement\" (Genèse 2:17). Cela a introduit la perspective de la mort dans l'histoire de l'humanité.",
+                "questionText": "Qu'est-ce que Dieu a dit qu'il arriverait à Adam s'il mangeait de l'arbre de la connaissance du bien et du mal ?",
+                "sourceReference": "Genèse 2:17 ; 3:3"
+            }
+        }
     },
     {
         "id": "gen_3_q2",
@@ -374,7 +542,31 @@
         "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01003015&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie würden in Frieden leben",
+                    "Die Nachkommen der Frau werden der Schlange den Kopf zertreten",
+                    "Die Nachkommen der Schlange würden die Erde beherrschen",
+                    "Beide würden aus dem Garten entfernt werden"
+                ],
+                "explanation": "Mose 3,15 enthält die erste messianische Prophezeiung: Der Nachkomme der Frau wird der Schlange den Kopf abschlagen, was auf die Zerschlagung Satans durch Jesus Christus hinweist.",
+                "questionText": "Was versprach Gott in 1. Mose 3:15 bezüglich der \"Nachkommenschaft\" der Schlange und der \"Nachkommenschaft\" der Frau?",
+                "sourceReference": "Mose 3,15; Offenbarung 12,9; Einsicht in die Heilige Schrift, Band 1, \"Feindschaft\""
+            },
+            "fr": {
+                "options": [
+                    "Ils vivraient en paix",
+                    "La descendance de la femme écrasera la tête du serpent.",
+                    "La progéniture du serpent dominerait la terre.",
+                    "Les deux seraient retirés du jardin"
+                ],
+                "explanation": "Genèse 3:15 rapporte la première prophétie messianique : la descendance de la femme frappera la tête du serpent, évoquant l'écrasement de Satan par Jésus-Christ.",
+                "questionText": "Qu'est-ce que Dieu a promis dans Genèse 3:15 concernant la \"descendance\" du serpent et la \"descendance\" de la femme ?",
+                "sourceReference": "Genèse 3:15 ; Apocalypse 12:9 ; Regard sur les Ecritures, vol. 1, \"Inimitié\"."
+            }
+        }
     },
     {
         "id": "joh_3_q1",
@@ -394,7 +586,31 @@
         "sourceReference": "John 3:3-6",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=43003003&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Beachtet das gesamte mosaische Gesetz",
+                    "Wiedergeboren werden (aus Wasser und Geist)",
+                    "Viele wundersame Taten vollbringen",
+                    "Alle seine Besitztümer den Armen geben"
+                ],
+                "explanation": "Jesus sagte: \"Es sei denn, dass jemand aus Wasser und Geist geboren werde, so kann er nicht in das Reich Gottes kommen\" (Johannes 3,5) und bezog sich damit auf die Salbung mit dem Heiligen Geist, die für diejenigen erforderlich ist, die im Himmel herrschen werden.",
+                "questionText": "Was sagte Jesus zu Nikodemus, was ein Mensch tun muss, um das Reich Gottes zu sehen?",
+                "sourceReference": "Johannes 3:3-6"
+            },
+            "fr": {
+                "options": [
+                    "Observer toute la loi mosaïque",
+                    "Naître de nouveau (de l'eau et de l'esprit)",
+                    "accomplir de nombreux actes miraculeux",
+                    "Donner tous ses biens aux pauvres"
+                ],
+                "explanation": "Jésus a dit : \"Si quelqu'un ne naît d'eau et d'esprit, il ne peut entrer dans le Royaume de Dieu\" (Jean 3:5), faisant référence à l'onction par l'esprit saint requise pour ceux qui gouverneront dans les cieux.",
+                "questionText": "Qu'est-ce que Jésus a dit à Nicodème qu'une personne doit faire pour voir le Royaume de Dieu ?",
+                "sourceReference": "Jean 3:3-6"
+            }
+        }
     },
     {
         "id": "joh_3_q2",
@@ -414,7 +630,31 @@
         "sourceReference": "John 3:16",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=43003016&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sein Gesetz und seine Gebote",
+                    "Seine Engel zum Schutz der Menschheit",
+                    "Sein eingeborener Sohn",
+                    "Der Heilige Geist ohne Maß"
+                ],
+                "explanation": "Denn Gott hat die Welt so sehr geliebt, dass er seinen eingeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht zugrunde geht, sondern ewiges Leben hat\" (Johannes 3,16).",
+                "questionText": "Was hat Gott laut Johannes 3:16 gegeben, weil er die Welt so sehr geliebt hat?",
+                "sourceReference": "Johannes 3:16"
+            },
+            "fr": {
+                "options": [
+                    "Sa loi et ses commandements",
+                    "Ses anges pour protéger l'humanité",
+                    "Son Fils unique",
+                    "L'esprit saint sans mesure"
+                ],
+                "explanation": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne soit pas détruit, mais ait la vie éternelle\" (Jean 3:16).",
+                "questionText": "Qu'est-ce que Jean 3:16 dit que Dieu a donné parce qu'il a tant aimé le monde ?",
+                "sourceReference": "Jean 3:16"
+            }
+        }
     },
     {
         "id": "joh_11_q1",
@@ -434,7 +674,31 @@
         "sourceReference": "John 11:38-44",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=43011038&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Er heilte zehn Leprakranke",
+                    "Er hat Lazarus nach vier Tagen von den Toten auferweckt",
+                    "Er gab einem blind geborenen Mann das Augenlicht zurück",
+                    "Er speiste 5.000 Menschen mit fünf Broten und zwei Fischen"
+                ],
+                "explanation": "Jesus erweckte Lazarus, der vier Tage lang im Grab gelegen hatte (Johannes 11:39, 43-44). Dieses Wunder stärkte den Glauben und war ein Vorgeschmack auf die Auferstehung, die Jesus selbst erleben würde.",
+                "questionText": "Welches Wunder vollbrachte Jesus, das seine Macht über den Tod bewies, kurz vor seinem eigenen Tod?",
+                "sourceReference": "Johannes 11:38-44"
+            },
+            "fr": {
+                "options": [
+                    "Il a guéri dix lépreux",
+                    "Il a ressuscité Lazare au bout de quatre jours",
+                    "Il a rendu la vue à un aveugle de naissance",
+                    "Il a nourri 5 000 hommes avec cinq pains et deux poissons"
+                ],
+                "explanation": "Jésus a ressuscité Lazare qui était dans le tombeau depuis quatre jours (Jean 11:39, 43-44). Ce miracle a renforcé la foi et préfiguré la résurrection que Jésus lui-même connaîtrait.",
+                "questionText": "Quel miracle Jésus a-t-il accompli pour démontrer son pouvoir sur la mort, peu avant sa propre mort ?",
+                "sourceReference": "Jean 11:38-44"
+            }
+        }
     },
     {
         "id": "joh_17_q1",
@@ -454,7 +718,31 @@
         "sourceReference": "John 17:3",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=43017003&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Viele gute Werke vollbringen",
+                    "Halten des Sabbats und der Feste",
+                    "Die Erkenntnis des Vaters und des Sohnes",
+                    "Taufe und regelmäßiges Gebet"
+                ],
+                "explanation": "Jesus hat gebetet: 'Das bedeutet ewiges Leben, dass sie dich, den einzigen wahren Gott, und den du gesandt hast, Jesus Christus, erkennen' (Johannes 17,3). Gott und Christus zu kennen, ist die Grundlage für das ewige Leben.",
+                "questionText": "Was hat Jesus in seinem Gebet zu seinem Vater in Johannes 17 gesagt, was ewiges Leben ausmacht?",
+                "sourceReference": "Johannes 17:3"
+            },
+            "fr": {
+                "options": [
+                    "Faire beaucoup de bonnes actions",
+                    "Observer le sabbat et les fêtes",
+                    "Connaître le Père et le Fils",
+                    "Baptême et prière régulière"
+                ],
+                "explanation": "Jésus a prié : La vie éternelle, c'est la connaissance de toi, le seul vrai Dieu, et de celui que tu as envoyé, Jésus-Christ\" (Jean 17:3). La connaissance de Dieu et du Christ est le fondement de la vie éternelle.",
+                "questionText": "Dans la prière qu'il adresse à son Père en Jean 17, qu'est-ce qui, selon Jésus, constitue la vie éternelle ?",
+                "sourceReference": "Jean 17:3"
+            }
+        }
     },
     {
         "id": "mat_5_q1",
@@ -474,7 +762,31 @@
         "sourceReference": "Matthew 5:5; Psalm 37:11",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=40005005&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Diejenigen, die trauern",
+                    "Diejenigen, die nach Gerechtigkeit hungern und dürsten",
+                    "Diejenigen, die die Erde erben werden",
+                    "Diejenigen, die verfolgt werden"
+                ],
+                "explanation": "Matthäus 5,5: 'Glücklich sind die Sanftmütigen, denn sie werden das Erdreich erben.' Die Sanftmütigen â€\" diejenigen, die demütig und Gott untertan sind â€\" erhalten die Erde als ihr Erbe.",
+                "questionText": "Wer sind nach der Bergpredigt Jesu \"die Sanftmütigen\"?",
+                "sourceReference": "Matthäus 5:5; Psalm 37:11"
+            },
+            "fr": {
+                "options": [
+                    "Ceux qui sont en deuil",
+                    "Ceux qui ont faim et soif de justice",
+                    "Ceux qui hériteront de la terre",
+                    "Ceux qui sont persécutés"
+                ],
+                "explanation": "Matthieu 5:5 : \"Heureux les doux, car ils recevront la terre en héritage\". Les doux - ceux qui sont humbles et soumis à Dieu - reçoivent la terre en héritage.",
+                "questionText": "Selon le sermon de Jésus sur la montagne, qui sont les \"doux\" ?",
+                "sourceReference": "Matthieu 5:5 ; Psaume 37:11"
+            }
+        }
     },
     {
         "id": "mat_5_q2",
@@ -494,7 +806,31 @@
         "sourceReference": "Matthew 5:13",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=40005013&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie sollten zahlreich sein wie Salzkörner",
+                    "Sie bewahren die Moral in der Gesellschaft und verleihen ihr eine besondere Note.",
+                    "Sie sollten sich rein und getrennt halten",
+                    "Sie bringen eine scharfe oder schwierige Botschaft"
+                ],
+                "explanation": "Salz wurde zur Konservierung und zum Würzen verwendet. Jesus wollte, dass seine Jünger einen konservierenden, moralisch gesunden Einfluss auf ihre Umgebung ausüben.",
+                "questionText": "In der Bergpredigt sagte Jesus, seine Jünger seien das \"Salz der Erde\". Was sagt das über ihre Rolle aus?",
+                "sourceReference": "Matthäus 5:13"
+            },
+            "fr": {
+                "options": [
+                    "Ils devraient être nombreux comme des grains de sel",
+                    "Ils préservent la société et lui confèrent une dimension morale",
+                    "Ils doivent se maintenir purs et séparés",
+                    "Ils apportent un message incisif ou difficile"
+                ],
+                "explanation": "Le sel était utilisé pour conserver et aromatiser. Jésus voulait dire que ses disciples exerceraient une influence conservatrice et moralement saine sur ceux qui les entourent.",
+                "questionText": "Dans le Sermon sur la montagne, Jésus dit que ses disciples sont le \"sel de la terre\". Qu'est-ce que cela implique quant à leur rôle ?",
+                "sourceReference": "Matthieu 5:13"
+            }
+        }
     },
     {
         "id": "mat_6_q1",
@@ -514,7 +850,31 @@
         "sourceReference": "Matthew 6:9",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=40006009&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Gib uns heute unser Brot für diesen Tag",
+                    "Dein Name soll geheiligt werden",
+                    "Vergib uns unsere Schulden",
+                    "Erlöse uns von dem Bösewicht"
+                ],
+                "explanation": "Matthäus 6,9 zeigt, dass die erste Bitte lautet: \"Dein Name werde geheiligt\" â€\" die Ehrung und Reinigung des Namens Gottes kommt vor den Bitten um persönliche Bedürfnisse.",
+                "questionText": "Was ist die erste Bitte im Vaterunser, die Jesus seine Jünger zu sprechen lehrte?",
+                "sourceReference": "Matthäus 6:9"
+            },
+            "fr": {
+                "options": [
+                    "Donne-nous aujourd'hui notre pain pour ce jour",
+                    "Que ton nom soit sanctifié",
+                    "Pardonnez-nous nos dettes",
+                    "Délivre-nous du méchant"
+                ],
+                "explanation": "Matthieu 6:9 montre que la première demande est \"Que ton nom soit sanctifié\" - l'honneur et la purification du nom de Dieu passent avant les demandes pour des besoins personnels.",
+                "questionText": "Dans le Notre Père, quelle est la première demande que Jésus a enseignée à ses disciples ?",
+                "sourceReference": "Matthieu 6:9"
+            }
+        }
     },
     {
         "id": "mat_6_q2",
@@ -534,7 +894,31 @@
         "sourceReference": "Matthew 6:19-21",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=40006019&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Wir sollten irdische und himmlische Schätze gleichermaßen schätzen",
+                    "Irdische Schätze bringen dauerhaftes Glück",
+                    "Himmlische Schätze können nicht von Motten, Rost oder Dieben verdorben werden",
+                    "Wir sollten die Hälfte unseres Reichtums an die Armen abgeben"
+                ],
+                "explanation": "Jesus stellt irdische SchÃ?tze â€\" die rosten, von Motten zerfressen werden und gestohlen werden kÃ¶nnen â€\" den himmlischen SchÃ?tzen gegenÃ?ber, die dauerhaft sind. Er schließt ab: 'Wo dein Schatz ist, da wird auch dein Herz sein' (Matthäus 6,20-21).",
+                "questionText": "Was sagt Jesus über das Anhäufen von Schätzen auf der Erde und im Himmel?",
+                "sourceReference": "Matthäus 6:19-21"
+            },
+            "fr": {
+                "options": [
+                    "Nous devons accorder la même valeur aux trésors terrestres et aux trésors célestes.",
+                    "Les trésors terrestres apportent un bonheur durable",
+                    "Les trésors célestes ne peuvent être corrompus par la mite, la rouille ou les voleurs.",
+                    "Nous devrions donner la moitié de nos richesses aux pauvres"
+                ],
+                "explanation": "Jésus oppose les trésors terrestres - qui rouillent, sont mangés par les mites et peuvent être volés - aux trésors célestes, qui sont permanents. Il conclut : Là où est ton trésor, là aussi sera ton cœur\" (Matthieu 6,20-21).",
+                "questionText": "Que dit Jésus à propos de l'accumulation de trésors sur la terre par rapport au ciel ?",
+                "sourceReference": "Matthieu 6:19-21"
+            }
+        }
     },
     {
         "id": "mat_24_q1",
@@ -554,7 +938,31 @@
         "sourceReference": "Matthew 24:3-14",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=40024003&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein einziges katastrophales Erdbeben",
+                    "Eine Kombination aus Kriegen, Nahrungsmittelknappheit, Erdbeben, Seuchen und zunehmender Gesetzlosigkeit",
+                    "Der Wiederaufbau des Tempels in Jerusalem",
+                    "Ein großer Komet, der am Himmel erscheint"
+                ],
+                "explanation": "In Matthäus 24:7-12 werden Kriege, Nahrungsmittelknappheit, Erdbeben, Pestilenzen, falsche Propheten und zunehmende Gesetzlosigkeit als Teil des zusammengesetzten Zeichens der Endzeit aufgeführt.",
+                "questionText": "Welches Zeichen hat Jesus in Matthäus 24 gegeben, das auf \"den Abschluss des Systems der Dinge\" hinweist?",
+                "sourceReference": "Matthäus 24:3-14"
+            },
+            "fr": {
+                "options": [
+                    "Un seul tremblement de terre catastrophique",
+                    "Une combinaison de guerres, de pénuries alimentaires, de tremblements de terre, de pestes et d'une augmentation de l'anarchie.",
+                    "La reconstruction du temple de Jérusalem",
+                    "Une grande comète apparaît dans le ciel"
+                ],
+                "explanation": "Matthieu 24:7-12 énumère les guerres, les pénuries alimentaires, les tremblements de terre, les pestes, les faux prophètes et l'augmentation de l'anarchie comme faisant partie du signe composite des derniers jours.",
+                "questionText": "Dans Matthieu 24, quel signe Jésus a-t-il donné qui indiquerait \"la conclusion du système des choses\" ?",
+                "sourceReference": "Matthieu 24:3-14"
+            }
+        }
     },
     {
         "id": "psa_23_q1",
@@ -574,7 +982,31 @@
         "sourceReference": "Psalm 23:1",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=19023001&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Mein König",
+                    "Mein Schafhirte",
+                    "Mein Fels",
+                    "Mein Licht"
+                ],
+                "explanation": "Psalm 23 beginnt: \"Jehova ist mein Hirte. Mir wird nichts mangeln. David greift auf seine eigenen Erfahrungen als Hirte zurück, um Gottes liebevolle Fürsorge zu veranschaulichen.",
+                "questionText": "Wie beschreibt David Jehova am Anfang von Psalm 23?",
+                "sourceReference": "Psalm 23:1"
+            },
+            "fr": {
+                "options": [
+                    "Mon roi",
+                    "Mon berger",
+                    "Mon rocher",
+                    "Ma lumière"
+                ],
+                "explanation": "Le Psaume 23 commence ainsi : \"L'Éternel est mon berger. Je ne manquerai de rien\". David s'appuie sur sa propre expérience de berger pour illustrer la tendresse de Dieu.",
+                "questionText": "Comment David décrit-il Jéhovah au début du Psaume 23 ?",
+                "sourceReference": "Psaume 23:1"
+            }
+        }
     },
     {
         "id": "psa_23_q2",
@@ -594,7 +1026,31 @@
         "sourceReference": "Psalm 23:4",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=19023004&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Feinde",
+                    "Tod",
+                    "Dunkelheit",
+                    "Kalamität"
+                ],
+                "explanation": "'Auch wenn ich im finsteren Tal wandle, fÃ?rchte ich kein Unheil' â€\" der Satz, der hÃ?ufig als 'Tal des Todesschattens' wiedergegeben wird, spiegelt das Vertrauen in Gottes Gegenwart selbst in den dunkelsten PrÃ?fungen wider.",
+                "questionText": "Was sagt Psalm 23,4, dass David sich nicht fürchten wird, selbst wenn er durch das Tal der tiefen Schatten geht?",
+                "sourceReference": "Psalm 23:4"
+            },
+            "fr": {
+                "options": [
+                    "Ennemis",
+                    "La mort",
+                    "Ténèbres",
+                    "Calamité"
+                ],
+                "explanation": "Même si je marche dans la vallée de l'ombre profonde, je ne crains aucun malheur\" - l'expression souvent rendue par \"vallée de l'ombre de la mort\" reflète la confiance en la présence de Dieu, même dans les épreuves les plus sombres.",
+                "questionText": "Que dit le Psaume 23:4 que David ne craindra pas, même lorsqu'il marchera dans la vallée de l'ombre profonde ?",
+                "sourceReference": "Psaume 23:4"
+            }
+        }
     },
     {
         "id": "psa_83_q1",
@@ -614,7 +1070,31 @@
         "sourceReference": "Psalm 83:18",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=19083018&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Dass sein Name gepriesen werde auf der ganzen Erde",
+                    "Damit die Menschen erkennen, dass Jehova allein der Allerhöchste über die ganze Erde ist",
+                    "Dass sein Name vor den Völkern verborgen bleibt",
+                    "Dass sein Name in den Himmel geschrieben sei"
+                ],
+                "explanation": "In Psalm 83:18 heißt es: \"Mögen die Menschen erkennen, dass du, dessen Name Jehova ist, der Allerhöchste bist über die ganze Erde\". In diesem Vers wird in vielen Bibelübersetzungen der persönliche Name Gottes beibehalten.",
+                "questionText": "Welche Bitte enthält Psalm 83 in Bezug auf den Namen Gottes?",
+                "sourceReference": "Psalm 83:18"
+            },
+            "fr": {
+                "options": [
+                    "Que son nom soit loué sur toute la terre",
+                    "Pour que l'on sache que Jéhovah seul est le Très-Haut sur toute la terre.",
+                    "Que son nom soit caché aux nations",
+                    "Que son nom soit inscrit dans les cieux"
+                ],
+                "explanation": "Le Psaume 83.18 dit : \"Que l'on sache que toi, dont le nom est Jéhovah, toi seul es le Très-Haut sur toute la terre\". Ce verset conserve le nom personnel de Dieu dans de nombreuses traductions de la Bible.",
+                "questionText": "Quelle demande le Psaume 83 fait-il au sujet du nom de Dieu ?",
+                "sourceReference": "Psaume 83:18"
+            }
+        }
     },
     {
         "id": "rev_21_q1",
@@ -634,7 +1114,31 @@
         "sourceReference": "Revelation 21:3-4",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=66021003&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Das Meer und die Berge",
+                    "Tod, Trauer, Aufschrei und Schmerz",
+                    "Die Sonne und der Mond (ersetzt durch Gottes Herrlichkeit)",
+                    "Alle Erinnerung an die frühere Welt"
+                ],
+                "explanation": "Offenbarung 21,4 verheißt: \"Und er wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, noch Leid noch Geschrei noch Schmerz wird mehr sein. Dies beschreibt die Bedingungen in der neuen Welt.",
+                "questionText": "Was verspricht Offenbarung 21:4, dass Gott abschaffen wird?",
+                "sourceReference": "Offenbarung 21:3-4"
+            },
+            "fr": {
+                "options": [
+                    "La mer et les montagnes",
+                    "La mort, le deuil, les cris et la douleur",
+                    "Le soleil et la lune (remplacés par la gloire de Dieu)",
+                    "Toute mémoire du monde d'avant"
+                ],
+                "explanation": "Apocalypse 21:4 promet : \"Il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur\". Cela décrit la situation dans le nouveau monde.",
+                "questionText": "Qu'est-ce qu'Apocalypse 21:4 promet que Dieu fera disparaître ?",
+                "sourceReference": "Apocalypse 21:3-4"
+            }
+        }
     },
     {
         "id": "rev_21_q2",
@@ -654,7 +1158,31 @@
         "sourceReference": "Revelation 21:2; 3:12; Insight on the Scriptures, Vol. 2, \"New Jerusalem\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=66021002&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Eine buchstäblich wiederaufgebaute Stadt in Palästina",
+                    "Die himmlische Regierung â€\" Christus und seine 144.000 Mitregenten â€\" kommen, um über die Erde zu herrschen",
+                    "Die Kirche als geistliche Gemeinschaft",
+                    "Die zum Schutz der Erde gesandten Engel"
+                ],
+                "explanation": "Das neue Jerusalem symbolisiert das Reich Gottes â€\" Jesus Christus und die 144.000 Gesalbten â€\", das herabsteigt, um der ganzen Erde gerechte Herrschaft und Segen zu bringen (Offenbarung 21:2; 3:12).",
+                "questionText": "Was stellt das \"neue Jerusalem\" dar, das in Offenbarung 21 vom Himmel herabsteigt?",
+                "sourceReference": "Offenbarung 21:2; 3:12; Einsicht in die Heilige Schrift, Band 2, \"Das neue Jerusalem\""
+            },
+            "fr": {
+                "options": [
+                    "Une ville littéralement reconstruite en Palestine",
+                    "Le gouvernement céleste - le Christ et ses 144 000 co-régisseurs - venant régner sur la terre",
+                    "L'église en tant que communauté spirituelle",
+                    "Les anges envoyés pour protéger la terre"
+                ],
+                "explanation": "La nouvelle Jérusalem symbolise le Royaume de Dieu - Jésus-Christ et les 144 000 oints - qui descend pour apporter la justice et la bénédiction à toute la terre (Apocalypse 21:2 ; 3:12).",
+                "questionText": "Que représente la \"nouvelle Jérusalem\" qui descend du ciel dans Apocalypse 21 ?",
+                "sourceReference": "Apocalypse 21:2 ; 3:12 ; Regards sur les Ecritures, vol. 2, \"La nouvelle Jérusalem\"."
+            }
+        }
     },
     {
         "id": "rev_22_q1",
@@ -674,6 +1202,30 @@
         "sourceReference": "Revelation 22:1-2; Ezekiel 47:1-12",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=66022001&wtlocale=E"
-        ]
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Buchstäbliches Wasser für die neue Erde",
+                    "Gottes lebensspendende Vorkehrungen â€\" einschlieÃŸlich des LÃ¶segeldes und der Segnungen des Reiches Gottes â€\", die den Menschen zu einem vollkommenen Leben verhelfen",
+                    "Der Heilige Geist fließt zu den Engeln",
+                    "Die Gebete aller Heiligen"
+                ],
+                "explanation": "Der Strom des Lebens, der von Gottes Thron ausgeht, symbolisiert die lebensspendenden Segnungen, die Gott durch sein Reich bereitstellt â€\" und die letztlich zur vollen Wiederherstellung des menschlichen Lebens fÃ?hren.",
+                "questionText": "Was stellt der Strom des Wassers des Lebens in Offenbarung 22 dar, der von Gottes Thron fließt?",
+                "sourceReference": "Offenbarung 22:1-2; Hesekiel 47:1-12"
+            },
+            "fr": {
+                "options": [
+                    "L'eau littérale pour la nouvelle terre",
+                    "Les dispositions de Dieu qui donnent la vie - y compris la rançon et les bénédictions du Royaume - qui restaurent les humains à une vie parfaite.",
+                    "L'esprit saint coule vers les anges",
+                    "Les prières de tous les saints"
+                ],
+                "explanation": "Le fleuve de vie qui s'écoule du trône de Dieu symbolise les bénédictions vivifiantes que Dieu apporte par l'intermédiaire de son Royaume - et qui aboutissent finalement à la restauration complète de la vie humaine.",
+                "questionText": "Que représente le fleuve d'eau de vie d'Apocalypse 22 qui coule du trône de Dieu ?",
+                "sourceReference": "Apocalypse 22:1-2 ; Ezéchiel 47:1-12"
+            }
+        }
     }
 ]
