@@ -10,15 +10,38 @@
             "Day 6"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "On the fourth day God made the two great luminaries and the stars to give light on the earth and to mark seasons, days, and years.",
         "sourceReference": "Genesis 1:14-19",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01001014&wtlocale=E"
         ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        "translations": {
+            "de": {
+                "options": [
+                    "Tag 2",
+                    "Tag 3",
+                    "Tag 4",
+                    "Tag 6"
+                ],
+                "explanation": "Am vierten Tag schuf Gott die beiden großen Leuchter und die Sterne, um die Erde zu beleuchten und die Jahreszeiten, Tage und Jahre zu kennzeichnen.",
+                "questionText": "An welchem Tag schuf Gott die Sonne, den Mond und die Sterne?",
+                "sourceReference": "Genesis 1:14-19"
+            },
+            "fr": {
+                "options": [
+                    "Jour 2",
+                    "Troisième jour",
+                    "Jour 4",
+                    "Jour 6"
+                ],
+                "explanation": "Le quatrième jour, Dieu a créé les deux grands luminaires et les étoiles pour éclairer la terre et marquer les saisons, les jours et les années.",
+                "questionText": "En quel jour Dieu a-t-il créé le soleil, la lune et les étoiles ?",
+                "sourceReference": "Genèse 1:14-19"
+            }
+        }
     },
     {
         "id": "gen_1_q2",
@@ -31,15 +54,38 @@
             "\"God blessed it\""
         ],
         "correctAnswerIndex": 1,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "After each creative work, the account says 'God saw that it was good,' showing divine satisfaction with his handiwork.",
         "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01001004&wtlocale=E"
         ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        "translations": {
+            "de": {
+                "options": [
+                    "\"Und es war so\"",
+                    "\"Gott sah, dass es gut war\"",
+                    "\"Es werde Licht\"",
+                    "\"Gott hat es gesegnet\""
+                ],
+                "explanation": "Nach jedem schöpferischen Werk heißt es im Bericht: \"Gott sah, dass es gut war\", was die göttliche Zufriedenheit mit seinem Werk zeigt.",
+                "questionText": "Welcher Satz wird nach jedem Tag der Schöpfung wiederholt, um Gottes Zustimmung zu zeigen?",
+                "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31"
+            },
+            "fr": {
+                "options": [
+                    "\"Et c'était ainsi\"",
+                    "\"Dieu a vu que c'était bon",
+                    "\"Que la lumière soit\"",
+                    "\"Dieu l'a béni\""
+                ],
+                "explanation": "Après chaque création, le récit dit que \"Dieu vit que cela était bon\", montrant ainsi la satisfaction divine face à son œuvre.",
+                "questionText": "Quelle phrase est répétée après chaque jour de la création pour montrer l'approbation de Dieu ?",
+                "sourceReference": "Genèse 1:4, 10, 12, 18, 21, 25, 31"
+            }
+        }
     },
     {
         "id": "gen_1_q3",
@@ -52,15 +98,38 @@
             "Adam"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "Genesis 1:27 states: 'God created man in his image, in God's image he created him; male and female he created them.'",
         "sourceReference": "Genesis 1:27; Insight on the Scriptures, Vol. 2, \"Man\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01001027&wtlocale=E"
         ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        "translations": {
+            "de": {
+                "options": [
+                    "Die Engel",
+                    "Gott",
+                    "Die Tiere",
+                    "Adam"
+                ],
+                "explanation": "In 1. Mose 1,27 heißt es: Gott schuf den Menschen als sein Abbild, als Abbild Gottes schuf er ihn; als Mann und Frau schuf er sie.",
+                "questionText": "Nach wessen Bild wurde der Mensch geschaffen?",
+                "sourceReference": "Mose 1:27; Einsicht in die Heilige Schrift, Band 2, \"Der Mensch\""
+            },
+            "fr": {
+                "options": [
+                    "Les anges",
+                    "Dieu",
+                    "Les animaux",
+                    "Adam"
+                ],
+                "explanation": "La Genèse 1:27 stipule : \"Dieu créa l'homme à son image, à l'image de Dieu, il le créa : Dieu créa l'homme à son image, il le créa à l'image de Dieu, il les créa homme et femme.",
+                "questionText": "À l'image de qui l'homme a-t-il été créé ?",
+                "sourceReference": "Genèse 1:27 ; Regard sur les Ecritures, vol. 2, \"L'homme\"."
+            }
+        }
     },
     {
         "id": "gen_1_q4",
@@ -73,13 +142,35 @@
             "The 7th day."
         ],
         "correctAnswerIndex": 2,
-        "correctAnswerIndices": [],
-        "explanation": "According to Genesis 1:26-31, God created humans on the sixth day of creation.",
-        "sourceReference": "Genesis 1:26-31",
-        "sourceURLs": [],
         "difficulty": "basic",
         "questionType": "single",
-        "translations": []
+        "sortOrder": 0,
+        "explanation": "According to Genesis 1:26-31, God created humans on the sixth day of creation.",
+        "sourceReference": "Genesis 1:26-31",
+        "translations": {
+            "de": {
+                "options": [
+                    "Der 4. Tag.",
+                    "Der 5. Tag.",
+                    "Der 6. Tag.",
+                    "Der 7. Tag."
+                ],
+                "explanation": "Nach Genesis 1:26-31 schuf Gott den Menschen am sechsten Tag der Schöpfung.",
+                "questionText": "An welchem Tag wurde der Mensch erschaffen?",
+                "sourceReference": "Genesis 1:26-31"
+            },
+            "fr": {
+                "options": [
+                    "Le 4ème jour.",
+                    "Le 5ème jour.",
+                    "Le 6ème jour.",
+                    "Le 7e jour."
+                ],
+                "explanation": "Selon la Genèse 1:26-31, Dieu a créé l'homme le sixième jour de la création.",
+                "questionText": "Quel est le jour de la création de l'homme ?",
+                "sourceReference": "Genèse 1:26-31"
+            }
+        }
     },
     {
         "id": "gen_2_q1",
@@ -92,15 +183,14 @@
             "Stone from a mountain"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "Genesis 2:7 says God 'formed man from the dust of the ground' and breathed into his nostrils the breath of life.",
         "sourceReference": "Genesis 2:7",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002007&wtlocale=E"
-        ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        ]
     },
     {
         "id": "gen_2_q2",
@@ -113,15 +203,14 @@
             "Goshen"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "God planted a garden in Eden, eastward, and placed the man he had formed there (Genesis 2:8).",
         "sourceReference": "Genesis 2:8, 15",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002008&wtlocale=E"
-        ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        ]
     },
     {
         "id": "gen_3_q1",
@@ -134,15 +223,14 @@
             "He would lose his memory"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswerIndices": [],
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "God warned: 'For in the day you eat from it you will certainly die' (Genesis 2:17). This introduced the prospect of death into human history.",
         "sourceReference": "Genesis 2:17; 3:3",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01002017&wtlocale=E"
-        ],
-        "difficulty": "basic",
-        "questionType": "single",
-        "translations": []
+        ]
     },
     {
         "id": "gen_3_q2",
@@ -155,14 +243,13 @@
             "Both would be removed from the garden"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswerIndices": [],
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
         "explanation": "Genesis 3:15 records the first Messianic prophecy: the offspring of the woman would strike the serpent's head, pointing to the crushing of Satan by Jesus Christ.",
         "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
         "sourceURLs": [
             "https://www.jw.org/finder?bible=01003015&wtlocale=E"
-        ],
-        "difficulty": "intermediate",
-        "questionType": "single",
-        "translations": []
+        ]
     }
 ]
