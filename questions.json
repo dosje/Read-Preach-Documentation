@@ -22,11 +22,14 @@
             "de": {
                 "options": [
                     "Jesus erschien allen sichtbar in Jerusalem.",
-                    "Der Heilige Geist wurde ausgegossen und die JÃ¼nger sprachen in verschiedenen Sprachen.",
-                    "Die Apostel fÃ¼hrten im Tempel eine Massenheilung durch.",
-                    "Ein Engel verkÃ¼ndete der Menge die Auferstehung."
+                    "Der Heilige Geist wurde ausgegossen und die Jünger sprachen in verschiedenen Sprachen.",
+                    "Die Apostel führten im Tempel eine Massenheilung durch.",
+                    "Ein Engel verkündete der Menge die Auferstehung."
                 ],
-                "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die JÃ¼nger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
+                "sourceURLs": [
+                    "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+                ],
+                "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die Jünger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
                 "questionText": "Welches Ereignis trug sich am Pfingsttag zu, wie es in der Apostelgeschichte 2 beschrieben wird?",
                 "sourceReference": "Apostelgeschichte 2:1-4, 41"
             },
@@ -36,6 +39,9 @@
                     "Le Saint-Esprit a été répandu et les disciples ont parlé en différentes langues.",
                     "Les apôtres procèdent à une guérison collective au temple",
                     "Un ange annonce la résurrection à la foule"
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
                 ],
                 "explanation": "Le jour de la Pentecôte 33 CE, le Saint-Esprit a été répandu, les disciples ont parlé en langues (différentes langues) et environ 3 000 personnes ont été baptisées ce jour-là (Actes 2:1-4, 41).",
                 "questionText": "Quel événement s'est produit le jour de la Pentecôte, tel qu'il est décrit dans Actes 2 ?",
