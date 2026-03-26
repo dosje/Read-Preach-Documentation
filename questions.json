@@ -94,6 +94,53 @@
         }
     },
     {
+        "id": "exo_1_q1",
+        "chapterKey": "Exodus|1",
+        "questionText": "Which Hebrew midwives did the the king of Egypt speak to?",
+        "options": [
+            "Shiphʹrah",
+            "Sar'ai",
+            "Zo'ar",
+            "Puʹah"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "multiple",
+        "sortOrder": 0,
+        "explanation": "You can find the names in Exodus 1:15.",
+        "sourceReference": "Exodus 1:15",
+        "correctAnswerIndices": [
+            0,
+            3
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Schịphra",
+                    "Sạrai",
+                    "Zọar",
+                    "Pua"
+                ],
+                "sourceURLs": [],
+                "explanation": "Die Namen findet man in 2. Moses 1:15.",
+                "questionText": "Mit welchen hebräischen Hebammen sprach der König von Ägypten?",
+                "sourceReference": "2. Moses 1:15"
+            },
+            "fr": {
+                "options": [
+                    "Shifra",
+                    "Saraï",
+                    "Zoar",
+                    "Poua"
+                ],
+                "sourceURLs": [],
+                "explanation": "Vous trouverez les noms dans Exode 1:15.",
+                "questionText": "À quelles sages-femmes hébraïques le roi d'Égypte s'est-il adressé ?",
+                "sourceReference": "Exode 1:15"
+            }
+        }
+    },
+    {
         "id": "exo_3_q1",
         "chapterKey": "Exodus|3",
         "questionText": "What did God tell Moses the divine name is?",
