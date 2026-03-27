@@ -96,6 +96,18 @@ Tippe auf **Verlauf anzeigen** in der Fortschrittskarte:
 - **Bibel-Abschlüsse** — Protokoll jedes Datums, an dem alle 1.189 Kapitel abgeschlossen wurden
 - **Tägliches Leseprotokoll** — alle gelesenen Kapitel, nach Datum gruppiert
 
+### Lesequiz
+
+Nachdem du die heutigen Kapitel als gelesen markiert hast, erscheint ein **Quiz**-Button im Bereich „Heutiges Lesen". Das Quiz prüft dein Verständnis der soeben gelesenen Kapitel.
+
+- Fragen stammen aus den heute gelesenen Kapiteln
+- Funktioniert in allen Lese-Modi, einschließlich des freien Modus
+- Tippe auf **Quiz starten**, um zu beginnen; wische oder tippe, um zwischen den Fragen zu wechseln
+- Jede Frage zeigt die Bibelkapitel-Referenz, aus der sie stammt
+- Deine Punktzahl wird am Ende der Sitzung angezeigt
+
+Das Quiz ist optional — du kannst es jederzeit überspringen.
+
 ### Gedenkmahl-Tracker
 
 Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen eine Gedenkmahl-Karte und ein täglicher Leseabschnitt. Diese zeigen die zugewiesenen Bibelstellen und Kapitel aus dem Buch *Jesus — der Weg, die Wahrheit, das Leben*.
@@ -125,6 +137,8 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 - **Plan erstellen / Neuberechnen**
 - **Tägliche Erinnerung** — Push-Benachrichtigung mit heutigen ungelesenen Kapiteln
 - **Lese-Streak** — Streak-Tracker ein-/ausschalten
+- **Quiz-Schwierigkeitsgrad** — Fragen nach Schwierigkeitsgrad filtern: Gemischt (alle Stufen), Einfach, Mittel oder Schwer
+- **Max. Quizfragen** — maximale Anzahl von Fragen pro Sitzung festlegen (1–10)
 
 ### Gedenkmahl-Tracker-Einstellungen
 

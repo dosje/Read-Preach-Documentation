@@ -78,6 +78,15 @@ The streak counts consecutive days on which you read at least one chapter. A 2-d
 **How do I see which chapters I have already read and when?**
 Tap **View History** in the Progress card on the Bible tab. The history sheet shows a daily log of all chapters read (grouped by date) and a log of every time you completed the entire Bible.
 
+**What is the Reading Quiz?**
+After reading today's chapters, a Quiz button appears in the Today's Reading section. It presents comprehension questions based on the chapters you read. The quiz works in all reading modes, including Free mode.
+
+**Can I change the quiz difficulty?**
+Yes. Go to **Settings → Bible Reading Settings → Quiz difficulty** and choose Mix (all levels), Easy, Medium, or Hard. The setting applies immediately.
+
+**How many questions does the quiz have?**
+You can set the maximum number of questions per session in **Settings → Bible Reading Settings → Max quiz questions** (1 to 10).
+
 **What is the Memorial Tracker?**
 The Memorial Tracker appears during the Memorial season (approximately 7 days before Nisan 14). It shows the assigned Bible passages and chapters from *Jesus — The Way, the Truth, the Life* for each day. It resets automatically each year after the Memorial date.
 

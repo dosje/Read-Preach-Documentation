@@ -105,6 +105,18 @@ Tap **View History** in the Progress card to open the history sheet. It shows:
 - **Bible completions** — a log of every date you finished all 1,189 chapters (for tracking progress across multiple read-throughs over the years)
 - **Daily reading log** — every chapter you have read, grouped by date (newest first), in Bible order
 
+### Reading Quiz
+
+After marking today's chapters as read, a **Quiz** button appears in the Today's Reading section. The quiz tests your comprehension of the chapters you have just read.
+
+- Questions are drawn from the chapters read today
+- Works in all reading modes, including Free mode
+- Tap **Start Quiz** to begin; swipe or tap to move between questions
+- Each question shows the Bible chapter reference it is drawn from
+- Your score is shown at the end of the session
+
+The quiz is optional — you can skip it at any time.
+
 ### Memorial Tracker
 
 During the Memorial season (approximately one week before and after Nisan 14), a Memorial card and daily reading section appear. These show the assigned passages from the Bible and the book *Jesus — The Way, the Truth, the Life* for each day leading up to and following the Memorial.
@@ -140,6 +152,8 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 - **Generate plan / Recalculate** — create or regenerate your reading schedule
 - **Daily reminder** — set a push notification time; the notification lists today's unread chapters
 - **Reading streak** — toggle the streak tracker on or off
+- **Quiz difficulty** — filter questions by difficulty: Mix (all levels), Easy, Medium, or Hard
+- **Max quiz questions** — set the maximum number of questions per session (1–10)
 
 ### Memorial Tracker Settings
 
