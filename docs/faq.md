@@ -110,4 +110,4 @@ Try force-closing the app and reopening it. If the issue persists, try reinstall
 
 ## Contact & Support
 
-Found a bug or have a suggestion? Contact us via [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) or visit our [contact page](https://www.read-preach.com/contactus).
+Found a bug or have a suggestion? Contact us via [support@read-preach.com](mailto:support@read-preach.com) or visit our [contact page](https://www.read-preach.com/contactus).
