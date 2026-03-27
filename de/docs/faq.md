@@ -106,4 +106,4 @@ Stelle sicher, dass du der App Benachrichtigungsrechte gewährt hast unter **iPh
 
 ## Kontakt & Support
 
-Fehler gefunden oder eine Frage? Kontaktiere uns unter [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) oder besuche unsere [Kontaktseite](https://www.read-preach.com/contactus).
+Fehler gefunden oder eine Frage? Kontaktiere uns unter [support@read-preach.com](mailto:support@read-preach.com) oder besuche unsere [Kontaktseite](https://www.read-preach.com/contactus).
