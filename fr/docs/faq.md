@@ -106,4 +106,4 @@ Assurez-vous d'avoir accordé l'autorisation de notifications à l'application d
 
 ## Contact & Support
 
-Un bug ou une suggestion ? Contactez-nous à [support@read-preach.com](mailto:support@read-preach.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
+Une question ou un bug ? Contactez-nous via le formulaire de contact sur notre [page de contact](https://www.read-preach.com/contactus).
