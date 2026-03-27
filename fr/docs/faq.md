@@ -106,4 +106,4 @@ Assurez-vous d'avoir accordé l'autorisation de notifications à l'application d
 
 ## Contact & Support
 
-Un bug ou une suggestion ? Contactez-nous à [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
+Un bug ou une suggestion ? Contactez-nous à [support@read-preach.com](mailto:support@read-preach.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
