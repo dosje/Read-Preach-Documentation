@@ -35,4 +35,4 @@ permalink: /fr/
 
 ## Support
 
-Une question ou un bug ? Contactez-nous à [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
+Une question ou un bug ? Contactez-nous à [support@read-preach.com](mailto:support@read-preach.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
