@@ -141,6 +141,49 @@
         }
     },
     {
+        "id": "exo-1-ai-204c8e00",
+        "chapterKey": "Exodus|1",
+        "questionText": "What did Pharaoh order his people to do with every newborn son of the Hebrews?",
+        "options": [
+            "To keep them alive and raise them as their own",
+            "To throw them into the Nile River",
+            "To make them work in the fields from a young age",
+            "To give them to the midwives for care"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Exodus 1:22",
+        "sourceReference": "Exodus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Um sie am Leben zu erhalten und sie als ihre eigenen aufzuziehen",
+                    "Um sie in den Nil zu werfen",
+                    "Sie von klein auf auf den Feldern arbeiten zu lassen",
+                    "Zur Übergabe an die Hebammen zur Betreuung"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exodus 1:22",
+                "questionText": "Was befahl der Pharao seinem Volk, mit jedem neugeborenen Sohn der Hebräer zu tun?",
+                "sourceReference": "Exodus 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Les garder en vie et les élever comme s'ils étaient les leurs",
+                    "Les jeter dans le Nil",
+                    "Les faire travailler dans les champs dès leur plus jeune âge",
+                    "Les remettre aux sages-femmes pour qu'elles les prennent en charge"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exode 1:22",
+                "questionText": "Qu'est-ce que Pharaon a ordonné à son peuple de faire avec chaque fils nouveau-né des Hébreux ?",
+                "sourceReference": "Exode 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
         "id": "exo_3_q1",
         "chapterKey": "Exodus|3",
         "questionText": "What did God tell Moses the divine name is?",
@@ -181,6 +224,49 @@
                 "explanation": "Dans le buisson ardent, Dieu a révélé son nom : \"Je deviendrai ce que j'ai choisi de devenir\" (YHWH / Jéhovah), soulignant ainsi sa capacité à accomplir ses desseins.",
                 "questionText": "Quel est le nom divin que Dieu a dit à Moïse ?",
                 "sourceReference": "Exode 3:14-15 ; Regard sur les Ecritures, vol. 2, \"Jéhovah\"."
+            }
+        }
+    },
+    {
+        "id": "exo-3-ai-a11c9cbf",
+        "chapterKey": "Exodus|3",
+        "questionText": "Who appeared to Moses in a flame of fire in the midst of a thornbush?",
+        "options": [
+            "Jehovah's angel",
+            "An Egyptian god",
+            "A prophet from Israel",
+            "Moses' father-in-law, Jethʹro"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Exodus 3:2",
+        "sourceReference": "Exodus 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Jehovas Engel",
+                    "Ein ägyptischer Gott",
+                    "Ein Prophet aus Israel",
+                    "Jethʹro, der Schwiegervater von Mose"
+                ],
+                "sourceURLs": [],
+                "explanation": "2. Moses 3:2",
+                "questionText": "Wer erschien Moses in einer Feuerflamme inmitten eines Dornbusches?",
+                "sourceReference": "2. Moses 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "L'ange de Jéhovah",
+                    "Un dieu égyptien",
+                    "Un prophète d'Israël",
+                    "Le beau-père de Moïse, Jethʹro"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exode 3:2",
+                "questionText": "Qui est apparu à Moïse dans une flamme de feu au milieu d'un buisson d'épines ?",
+                "sourceReference": "Exode 3 (Nouvelle traduction mondiale)"
             }
         }
     },
@@ -837,6 +923,397 @@
                 "explanation": "Jésus a prié : La vie éternelle, c'est la connaissance de toi, le seul vrai Dieu, et de celui que tu as envoyé, Jésus-Christ\" (Jean 17:3). La connaissance de Dieu et du Christ est le fondement de la vie éternelle.",
                 "questionText": "Dans la prière qu'il adresse à son Père en Jean 17, qu'est-ce qui, selon Jésus, constitue la vie éternelle ?",
                 "sourceReference": "Jean 17:3"
+            }
+        }
+    },
+    {
+        "id": "jos-1-ai-f4e590d4",
+        "chapterKey": "Joshua|1",
+        "questionText": "What was the extent of Joshua's territory according to Jehovah?",
+        "options": [
+            "From the wilderness up to the Euphrates River and to the Great Sea on the west",
+            "From the Mediterranean Sea to the east side of the Jordan",
+            "Every place where he set his foot, from the wilderness up to Lebanon and to the great river, the Euphrates, all the land of the Hit'tites, and to the Great Sea on the west",
+            "Only the land of Canaan"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "multiple",
+        "sortOrder": 0,
+        "explanation": "Joshua 1:4",
+        "sourceReference": "Joshua 1 (New World Translation)",
+        "correctAnswerIndices": [
+            0,
+            2
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "von der Wüste bis zum Euphrat und zum großen Meer im Westen",
+                    "Vom Mittelmeer bis zur Ostseite des Jordans",
+                    "überall, wo er seinen Fuß hinsetzte, von der Wüste bis zum Libanon und bis zum großen Strom, dem Euphrat, das ganze Land der Hit'titer, und bis zum großen Meer im Westen",
+                    "Nur das Land Kanaan"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 1:4",
+                "questionText": "Wie groß war das Gebiet, das Josua nach den Worten Jehovas besaß?",
+                "sourceReference": "Josua 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Du désert jusqu'à l'Euphrate et jusqu'à la grande mer à l'ouest",
+                    "De la mer Méditerranée à l'est du Jourdain",
+                    "Tous les lieux où il posa le pied, depuis le désert jusqu'au Liban, et jusqu'au grand fleuve, l'Euphrate, tout le pays des Hittites, et jusqu'à la grande mer, à l'occident.",
+                    "Seulement le pays de Canaan"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 1:4",
+                "questionText": "Quelle était l'étendue du territoire de Josué selon Jéhovah ?",
+                "sourceReference": "Josué 1 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-0421bbc3",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What should be done to a sound male animal before presenting it as a burnt offering?",
+        "options": [
+            "It should be slaughtered at the north side of the altar.",
+            "He should lay his hand on the head of the burnt offering, and it will be accepted in his behalf to make atonement for him.",
+            "The young bull must be slaughtered before Jehovah.",
+            "It should be presented with its intestines and shanks unwashed."
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:4",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Es sollte an der Nordseite des Altars geschlachtet werden.",
+                    "Er soll seine Hand auf das Haupt des Brandopfers legen, und es wird für ihn angenommen, um für ihn zu sühnen.",
+                    "Der junge Stier muss vor Jehova geschlachtet werden.",
+                    "Es sollte mit ungewaschenen Eingeweiden und Haxen angeboten werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:4",
+                "questionText": "Was sollte man mit einem gesunden männlichen Tier tun, bevor man es als Brandopfer darbringt?",
+                "sourceReference": "Levitikus 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Il doit être égorgé du côté nord de l'autel.",
+                    "Il doit poser sa main sur la tête de l'holocauste, et celle-ci sera acceptée en sa faveur pour faire l'expiation.",
+                    "Le jeune taureau doit être abattu devant Jéhovah.",
+                    "Il doit être présenté avec ses intestins et ses jarrets non lavés."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:4",
+                "questionText": "Que faut-il faire à un animal mâle sain avant de le présenter en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-4ae0b922",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What type of animal should be presented as a burnt offering from the herd?",
+        "options": [
+            "A sound female animal",
+            "A sound male animal",
+            "An injured animal",
+            "A wild animal"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:3 ‘If his offering is a burnt offering from the herd, he should present a sound male animal.'",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein gesundes weibliches Tier",
+                    "Ein gesundes männliches Tier",
+                    "Ein verletztes Tier",
+                    "Ein wildes Tier"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:3 \"Wenn es sich um ein Brandopfer von der Herde handelt, soll er ein gesundes männliches Tier darbringen\".",
+                "questionText": "Welche Art von Tier sollte als Brandopfer von der Herde dargebracht werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Un animal femelle sain",
+                    "Un animal mâle sain",
+                    "Un animal blessé",
+                    "Un animal sauvage"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:3 \"S'il s'agit d'un holocauste de bétail, il présentera un animal mâle sain\".",
+                "questionText": "Quel type d'animal du troupeau doit être présenté en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-5cc7e707",
+        "chapterKey": "Leviticus|1",
+        "questionText": "Where should the burnt offering be slaughtered?",
+        "options": [
+            "At the north side of the altar before Jehovah",
+            "At the entrance of the tent of meeting",
+            "Outside the camp",
+            "In the city"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:11",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "An der Nordseite des Altars vor Jehova",
+                    "Am Eingang des Zeltes der Begegnung",
+                    "Außerhalb des Lagers",
+                    "In der Stadt"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:11",
+                "questionText": "Wo soll das Brandopfer geschlachtet werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Au côté nord de l'autel devant l'Éternel",
+                    "A l'entrée de la tente d'assignation",
+                    "A l'extérieur du camp",
+                    "En ville"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:11",
+                "questionText": "Où doit-on égorger l'holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-8cef7e3f",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What should be done to the intestines and shanks of a burnt offering?",
+        "options": [
+            "They should not be washed with water.",
+            "They should be washed with water.",
+            "They should be sprinkled with blood.",
+            "They should be thrown beside the altar."
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "3. Mose 1:9, 3. Mose 1:13",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie sollten nicht mit Wasser gewaschen werden.",
+                    "Sie sollten mit Wasser gewaschen werden.",
+                    "Sie sollten mit Blut besprengt werden.",
+                    "Sie sollten neben den Altar geworfen werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "Levitikus 1:9, Levitikus 1:13",
+                "questionText": "Was soll man mit den Eingeweiden und Schenkeln eines Brandopfers machen?",
+                "sourceReference": "4. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ils ne doivent pas être lavés à l'eau.",
+                    "Ils doivent être lavés à l'eau.",
+                    "Ils doivent être aspergés de sang.",
+                    "Ils doivent être jetés à côté de l'autel."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:9, Lévitique 1:13",
+                "questionText": "Que faut-il faire des intestins et des jarrets d'un holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-b36e289f",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What type of animal should be presented as a burnt offering from the herd?",
+        "options": [
+            "A sound female animal",
+            "A sound male animal",
+            "An old or weak animal",
+            "Any type of animal"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:3",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein gesundes weibliches Tier",
+                    "Ein gesundes männliches Tier",
+                    "Ein altes oder schwaches Tier",
+                    "Jede Art von Tier"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:3",
+                "questionText": "Welche Art von Tier sollte als Brandopfer von der Herde dargebracht werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Un animal femelle sain",
+                    "Un animal mâle sain",
+                    "Un animal vieux ou faible",
+                    "Tout type d'animal"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:3",
+                "questionText": "Quel type d'animal du troupeau doit être présenté en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-2-ai-a4c8788b",
+        "chapterKey": "Leviticus|2",
+        "questionText": "What type of grain offering should not be leavened?",
+        "options": [
+            "Grain offerings made by fire",
+            "Grain offerings that are baked in the oven",
+            "Grain offerings that have sourdough or honey",
+            "All grain offerings"
+        ],
+        "correctAnswerIndex": 3,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 2:11, ‘No grain offering that you present to Jehovah should be leavened...’",
+        "sourceReference": "Leviticus 2 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Getreideopfer aus dem Feuer",
+                    "Getreideangebote, die im Ofen gebacken werden",
+                    "Getreideangebote, die Sauerteig oder Honig enthalten",
+                    "Alle Getreideangebote"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 2:11: \"Kein Speisopfer, das du Jehova darbringst, soll gesäuert sein...",
+                "questionText": "Welche Art von Speisopfer darf nicht gesäuert werden?",
+                "sourceReference": "3. Mose 2 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Offrandes de céréales faites par le feu",
+                    "Offres de céréales cuites au four",
+                    "Offres de céréales au levain ou au miel",
+                    "Offrandes de toutes sortes de céréales"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 2:11 : \"Aucune des offrandes de blé que vous présentez à l'Éternel ne doit être levée...\".",
+                "questionText": "Quel type d'offrande de grain ne doit pas être levé ?",
+                "sourceReference": "Lévitique 2 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-3-ai-84394e14",
+        "chapterKey": "Leviticus|3",
+        "questionText": "What must be presented as an offering made by fire to Jehovah from a communion sacrifice?",
+        "options": [
+            "The entire animal",
+            "The fat that covers the intestines and all the surrounding fat",
+            "Only the kidneys with their surrounding fat",
+            "None of the above"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 3:3, Leviticus 3:9",
+        "sourceReference": "Leviticus 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Das gesamte Tier",
+                    "Das Fett, das den Darm bedeckt, und das gesamte umgebende Fett",
+                    "Nur die Nieren mit dem sie umgebenden Fett",
+                    "Keiner der oben genannten Punkte"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 3:3, 3. Mose 3:9",
+                "questionText": "Was muss als Feueropfer für Jehova aus einem Abendmahlsopfer dargebracht werden?",
+                "sourceReference": "3. Mose 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "L'ensemble de l'animal",
+                    "La graisse qui recouvre les intestins et toute la graisse environnante",
+                    "Seuls les reins et la graisse qui les entoure",
+                    "Aucune de ces réponses"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 3:3, Lévitique 3:9",
+                "questionText": "Qu'est-ce qui doit être présenté à Jéhovah en tant qu'offrande consumée par le feu lors d'un sacrifice de communion ?",
+                "sourceReference": "Lévitique 3 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-4-ai-bbaef6c1",
+        "chapterKey": "Leviticus|4",
+        "questionText": "What should be done to the skin and flesh of a bull used as a sin offering?",
+        "options": [
+            "It should be burned on the altar of burnt offering.",
+            "It should be taken to the outskirts of the camp and burned in a clean place where ashes are discarded.",
+            "It should be given to the priests as food.",
+            "It should be buried outside the camp."
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 4:11-12",
+        "sourceReference": "Leviticus 4 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Es soll auf dem Brandopferaltar verbrannt werden.",
+                    "Er sollte an den Rand des Lagers gebracht und an einem sauberen Ort verbrannt werden, wo die Asche entsorgt wird.",
+                    "Es sollte den Priestern als Nahrung gegeben werden.",
+                    "Sie sollte außerhalb des Lagers vergraben werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 4:11-12",
+                "questionText": "Was soll man mit der Haut und dem Fleisch eines Stieres machen, der als Sündopfer verwendet wird?",
+                "sourceReference": "3. Mose 4 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Il doit être brûlé sur l'autel des holocaustes.",
+                    "Il doit être transporté à l'extérieur du camp et brûlé dans un endroit propre où les cendres sont jetées.",
+                    "Il doit être donné aux prêtres en guise de nourriture.",
+                    "Il devrait être enterré à l'extérieur du camp."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 4:11-12",
+                "questionText": "Que faut-il faire de la peau et de la chair d'un taureau utilisé comme sacrifice pour le péché ?",
+                "sourceReference": "Lévitique 4 (Nouvelle traduction mondiale)"
             }
         }
     },
