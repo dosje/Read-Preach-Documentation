@@ -1061,6 +1061,156 @@
         }
     },
     {
+        "id": "mat-26-ai-067d7dff",
+        "chapterKey": "Matthew|26",
+        "questionText": "Who was the one who betrayed Jesus?",
+        "options": [
+            "Judas Iscariot",
+            "Petrus",
+            "Caiphas",
+            "The high priest's servant"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:25",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Judas Iskariot",
+                    "Peter",
+                    "Kaiphas",
+                    "Der Diener des Hohenpriesters"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:25",
+                "questionText": "Wer war derjenige, der Jesus verraten hat?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Judas Iscariote",
+                    "Pierre",
+                    "Caiphas",
+                    "Le serviteur du grand prêtre"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:25",
+                "questionText": "Qui a trahi Jésus ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "mat-26-ai-54677d52",
+        "chapterKey": "Matthew|26",
+        "questionText": "What did Jesus say would happen to the disciples on that night?",
+        "options": [
+            "They would all be happy and joyful",
+            "They would all be stumbled in connection with him",
+            "They would all become leaders of the church",
+            "They would all go to heaven immediately"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:31",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie wären alle glücklich und fröhlich",
+                    "Sie würden alle in Verbindung mit ihm ins Stolpern kommen.",
+                    "Sie würden alle Leiter der Kirche werden.",
+                    "Sie würden alle sofort in den Himmel kommen"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:31",
+                "questionText": "Was sagte Jesus, was mit den Jüngern in dieser Nacht geschehen würde?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ils seraient tous heureux et joyeux",
+                    "Ils seraient tous trébuchés en relation avec lui",
+                    "Ils deviendront tous des dirigeants de l'Église",
+                    "Ils iraient tous au paradis immédiatement"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:31",
+                "questionText": "Qu'est-ce que Jésus a dit qu'il arriverait aux disciples cette nuit-là ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "mat-26-ai-a727b7c0",
+        "chapterKey": "Matthew|26",
+        "questionText": "How many times did Peter deny knowing Jesus?",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:74",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sobald",
+                    "Zweimal",
+                    "Dreimal",
+                    "Viermal"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:74",
+                "questionText": "Wie oft hat Petrus geleugnet, Jesus zu kennen?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Une fois",
+                    "Deux fois",
+                    "Trois fois",
+                    "Quatre fois"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:74",
+                "questionText": "Combien de fois Pierre a-t-il nié connaître Jésus ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
         "id": "psa_23_q1",
         "chapterKey": "Psalms|23",
         "questionText": "How does David describe Jehovah at the opening of Psalm 23?",
