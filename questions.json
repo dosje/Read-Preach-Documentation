@@ -974,6 +974,271 @@
         }
     },
     {
+        "id": "jos-3-ai-1148fdeb",
+        "chapterKey": "Joshua|3",
+        "questionText": "How far should the Israelites keep from the ark of the covenant?",
+        "options": [
+            "About 100 cubits",
+            "About 2,000 cubits",
+            "As close as possible",
+            "Not specified in the passage"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Joshua 3:4",
+        "sourceReference": "Joshua 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Etwa 100 Ellen",
+                    "Etwa 2.000 Ellen",
+                    "So nah wie möglich",
+                    "Im Text nicht angegeben"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 3:4",
+                "questionText": "Wie weit sollten sich die Israeliten von der Bundeslade entfernen?",
+                "sourceReference": "Josua 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Environ 100 coudées",
+                    "Environ 2 000 coudées",
+                    "Aussi proche que possible",
+                    "Non spécifié dans le passage"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 3:4",
+                "questionText": "À quelle distance les Israélites doivent-ils se tenir de l'arche de l'alliance ?",
+                "sourceReference": "Josué 3 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "jos-4-ai-a32fff7b",
+        "chapterKey": "Joshua|4",
+        "questionText": "How many stones were taken from the middle of the Jordan?",
+        "options": [
+            "10",
+            "12",
+            "20",
+            "40"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Joshua 4:8, 'They took up 12 stones from the middle of the Jordan, just as Jehovah had instructed Joshua, to correspond to the number of the tribes of the Israelites.'",
+        "sourceReference": "Joshua 4 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "10",
+                    "12",
+                    "20",
+                    "40"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 4:8: \"Sie holten 12 Steine aus der Mitte des Jordans, so wie Jehova es Josua aufgetragen hatte, entsprechend der Zahl der Stämme der Israeliten\".",
+                "questionText": "Wie viele Steine wurden aus der Mitte des Jordans entnommen?",
+                "sourceReference": "Josua 4 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "10",
+                    "12",
+                    "20",
+                    "40"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 4:8 : \"Ils enlevèrent douze pierres du milieu du Jourdain, comme Jéhovah l'avait ordonné à Josué, pour correspondre au nombre des tribus d'Israël\".",
+                "questionText": "Combien de pierres ont été prises au milieu du Jourdain ?",
+                "sourceReference": "Josué 4 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "jdg-1-ai-0178f6ed",
+        "chapterKey": "Judges|1",
+        "questionText": "Who did Jehovah say would go up first to fight against the Caʹnaan·ites?",
+        "options": [
+            "Judah",
+            "Simʹe·on",
+            "Ephraim",
+            "Benjamin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 1:2",
+        "sourceReference": "Judges 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Juda",
+                    "Simʹe-on",
+                    "Ephraim",
+                    "Benjamin"
+                ],
+                "sourceURLs": [],
+                "explanation": "Richter 1:2",
+                "questionText": "Wer, so sagte Jehova, würde zuerst hinaufziehen, um gegen die Caʹnaaniter zu kämpfen?",
+                "sourceReference": "Richter 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Juda",
+                    "Simʹe-on",
+                    "Ephraïm",
+                    "Benjamin"
+                ],
+                "sourceURLs": [],
+                "explanation": "Juges 1:2",
+                "questionText": "Qui, selon Jéhovah, monterait le premier pour combattre les Caʹnaanites ?",
+                "sourceReference": "Juges 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-2-ai-c3ec7971",
+        "chapterKey": "Judges|2",
+        "questionText": "What was the reason Jehovah did not drive out all the nations that Joshua left behind?",
+        "options": [
+            "Because they were too strong",
+            "To test whether Israel would keep Jehovah's way by walking in it as their fathers did",
+            "Because Jehovah had sworn to protect them",
+            "Because Joshua was still alive"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 2:21, \"This is to test whether Israel will keep Jehovah's way by walking in it as their fathers did.\"",
+        "sourceReference": "Judges 2 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Weil sie zu stark waren",
+                    "Um zu prüfen, ob Israel den Weg Jehovas einhalten würde, indem es ihn wie seine Väter beschreitet",
+                    "Denn Jehova hatte geschworen, sie zu beschützen",
+                    "Weil Josua noch am Leben war"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Richter 2:21: \"Damit soll geprüft werden, ob Israel den Weg Jehovas einhält, indem es darin wandelt, wie es seine Väter getan haben.\"",
+                "questionText": "Was war der Grund dafür, dass Jehova nicht alle Völker, die Josua zurückließ, vertrieb?",
+                "sourceReference": "Richter 2 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Parce qu'ils étaient trop forts",
+                    "Pour vérifier si Israël gardera la voie de Jéhovah en y marchant comme ses pères.",
+                    "Parce que Jéhovah avait juré de les protéger",
+                    "Parce que Joshua était encore en vie"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Juges 2:21 : \"C'est pour éprouver si Israël gardera la voie de l'Éternel en y marchant comme l'ont fait leurs pères\".",
+                "questionText": "Quelle est la raison pour laquelle Jéhovah n'a pas chassé toutes les nations que Josué a laissées derrière lui ?",
+                "sourceReference": "Juges 2 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-3-ai-cf5619d8",
+        "chapterKey": "Judges|3",
+        "questionText": "How many years did the Israelites serve under Cuʹshan-rish·a·thaʹim the king of Mes·o·po·taʹmi·a?",
+        "options": [
+            "8 years",
+            "18 years",
+            "40 years",
+            "80 years"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 3:8",
+        "sourceReference": "Judges 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "8 Jahre",
+                    "18 Jahre",
+                    "40 Jahre",
+                    "80 Jahre"
+                ],
+                "sourceURLs": [],
+                "explanation": "Richter 3:8",
+                "questionText": "Wie viele Jahre dienten die Israeliten unter Cuʹshan-rish-a-thaʹim, dem König von Mes-o-po-taʹmi-a?",
+                "sourceReference": "Richter 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "8 ans",
+                    "18 ans",
+                    "40 ans",
+                    "80 ans"
+                ],
+                "sourceURLs": [],
+                "explanation": "Juges 3:8",
+                "questionText": "Combien d'années les Israélites ont-ils servi sous Cuʹshan-rish-a-thaʹim, le roi de Mes-o-po-taʹmi-a ?",
+                "sourceReference": "Juges 3 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-5-ai-716bf89d",
+        "chapterKey": "Judges|5",
+        "questionText": "Who was the mother of Sis'era?",
+        "options": [
+            "Deborah",
+            "Ja'el",
+            "He'ber's wife",
+            "Sis'era's sister"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judg. 5:24",
+        "sourceReference": "Judges 5 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Deborah",
+                    "Ja'el",
+                    "He'bers Frau",
+                    "Die Schwester von Sis'era"
+                ],
+                "sourceURLs": [],
+                "explanation": "Judg. 5:24",
+                "questionText": "Wer war die Mutter von Sis'era?",
+                "sourceReference": "Richter 5 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Deborah",
+                    "Ja'el",
+                    "L'épouse de He'ber",
+                    "La sœur de Sis'era"
+                ],
+                "sourceURLs": [],
+                "explanation": "Jugement 5:24",
+                "questionText": "Qui était la mère de Sis'era ?",
+                "sourceReference": "Juges 5 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
         "id": "lev-1-ai-0421bbc3",
         "chapterKey": "Leviticus|1",
         "questionText": "What should be done to a sound male animal before presenting it as a burnt offering?",
