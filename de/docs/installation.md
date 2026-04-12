@@ -9,7 +9,7 @@ permalink: /de/docs/installation/
 ## Voraussetzungen
 
 - **iPhone oder iPad**
-- **iOS 16.0 oder neuer**
+- **iOS 18.2 oder neuer**
 - Nach der Installation ist keine Internetverbindung erforderlich
 
 ## Installation aus dem App Store

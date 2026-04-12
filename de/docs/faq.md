@@ -15,7 +15,7 @@ Read & Preach ist eine native iOS-App für Brüder, die Dienstberichterstattung 
 Ja. Read & Preach ist vollständig kostenlos — ohne In-App-Käufe und ohne Abonnement.
 
 **Auf welchen Geräten ist die App verfügbar?**
-Nur iPhone und iPad (iOS 16.0 oder neuer). Die App ist für beide Geräte mit einem adaptiven Layout optimiert.
+Nur iPhone und iPad (iOS 18.2 oder neuer). Die App ist für beide Geräte mit einem adaptiven Layout optimiert.
 
 **Ist eine Internetverbindung erforderlich?**
 Nein. Die App funktioniert vollständig offline. Eine Internetverbindung wird nur benötigt, wenn du auf einen Link tippst, um eine Bibelstelle auf JW.org oder in der JW Library zu öffnen.
