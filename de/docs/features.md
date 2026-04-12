@@ -46,6 +46,33 @@ Unter **Einstellungen → Berichtseinstellungen**:
 
 ---
 
+## Diensttimer
+
+Der Diensttimer misst, wie lange du im Predigtdienst bist, und ermöglicht das direkte Speichern der Zeit in deinen Tagesbericht.
+
+### Bedienung
+
+Tippe im Bericht-Reiter auf die Timer-Schaltfläche, um den Diensttimer zu öffnen:
+- **Starten** — startet die Zeitmessung beim Beginn des Dienstes
+- **Pausieren / Fortsetzen** — halte den Timer bei Pausen an und setze ihn danach fort
+- **Stoppen** — beendet die Sitzung; ein Speicherdialog zeigt die auf 30 Minuten gerundete Zeit, bereit zum Hinzufügen zum Tageseintrag
+
+### Startbildschirm-Widgets
+
+Füge ein Diensttimer-Widget zum Startbildschirm hinzu. Zwei Größen sind verfügbar:
+- **Klein** — zeigt den aktuellen Timer mit Symbol-Schaltflächen für Pausieren/Fortsetzen und Stopp
+- **Mittel** — zeigt den Timer links und beschriftete Schaltflächen (Pausieren, Fortsetzen, Stopp) rechts
+
+Beide Größen aktualisieren sich automatisch und ermöglichen die Steuerung ohne App-Öffnung.
+
+### Live Activity & Dynamic Island
+
+Wenn du den Timer startest, wird auf unterstützten Geräten automatisch eine Live Activity erstellt:
+- **Sperrbildschirm** — zeigt die verstrichene Zeit mit Pausieren/Fortsetzen- und Stopp-Schaltflächen
+- **Dynamic Island** (iPhone 14 Pro und neuer) — zeigt einen kompakten animierten Timer in der Pille; lang drücken, um die Steuerung aufzuklappen
+
+---
+
 ## Bibel-Reiter
 
 Der Bibel-Reiter verfolgt deinen Fortschritt durch alle 1.189 Bibelkapitel.

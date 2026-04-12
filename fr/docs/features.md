@@ -46,6 +46,33 @@ Sous **Paramètres → Paramètres de rapport** :
 
 ---
 
+## Minuteur de ministère
+
+Le minuteur de ministère mesure la durée de votre activité de prédication et vous permet d'enregistrer ce temps directement dans votre rapport quotidien.
+
+### Utilisation
+
+Appuyez sur le bouton du minuteur dans l'onglet Rapport pour ouvrir le Minuteur de ministère :
+- **Démarrer** — lance le chronométrage au début du service
+- **Pause / Reprendre** — mettez le minuteur en pause lors des interruptions et reprenez ensuite
+- **Arrêter** — termine la session ; une boîte de dialogue affiche votre temps arrondi aux 30 minutes les plus proches, prêt à être ajouté à l'entrée du jour
+
+### Widgets d'écran d'accueil
+
+Ajoutez un widget Minuteur de ministère à votre écran d'accueil. Deux tailles sont disponibles :
+- **Petit** — affiche le minuteur actuel avec des contrôles icône-only (Pause/Reprendre et Arrêt)
+- **Moyen** — affiche le minuteur à gauche et des boutons étiquetés (Pause, Reprendre, Arrêt) à droite
+
+Les deux tailles se mettent à jour automatiquement et permettent de contrôler le minuteur sans ouvrir l'application.
+
+### Live Activity & Dynamic Island
+
+Lorsque vous démarrez le minuteur, une Live Activity est créée automatiquement sur les appareils compatibles :
+- **Écran verrouillé** — affiche le temps écoulé avec les contrôles Pause/Reprendre et Arrêt
+- **Dynamic Island** (iPhone 14 Pro et ultérieurs) — affiche un minuteur animé compact dans la pastille ; appui long pour développer et accéder aux contrôles
+
+---
+
 ## Onglet Bible
 
 L'onglet Bible suit votre progression à travers les 1 189 chapitres de la Bible.

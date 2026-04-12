@@ -18,6 +18,7 @@ permalink: /de/
 
 ## Highlights
 
+- **Diensttimer** — Dienstzeit mit Widget und Dynamic Island erfassen, direkt in den Bericht speichern
 - **Kein Konto erforderlich** — alle Daten bleiben auf deinem Gerät
 - **iPhone & iPad** — vollständig adaptives Layout für alle Bildschirmgrößen
 - **3 Sprachen** — Englisch, Deutsch, Französisch

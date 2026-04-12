@@ -18,6 +18,7 @@ permalink: /fr/
 
 ## Points forts
 
+- **Minuteur de ministère** — suivez votre temps de prédication avec widgets et Dynamic Island, sauvegardez directement dans votre rapport
 - **Aucun compte requis** — toutes les données restent sur votre appareil
 - **iPhone & iPad** — mise en page entièrement adaptative pour toutes les tailles d'écran
 - **3 langues** — anglais, allemand, français

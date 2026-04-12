@@ -57,6 +57,22 @@ Eine einmalige Zuweisung ermöglicht es dir, einen temporären Hilfspionier-Mona
 
 ---
 
+## Diensttimer
+
+**Wie starte ich den Diensttimer?**
+Tippe im Bericht-Reiter auf die Timer-Schaltfläche. Tippe auf **Starten**, um die Zeitmessung zu beginnen. Der Timer läuft im Hintergrund weiter, auch wenn du die App verlässt.
+
+**Wie speichere ich meine Dienstzeit?**
+Tippe auf **Stopp** in der App, im Widget oder in der Live Activity. Ein Speicherdialog zeigt die auf 30 Minuten gerundete Zeit. Bestätige, um sie direkt zum heutigen Bericht hinzuzufügen.
+
+**Kann ich den Timer vom Startbildschirm aus steuern?**
+Ja. Füge ein Diensttimer-Widget (klein oder mittel) zum Startbildschirm hinzu. Beide Größen unterstützen Pausieren, Fortsetzen und Stopp ohne App-Öffnung.
+
+**Der Timer läuft, aber die Dynamic Island ist leer.**
+Stelle sicher, dass Live Activities für die App aktiviert sind unter **iPhone-Einstellungen → Read & Preach → Live Activities**. Live Activities erfordern iOS 16.1 oder neuer und sind auf älteren Geräten nicht verfügbar. Auf iPhone 12 und älteren Modellen (ohne Dynamic Island) erscheint der Timer stattdessen auf dem Sperrbildschirm.
+
+---
+
 ## Bibel-Reiter
 
 **Wie richte ich einen Leseplan ein?**

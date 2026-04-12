@@ -58,6 +58,22 @@ A one-time assignment lets you set a temporary Auxiliary Pioneer month (15 or 30
 
 ---
 
+## Ministry Timer
+
+**How do I start the Ministry Timer?**
+Tap the timer button in the Report tab. Tap **Start** to begin timing. The timer continues running in the background even if you leave the app.
+
+**How do I save my ministry time?**
+Tap **Stop** in the app, widget, or Live Activity. A save dialog appears showing your time rounded to the nearest 30 minutes. Confirm to add it directly to today's report entry.
+
+**Can I control the timer from my home screen?**
+Yes. Add a Ministry Timer widget (small or medium) to your home screen. Both sizes support Pause, Resume, and Stop without opening the app.
+
+**The timer is running but the Dynamic Island is empty.**
+Make sure Live Activities are enabled for the app in **iPhone Settings → Read & Preach → Live Activities**. Live Activities require iOS 16.1 or later and are not available on older devices. On iPhone 12 and earlier (no Dynamic Island), the timer appears on the Lock Screen instead.
+
+---
+
 ## Bible Tab
 
 **How do I set up a reading plan?**

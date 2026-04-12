@@ -57,6 +57,22 @@ Une mission ponctuelle vous permet de définir un mois de pionnier auxiliaire te
 
 ---
 
+## Minuteur de ministère
+
+**Comment démarrer le Minuteur de ministère ?**
+Appuyez sur le bouton du minuteur dans l'onglet Rapport. Appuyez sur **Démarrer** pour commencer le chronométrage. Le minuteur continue de fonctionner en arrière-plan même si vous quittez l'application.
+
+**Comment enregistrer mon temps de ministère ?**
+Appuyez sur **Arrêter** dans l'application, le widget ou la Live Activity. Une boîte de dialogue affiche votre temps arrondi aux 30 minutes les plus proches. Confirmez pour l'ajouter directement au rapport du jour.
+
+**Puis-je contrôler le minuteur depuis mon écran d'accueil ?**
+Oui. Ajoutez un widget Minuteur de ministère (petit ou moyen) à votre écran d'accueil. Les deux tailles prennent en charge Pause, Reprendre et Arrêt sans ouvrir l'application.
+
+**Le minuteur fonctionne mais la Dynamic Island est vide.**
+Assurez-vous que les Live Activities sont activées pour l'application dans **Réglages iPhone → Read & Preach → Live Activities**. Les Live Activities nécessitent iOS 16.1 ou version ultérieure et ne sont pas disponibles sur les appareils plus anciens. Sur iPhone 12 et modèles antérieurs (sans Dynamic Island), le minuteur apparaît sur l'écran verrouillé à la place.
+
+---
+
 ## Onglet Bible
 
 **Comment configurer un plan de lecture ?**

@@ -50,6 +50,33 @@ In **Settings → Report Settings** you can configure your ministry role:
 
 ---
 
+## Ministry Timer
+
+The Ministry Timer tracks how long you spend in field ministry and lets you save the time directly to your daily report.
+
+### How to use
+
+Tap the timer button in the Report tab to open the Ministry Timer:
+- **Start** — begins timing when you enter the territory
+- **Pause / Resume** — pause the timer during breaks and resume when you continue
+- **Stop** — ends the session; a save dialog shows your time rounded to the nearest 30 minutes, ready to add to the day's report entry
+
+### Home screen widgets
+
+Add a Ministry Timer widget to your home screen. Two sizes are available:
+- **Small** — shows the current timer with icon-only Pause/Resume and Stop controls
+- **Medium** — shows the timer on the left with labelled Pause, Resume, and Stop buttons on the right
+
+Both sizes update automatically and let you control the timer without opening the app.
+
+### Live Activity & Dynamic Island
+
+When you start the timer, a Live Activity is created automatically on supported devices:
+- **Lock Screen** — shows the elapsed time with Pause/Resume and Stop controls
+- **Dynamic Island** (iPhone 14 Pro and later) — shows a compact animated timer in the pill; long-press to expand and access controls
+
+---
+
 ## Bible Tab
 
 The Bible tab tracks your progress through all 1,189 chapters of the Bible.
