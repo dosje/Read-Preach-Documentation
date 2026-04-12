@@ -93,6 +93,15 @@ La série compte les jours consécutifs pendant lesquels au moins un chapitre a 
 **Comment voir quels chapitres j'ai déjà lus et quand ?**
 Appuyez sur **Voir l'historique** dans la carte de progression. L'historique affiche un journal quotidien de tous les chapitres lus ainsi qu'un journal de chaque fois que vous avez terminé toute la Bible.
 
+**Qu'est-ce que le Quiz de lecture ?**
+Après avoir lu les chapitres du jour, un bouton Quiz apparaît dans la section Lecture du jour. Il présente des questions de compréhension basées sur les chapitres lus. Le quiz fonctionne dans tous les modes de lecture, y compris le mode libre.
+
+**Puis-je modifier la difficulté du quiz ?**
+Oui. Allez dans **Paramètres → Paramètres de lecture biblique → Difficulté du quiz** et choisissez Mixte (tous niveaux), Facile, Moyen ou Difficile. Le paramètre s'applique immédiatement.
+
+**Combien de questions contient le quiz ?**
+Vous pouvez définir le nombre maximum de questions par session dans **Paramètres → Paramètres de lecture biblique → Nombre max. de questions** (1 à 10).
+
 **Qu'est-ce que le Suivi du Mémorial ?**
 Le Suivi du Mémorial apparaît pendant la saison du Mémorial (environ 7 jours avant le 14 Nisan). Il affiche les passages bibliques assignés et les chapitres du livre *Jésus — le chemin, la vérité, la vie* pour chaque jour. Il se réinitialise automatiquement chaque année après la date du Mémorial.
 
@@ -113,4 +122,4 @@ Assurez-vous d'avoir accordé l'autorisation de notifications à l'application d
 
 ## Contact & Support
 
-Un bug ou une suggestion ? Contactez-nous à [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) ou visitez notre [page de contact](https://www.read-preach.com/contactus).
+Une question ou un bug ? Contactez-nous via le formulaire de contact sur notre [page de contact](https://www.read-preach.com/contactus).

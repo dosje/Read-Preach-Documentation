@@ -36,4 +36,4 @@ permalink: /de/
 
 ## Support
 
-Frage oder Fehler gefunden? Kontaktiere uns unter [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) oder besuche unsere [Kontaktseite](https://www.read-preach.com/contactus).
+Frage oder Fehler gefunden? Kontaktiere uns über das Kontaktformular auf der [Kontaktseite](https://www.read-preach.com/contactus).

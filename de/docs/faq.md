@@ -93,6 +93,15 @@ Der Streak zählt aufeinanderfolgende Tage, an denen mindestens ein Kapitel gele
 **Wie sehe ich, welche Kapitel ich wann gelesen habe?**
 Tippe auf **Verlauf anzeigen** in der Fortschrittskarte. Der Verlauf zeigt ein tägliches Protokoll aller gelesenen Kapitel sowie ein Protokoll jedes Mal, wenn du die gesamte Bibel abgeschlossen hast.
 
+**Was ist das Lesequiz?**
+Nachdem du die heutigen Kapitel gelesen hast, erscheint ein Quiz-Button im Bereich „Heutiges Lesen". Er zeigt Verständnisfragen zu den gelesenen Kapiteln. Das Quiz funktioniert in allen Lese-Modi, einschließlich des freien Modus.
+
+**Kann ich den Quiz-Schwierigkeitsgrad ändern?**
+Ja. Gehe zu **Einstellungen → Bibellese-Einstellungen → Quiz-Schwierigkeitsgrad** und wähle Gemischt (alle Stufen), Einfach, Mittel oder Schwer. Die Einstellung wird sofort übernommen.
+
+**Wie viele Fragen hat das Quiz?**
+Du kannst die maximale Anzahl von Fragen pro Sitzung unter **Einstellungen → Bibellese-Einstellungen → Max. Quizfragen** festlegen (1 bis 10).
+
 **Was ist der Gedenkmahl-Tracker?**
 Der Gedenkmahl-Tracker erscheint während der Gedenkmahl-Saison (ca. 7 Tage vor Nisan 14). Er zeigt die zugewiesenen Bibelstellen und Kapitel aus *Jesus — der Weg, die Wahrheit, das Leben* für jeden Tag. Er wird jedes Jahr nach dem Gedenkmahldatum automatisch zurückgesetzt.
 
@@ -113,4 +122,4 @@ Stelle sicher, dass du der App Benachrichtigungsrechte gewährt hast unter **iPh
 
 ## Kontakt & Support
 
-Fehler gefunden oder eine Frage? Kontaktiere uns unter [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) oder besuche unsere [Kontaktseite](https://www.read-preach.com/contactus).
+Frage oder Fehler gefunden? Kontaktiere uns über das Kontaktformular auf der [Kontaktseite](https://www.read-preach.com/contactus).

@@ -123,6 +123,18 @@ Appuyez sur **Voir l'historique** dans la carte de progression :
 - **Achèvements de la Bible** — journal de chaque date où vous avez terminé tous les 1 189 chapitres
 - **Journal de lecture quotidien** — tous les chapitres lus, groupés par date
 
+### Quiz de lecture
+
+Après avoir marqué les chapitres du jour comme lus, un bouton **Quiz** apparaît dans la section Lecture du jour. Le quiz teste votre compréhension des chapitres que vous venez de lire.
+
+- Les questions sont tirées des chapitres lus aujourd'hui
+- Fonctionne dans tous les modes de lecture, y compris le mode libre
+- Appuyez sur **Démarrer le quiz** pour commencer ; glissez ou appuyez pour passer entre les questions
+- Chaque question affiche la référence du chapitre biblique dont elle est tirée
+- Votre score est affiché à la fin de la session
+
+Le quiz est facultatif — vous pouvez le passer à tout moment.
+
 ### Suivi du Mémorial
 
 Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan), une carte du Mémorial et une section de lecture quotidienne apparaissent. Elles affichent les passages assignés de la Bible et les chapitres du livre *Jésus — le chemin, la vérité, la vie*.
@@ -152,6 +164,8 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 - **Créer le plan / Recalculer**
 - **Rappel quotidien** — notification push avec les chapitres non lus du jour
 - **Série de lecture** — activer/désactiver le suivi de série
+- **Difficulté du quiz** — filtrer les questions par niveau : Mixte (tous niveaux), Facile, Moyen ou Difficile
+- **Nombre max. de questions** — définir le nombre maximum de questions par session (1–10)
 
 ### Paramètres du Suivi du Mémorial
 

@@ -35,4 +35,4 @@ title: Home
 
 ## Support
 
-Found a bug or have a question? Contact us via [support@read-preach.odoo.com](mailto:support@read-preach.odoo.com) or visit our [contact page](https://www.read-preach.com/contactus).
+Found a bug or have a question? Contact us via our support form by visiting [contact page](https://www.read-preach.com/contactus).

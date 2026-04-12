@@ -1,193 +1,2219 @@
 [
-  {
-    "id": "gen_1_q1",
-    "chapterKey": "Genesis|1",
-    "questionText": "On which creative day did God make the sun, moon, and stars?",
-    "options": [
-      "Day 2",
-      "Day 3",
-      "Day 4",
-      "Day 6"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "On the fourth day God made the two great luminaries and the stars to give light on the earth and to mark seasons, days, and years.",
-    "sourceReference": "Genesis 1:14-19",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01001014&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_1_q2",
-    "chapterKey": "Genesis|1",
-    "questionText": "What phrase is repeated after each day of creation to show God's approval?",
-    "options": [
-      "\"And it was so\"",
-      "\"God saw that it was good\"",
-      "\"Let there be light\"",
-      "\"God blessed it\""
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "After each creative work, the account says 'God saw that it was good,' showing divine satisfaction with his handiwork.",
-    "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01001004&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_1_q3",
-    "chapterKey": "Genesis|1",
-    "questionText": "In whose image was mankind created?",
-    "options": [
-      "The angels",
-      "God",
-      "The animals",
-      "Adam"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Genesis 1:27 states: 'God created man in his image, in God's image he created him; male and female he created them.'",
-    "sourceReference": "Genesis 1:27; Insight on the Scriptures, Vol. 2, \"Man\"",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01001027&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_2_q1",
-    "chapterKey": "Genesis|2",
-    "questionText": "From what material did God form the first man?",
-    "options": [
-      "Clay from a river",
-      "Dust from the ground",
-      "Sand from the sea",
-      "Stone from a mountain"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Genesis 2:7 says God 'formed man from the dust of the ground' and breathed into his nostrils the breath of life.",
-    "sourceReference": "Genesis 2:7",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01002007&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_2_q2",
-    "chapterKey": "Genesis|2",
-    "questionText": "What was the name of the garden where God placed Adam?",
-    "options": [
-      "Eden",
-      "Canaan",
-      "Sharon",
-      "Goshen"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "God planted a garden in Eden, eastward, and placed the man he had formed there (Genesis 2:8).",
-    "sourceReference": "Genesis 2:8, 15",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01002008&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_3_q1",
-    "chapterKey": "Genesis|3",
-    "questionText": "What did God say would happen to Adam if he ate from the tree of the knowledge of good and bad?",
-    "options": [
-      "He would become wise",
-      "He would die",
-      "He would be banished immediately",
-      "He would lose his memory"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "God warned: 'For in the day you eat from it you will certainly die' (Genesis 2:17). This introduced the prospect of death into human history.",
-    "sourceReference": "Genesis 2:17; 3:3",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01002017&wtlocale=E"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "gen_3_q2",
-    "chapterKey": "Genesis|3",
-    "questionText": "What did God promise in Genesis 3:15 regarding the serpent's \"offspring\" and the woman's \"offspring\"?",
-    "options": [
-      "They would live in peace",
-      "The woman's offspring would crush the serpent's head",
-      "The serpent's offspring would rule the earth",
-      "Both would be removed from the garden"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Genesis 3:15 records the first Messianic prophecy: the offspring of the woman would strike the serpent's head, pointing to the crushing of Satan by Jesus Christ.",
-    "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
-    "sourceURLs": [
-      "https://www.jw.org/finder?bible=01003015&wtlocale=E"
-    ],
-    "difficulty": "intermediate",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  },
-  {
-    "id": "act_2_q1",
-    "chapterKey": "Acts|2",
-    "questionText": "What event happened on the day of Pentecost as described in Acts 2?",
-    "options": [
-      "Jesus appeared visibly to all in Jerusalem",
-      "The holy spirit was poured out and the disciples spoke in different languages",
-      "The apostles performed a mass healing at the temple",
-      "An angel announced the resurrection to the crowd"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "On Pentecost 33 CE the holy spirit was poured out, the disciples spoke in tongues (different languages), and about 3,000 were baptised that day (Acts 2:1-4, 41).",
-    "sourceReference": "Acts 2:1-4, 41",
-    "sourceURLs": [
-      "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
-    ],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": [],
-    "translations": {
-      "de": {
-        "questionText": "Welches Ereignis trug sich am Pfingsttag zu, wie es in der Apostelgeschichte 2 beschrieben wird?",
+    {
+        "id": "act_2_q1",
+        "chapterKey": "Acts|2",
+        "questionText": "What event happened on the day of Pentecost as described in Acts 2?",
         "options": [
-          "Jesus erschien allen sichtbar in Jerusalem.",
-          "Der Heilige Geist wurde ausgegossen und die Jünger sprachen in verschiedenen Sprachen.",
-          "Die Apostel führten im Tempel eine Massenheilung durch.",
-          "Ein Engel verkündete der Menge die Auferstehung."
+            "Jesus appeared visibly to all in Jerusalem",
+            "The holy spirit was poured out and the disciples spoke in different languages",
+            "The apostles performed a mass healing at the temple",
+            "An angel announced the resurrection to the crowd"
         ],
-        "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die Jünger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
-        "sourceReference": "Apostelgeschichte 2:1-4, 41"
-      }
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "On Pentecost 33 CE the holy spirit was poured out, the disciples spoke in tongues (different languages), and about 3,000 were baptised that day (Acts 2:1-4, 41).",
+        "sourceReference": "Acts 2:1-4, 41",
+        "sourceURLs": [
+            "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Jesus erschien allen sichtbar in Jerusalem.",
+                    "Der Heilige Geist wurde ausgegossen und die Jünger sprachen in verschiedenen Sprachen.",
+                    "Die Apostel führten im Tempel eine Massenheilung durch.",
+                    "Ein Engel verkündete der Menge die Auferstehung."
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+                ],
+                "explanation": "Am Pfingsttag 33 n. Chr. wurde der Heilige Geist ausgegossen, die Jünger sprachen in Zungen (verschiedenen Sprachen), und etwa 3000 Menschen wurden an diesem Tag getauft (Apg 2,1-4.41).",
+                "questionText": "Welches Ereignis trug sich am Pfingsttag zu, wie es in der Apostelgeschichte 2 beschrieben wird?",
+                "sourceReference": "Apostelgeschichte 2:1-4, 41"
+            },
+            "fr": {
+                "options": [
+                    "Jésus est apparu visiblement à tous les habitants de Jérusalem",
+                    "Le Saint-Esprit a été répandu et les disciples ont parlé en différentes langues.",
+                    "Les apôtres procèdent à une guérison collective au temple",
+                    "Un ange annonce la résurrection à la foule"
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/de/bibliothek/bibel/studienbibel/buecher/apostelgeschichte/2/#v44002001-v44002047"
+                ],
+                "explanation": "Le jour de la Pentecôte 33 CE, le Saint-Esprit a été répandu, les disciples ont parlé en langues (différentes langues) et environ 3 000 personnes ont été baptisées ce jour-là (Actes 2:1-4, 41).",
+                "questionText": "Quel événement s'est produit le jour de la Pentecôte, tel qu'il est décrit dans Actes 2 ?",
+                "sourceReference": "Actes 2:1-4, 41"
+            }
+        }
+    },
+    {
+        "id": "act_2_q2",
+        "chapterKey": "Acts|2",
+        "questionText": "Peter quoted Psalm 16 in Acts 2 to prove what point about Jesus?",
+        "options": [
+            "That Jesus was greater than Moses",
+            "That Jesus was the promised Messiah who would be resurrected",
+            "That Jesus had existed before Abraham",
+            "That Jesus fulfilled the Sabbath requirement"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Peter argued that David, speaking prophetically, foretold the resurrection of the Christ â€” since David himself died and his tomb was still there, the prophecy must refer to Jesus (Acts 2:25-32).",
+        "sourceReference": "Acts 2:25-32; Psalm 16:8-11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=44002025&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Dass Jesus größer war als Mose",
+                    "dass Jesus der verheißene Messias war, der wieder auferstehen würde",
+                    "Dass Jesus schon vor Abraham existiert hat",
+                    "Dass Jesus das Sabbatgebot erfüllt hat"
+                ],
+                "explanation": "Petrus argumentierte, dass David, der prophetisch sprach, die Auferstehung des Christus voraussagte â€\" da David selbst starb und sein Grab noch da war, musste sich die Prophezeiung auf Jesus beziehen (Apostelgeschichte 2:25-32).",
+                "questionText": "Petrus zitierte Psalm 16 in Apostelgeschichte 2, um zu beweisen, was er über Jesus sagen wollte?",
+                "sourceReference": "Apostelgeschichte 2:25-32; Psalm 16:8-11"
+            },
+            "fr": {
+                "options": [
+                    "Jésus était plus grand que Moïse",
+                    "Que Jésus était le Messie promis qui serait ressuscité",
+                    "Que Jésus a existé avant Abraham",
+                    "Jésus a satisfait aux exigences du sabbat"
+                ],
+                "explanation": "Pierre a soutenu que David, en parlant de manière prophétique, avait annoncé la résurrection du Christ - puisque David lui-même était mort et que son tombeau était toujours là, la prophétie devait se référer à Jésus (Actes 2:25-32).",
+                "questionText": "Pierre a cité le Psaume 16 dans Actes 2 pour prouver quel point concernant Jésus ?",
+                "sourceReference": "Actes 2:25-32 ; Psaume 16:8-11"
+            }
+        }
+    },
+    {
+        "id": "exo_1_q1",
+        "chapterKey": "Exodus|1",
+        "questionText": "Which Hebrew midwives did the the king of Egypt speak to?",
+        "options": [
+            "Shiphʹrah",
+            "Sar'ai",
+            "Zo'ar",
+            "Puʹah"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "multiple",
+        "sortOrder": 0,
+        "explanation": "You can find the names in Exodus 1:15.",
+        "sourceReference": "Exodus 1:15",
+        "correctAnswerIndices": [
+            0,
+            3
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Schịphra",
+                    "Sạrai",
+                    "Zọar",
+                    "Pua"
+                ],
+                "sourceURLs": [],
+                "explanation": "Die Namen findet man in 2. Moses 1:15.",
+                "questionText": "Mit welchen hebräischen Hebammen sprach der König von Ägypten?",
+                "sourceReference": "2. Moses 1:15"
+            },
+            "fr": {
+                "options": [
+                    "Shifra",
+                    "Saraï",
+                    "Zoar",
+                    "Poua"
+                ],
+                "sourceURLs": [],
+                "explanation": "Vous trouverez les noms dans Exode 1:15.",
+                "questionText": "À quelles sages-femmes hébraïques le roi d'Égypte s'est-il adressé ?",
+                "sourceReference": "Exode 1:15"
+            }
+        }
+    },
+    {
+        "id": "exo-1-ai-204c8e00",
+        "chapterKey": "Exodus|1",
+        "questionText": "What did Pharaoh order his people to do with every newborn son of the Hebrews?",
+        "options": [
+            "To keep them alive and raise them as their own",
+            "To throw them into the Nile River",
+            "To make them work in the fields from a young age",
+            "To give them to the midwives for care"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Exodus 1:22",
+        "sourceReference": "Exodus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Um sie am Leben zu erhalten und sie als ihre eigenen aufzuziehen",
+                    "Um sie in den Nil zu werfen",
+                    "Sie von klein auf auf den Feldern arbeiten zu lassen",
+                    "Zur Übergabe an die Hebammen zur Betreuung"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exodus 1:22",
+                "questionText": "Was befahl der Pharao seinem Volk, mit jedem neugeborenen Sohn der Hebräer zu tun?",
+                "sourceReference": "Exodus 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Les garder en vie et les élever comme s'ils étaient les leurs",
+                    "Les jeter dans le Nil",
+                    "Les faire travailler dans les champs dès leur plus jeune âge",
+                    "Les remettre aux sages-femmes pour qu'elles les prennent en charge"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exode 1:22",
+                "questionText": "Qu'est-ce que Pharaon a ordonné à son peuple de faire avec chaque fils nouveau-né des Hébreux ?",
+                "sourceReference": "Exode 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "exo_3_q1",
+        "chapterKey": "Exodus|3",
+        "questionText": "What did God tell Moses the divine name is?",
+        "options": [
+            "El Shaddai",
+            "Adonai",
+            "I Will Become What I Choose to Become (YHWH)",
+            "Jehovah of Armies"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "At the burning bush God revealed his name as 'I Will Become What I Choose to Become' (YHWH / Jehovah), emphasising his ability to fulfil his purposes.",
+        "sourceReference": "Exodus 3:14-15; Insight on the Scriptures, Vol. 2, \"Jehovah\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02003014&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "El Schaddai",
+                    "Adonai",
+                    "Ich werde werden, was ich werden will (JHWH)",
+                    "Jehova der Armeen"
+                ],
+                "explanation": "Am brennenden Dornbusch offenbarte Gott seinen Namen als \"Ich werde werden, was ich will\" (JHWH / Jehova) und betonte damit seine Fähigkeit, seine Pläne zu erfüllen.",
+                "questionText": "Wie nannte Gott Moses den göttlichen Namen?",
+                "sourceReference": "Exodus 3:14-15; Einsicht in die Heilige Schrift, Band 2, \"Jehova\""
+            },
+            "fr": {
+                "options": [
+                    "El Shaddai",
+                    "Adonaï",
+                    "Je deviendrai ce que j'ai choisi de devenir (YHWH)",
+                    "Jéhovah des armées"
+                ],
+                "explanation": "Dans le buisson ardent, Dieu a révélé son nom : \"Je deviendrai ce que j'ai choisi de devenir\" (YHWH / Jéhovah), soulignant ainsi sa capacité à accomplir ses desseins.",
+                "questionText": "Quel est le nom divin que Dieu a dit à Moïse ?",
+                "sourceReference": "Exode 3:14-15 ; Regard sur les Ecritures, vol. 2, \"Jéhovah\"."
+            }
+        }
+    },
+    {
+        "id": "exo-3-ai-a11c9cbf",
+        "chapterKey": "Exodus|3",
+        "questionText": "Who appeared to Moses in a flame of fire in the midst of a thornbush?",
+        "options": [
+            "Jehovah's angel",
+            "An Egyptian god",
+            "A prophet from Israel",
+            "Moses' father-in-law, Jethʹro"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Exodus 3:2",
+        "sourceReference": "Exodus 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Jehovas Engel",
+                    "Ein ägyptischer Gott",
+                    "Ein Prophet aus Israel",
+                    "Jethʹro, der Schwiegervater von Mose"
+                ],
+                "sourceURLs": [],
+                "explanation": "2. Moses 3:2",
+                "questionText": "Wer erschien Moses in einer Feuerflamme inmitten eines Dornbusches?",
+                "sourceReference": "2. Moses 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "L'ange de Jéhovah",
+                    "Un dieu égyptien",
+                    "Un prophète d'Israël",
+                    "Le beau-père de Moïse, Jethʹro"
+                ],
+                "sourceURLs": [],
+                "explanation": "Exode 3:2",
+                "questionText": "Qui est apparu à Moïse dans une flamme de feu au milieu d'un buisson d'épines ?",
+                "sourceReference": "Exode 3 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "exo_20_q1",
+        "chapterKey": "Exodus|20",
+        "questionText": "What is the first of the Ten Commandments?",
+        "options": [
+            "Do not make idols",
+            "Remember the Sabbath day",
+            "You must have no other gods besides God",
+            "Do not take the name of God in vain"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The first commandment is: 'You must have no other gods besides me' (Exodus 20:3), establishing exclusive devotion to Jehovah.",
+        "sourceReference": "Exodus 20:3",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02020003&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Macht keine Götzenbilder",
+                    "Denkt an den Sabbattag",
+                    "Ihr dürft keine anderen Götter neben Gott haben",
+                    "Du sollst den Namen Gottes nicht missbrauchen"
+                ],
+                "explanation": "Das erste Gebot lautet: Du sollst keine anderen Götter neben mir haben\" (2. Mose 20:3), womit die ausschließliche Hingabe an Jehova festgelegt wird.",
+                "questionText": "Wie lautet das erste der Zehn Gebote?",
+                "sourceReference": "Exodus 20:3"
+            },
+            "fr": {
+                "options": [
+                    "Ne pas fabriquer d'idoles",
+                    "Se souvenir du jour du sabbat",
+                    "Vous ne devez pas avoir d'autres dieux que Dieu",
+                    "Ne pas prendre le nom de Dieu en vain"
+                ],
+                "explanation": "Le premier commandement est le suivant : Tu n'auras pas d'autres dieux que moi\" (Exode 20:3), qui établit la dévotion exclusive à Jéhovah.",
+                "questionText": "Quel est le premier des dix commandements ?",
+                "sourceReference": "Exode 20:3"
+            }
+        }
+    },
+    {
+        "id": "exo_20_q2",
+        "chapterKey": "Exodus|20",
+        "questionText": "According to the Ten Commandments, what should be done on the Sabbath day?",
+        "options": [
+            "Offer a sacrifice at the altar",
+            "Fast and pray",
+            "Cease from all work and keep it holy",
+            "Travel to the tabernacle"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The fourth commandment required that no work be done on the Sabbath â€” neither by the Israelite, his household, nor his animals â€” because God rested on the seventh day (Exodus 20:8-11).",
+        "sourceReference": "Exodus 20:8-11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=02020008&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Bringen Sie ein Opfer auf dem Altar dar",
+                    "Fasten und Beten",
+                    "Hört auf mit der Arbeit und haltet sie heilig",
+                    "Reise zum Tabernakel"
+                ],
+                "explanation": "Das vierte Gebot verlangte, dass am Sabbat keine Arbeit verrichtet werden durfte â€\" weder vom Israeliten, noch von seinem Haushalt, noch von seinen Tieren â€\" weil Gott am siebten Tag ruhte (Exodus 20:8-11).",
+                "questionText": "Was soll man nach den Zehn Geboten am Sabbat tun?",
+                "sourceReference": "Exodus 20:8-11"
+            },
+            "fr": {
+                "options": [
+                    "Offrir un sacrifice à l'autel",
+                    "Jeûner et prier",
+                    "Cessez tout travail et gardez-le saint",
+                    "Voyage vers le tabernacle"
+                ],
+                "explanation": "Le quatrième commandement exigeait qu'aucun travail ne soit effectué le jour du sabbat - ni par l'Israélite, ni par sa famille, ni par ses animaux - parce que Dieu se reposait le septième jour (Exode 20:8-11).",
+                "questionText": "Selon les dix commandements, que doit-on faire le jour du sabbat ?",
+                "sourceReference": "Exode 20:8-11"
+            }
+        }
+    },
+    {
+        "id": "gen_1_q1",
+        "chapterKey": "Genesis|1",
+        "questionText": "On which creative day did God make the sun, moon, and stars?",
+        "options": [
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 6"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "On the fourth day God made the two great luminaries and the stars to give light on the earth and to mark seasons, days, and years.",
+        "sourceReference": "Genesis 1:14-19",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01001014&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Tag 2",
+                    "Tag 3",
+                    "Tag 4",
+                    "Tag 6"
+                ],
+                "explanation": "Am vierten Tag schuf Gott die beiden großen Leuchter und die Sterne, um die Erde zu beleuchten und die Jahreszeiten, Tage und Jahre zu kennzeichnen.",
+                "questionText": "An welchem Tag schuf Gott die Sonne, den Mond und die Sterne?",
+                "sourceReference": "Genesis 1:14-19"
+            },
+            "fr": {
+                "options": [
+                    "Jour 2",
+                    "Troisième jour",
+                    "Jour 4",
+                    "Jour 6"
+                ],
+                "explanation": "Le quatrième jour, Dieu a créé les deux grands luminaires et les étoiles pour éclairer la terre et marquer les saisons, les jours et les années.",
+                "questionText": "En quel jour Dieu a-t-il créé le soleil, la lune et les étoiles ?",
+                "sourceReference": "Genèse 1:14-19"
+            }
+        }
+    },
+    {
+        "id": "gen_1_q2",
+        "chapterKey": "Genesis|1",
+        "questionText": "What phrase is repeated after each day of creation to show God's approval?",
+        "options": [
+            "\"And it was so\"",
+            "\"God saw that it was good\"",
+            "\"Let there be light\"",
+            "\"God blessed it\""
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "After each creative work, the account says 'God saw that it was good,' showing divine satisfaction with his handiwork.",
+        "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01001004&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "\"Und es war so\"",
+                    "\"Gott sah, dass es gut war\"",
+                    "\"Es werde Licht\"",
+                    "\"Gott hat es gesegnet\""
+                ],
+                "explanation": "Nach jedem schöpferischen Werk heißt es im Bericht: \"Gott sah, dass es gut war\", was die göttliche Zufriedenheit mit seinem Werk zeigt.",
+                "questionText": "Welcher Satz wird nach jedem Tag der Schöpfung wiederholt, um Gottes Zustimmung zu zeigen?",
+                "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31"
+            },
+            "fr": {
+                "options": [
+                    "\"Et c'était ainsi\"",
+                    "\"Dieu a vu que c'était bon",
+                    "\"Que la lumière soit\"",
+                    "\"Dieu l'a béni\""
+                ],
+                "explanation": "Après chaque création, le récit dit que \"Dieu vit que cela était bon\", montrant ainsi la satisfaction divine face à son œuvre.",
+                "questionText": "Quelle phrase est répétée après chaque jour de la création pour montrer l'approbation de Dieu ?",
+                "sourceReference": "Genèse 1:4, 10, 12, 18, 21, 25, 31"
+            }
+        }
+    },
+    {
+        "id": "gen_1_q3",
+        "chapterKey": "Genesis|1",
+        "questionText": "In whose image was mankind created?",
+        "options": [
+            "The angels",
+            "God",
+            "The animals",
+            "Adam"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 1:27 states: 'God created man in his image, in God's image he created him; male and female he created them.'",
+        "sourceReference": "Genesis 1:27; Insight on the Scriptures, Vol. 2, \"Man\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01001027&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Die Engel",
+                    "Gott",
+                    "Die Tiere",
+                    "Adam"
+                ],
+                "explanation": "In 1. Mose 1,27 heißt es: Gott schuf den Menschen als sein Abbild, als Abbild Gottes schuf er ihn; als Mann und Frau schuf er sie.",
+                "questionText": "Nach wessen Bild wurde der Mensch geschaffen?",
+                "sourceReference": "Mose 1:27; Einsicht in die Heilige Schrift, Band 2, \"Der Mensch\""
+            },
+            "fr": {
+                "options": [
+                    "Les anges",
+                    "Dieu",
+                    "Les animaux",
+                    "Adam"
+                ],
+                "explanation": "La Genèse 1:27 stipule : \"Dieu créa l'homme à son image, à l'image de Dieu, il le créa : Dieu créa l'homme à son image, il le créa à l'image de Dieu, il les créa homme et femme.",
+                "questionText": "À l'image de qui l'homme a-t-il été créé ?",
+                "sourceReference": "Genèse 1:27 ; Regard sur les Ecritures, vol. 2, \"L'homme\"."
+            }
+        }
+    },
+    {
+        "id": "gen_1_q4",
+        "chapterKey": "Genesis|1",
+        "questionText": "On which day were humans created?",
+        "options": [
+            "The 4th day.",
+            "The 5th day.",
+            "The 6th day.",
+            "The 7th day."
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "According to Genesis 1:26-31, God created humans on the sixth day of creation.",
+        "sourceReference": "Genesis 1:26-31",
+        "translations": {
+            "de": {
+                "options": [
+                    "Der 4. Tag.",
+                    "Der 5. Tag.",
+                    "Der 6. Tag.",
+                    "Der 7. Tag."
+                ],
+                "sourceURLs": [],
+                "explanation": "Nach Genesis 1:26-31 schuf Gott den Menschen am sechsten Tag der Schöpfung.",
+                "questionText": "An welchem Tag wurde der Mensch erschaffen?",
+                "sourceReference": "Genesis 1:26-31"
+            },
+            "fr": {
+                "options": [
+                    "Le 4ème jour.",
+                    "Le 5ème jour.",
+                    "Le 6ème jour.",
+                    "Le 7e jour."
+                ],
+                "sourceURLs": [],
+                "explanation": "Selon la Genèse 1:26-31, Dieu a créé l'homme le sixième jour de la création.",
+                "questionText": "Quel est le jour de la création de l'homme ?",
+                "sourceReference": "Genèse 1:26-31"
+            }
+        }
+    },
+    {
+        "id": "gen_2_q1",
+        "chapterKey": "Genesis|2",
+        "questionText": "From what material did God form the first man?",
+        "options": [
+            "Clay from a river",
+            "Dust from the ground",
+            "Sand from the sea",
+            "Stone from a mountain"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 2:7 says God 'formed man from the dust of the ground' and breathed into his nostrils the breath of life.",
+        "sourceReference": "Genesis 2:7",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01002007&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Lehm aus einem Fluss",
+                    "Staub vom Boden",
+                    "Sand aus dem Meer",
+                    "Stein von einem Berg"
+                ],
+                "explanation": "In Genesis 2:7 heißt es, dass Gott den Menschen aus dem Staub der Erde formte\" und ihm den Lebensatem in die Nase blies.",
+                "questionText": "Aus welchem Material hat Gott den ersten Menschen geformt?",
+                "sourceReference": "Mose 2:7"
+            },
+            "fr": {
+                "options": [
+                    "Argile de rivière",
+                    "Poussière du sol",
+                    "Sable de la mer",
+                    "Pierre d'une montagne"
+                ],
+                "explanation": "La Genèse 2:7 dit que Dieu \"forma l'homme de la poussière du sol\" et qu'il insuffla dans ses narines un souffle de vie.",
+                "questionText": "De quelle matière Dieu a-t-il formé le premier homme ?",
+                "sourceReference": "Genèse 2:7"
+            }
+        }
+    },
+    {
+        "id": "gen_2_q2",
+        "chapterKey": "Genesis|2",
+        "questionText": "What was the name of the garden where God placed Adam?",
+        "options": [
+            "Eden",
+            "Canaan",
+            "Sharon",
+            "Goshen"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "God planted a garden in Eden, eastward, and placed the man he had formed there (Genesis 2:8).",
+        "sourceReference": "Genesis 2:8, 15",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01002008&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Eden",
+                    "Kanaan",
+                    "Sharon",
+                    "Goshen"
+                ],
+                "explanation": "Gott pflanzte einen Garten in Eden, im Osten, und setzte den Menschen, den er geformt hatte, dorthin (1. Mose 2,8).",
+                "questionText": "Wie lautete der Name des Gartens, in den Gott Adam setzte?",
+                "sourceReference": "Genesis 2:8, 15"
+            },
+            "fr": {
+                "options": [
+                    "Eden",
+                    "Canaan",
+                    "Sharon",
+                    "Goshen"
+                ],
+                "explanation": "Dieu planta un jardin en Eden, à l'est, et y plaça l'homme qu'il avait formé (Genèse 2:8).",
+                "questionText": "Quel est le nom du jardin où Dieu a placé Adam ?",
+                "sourceReference": "Genèse 2:8, 15"
+            }
+        }
+    },
+    {
+        "id": "gen_3_q1",
+        "chapterKey": "Genesis|3",
+        "questionText": "What did God say would happen to Adam if he ate from the tree of the knowledge of good and bad?",
+        "options": [
+            "He would become wise",
+            "He would die",
+            "He would be banished immediately",
+            "He would lose his memory"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "God warned: 'For in the day you eat from it you will certainly die' (Genesis 2:17). This introduced the prospect of death into human history.",
+        "sourceReference": "Genesis 2:17; 3:3",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01002017&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Er würde weise werden",
+                    "Er würde sterben",
+                    "Er würde sofort verbannt werden.",
+                    "Er würde sein Gedächtnis verlieren"
+                ],
+                "explanation": "Gott warnte: \"Denn an dem Tag, an dem ihr davon esst, werdet ihr sterben\" (1. Mose 2,17). Damit wurde die Aussicht auf den Tod in die menschliche Geschichte eingeführt.",
+                "questionText": "Was sagte Gott, was mit Adam geschehen würde, wenn er vom Baum der Erkenntnis von Gut und Böse aß?",
+                "sourceReference": "Mose 2:17; 3:3"
+            },
+            "fr": {
+                "options": [
+                    "Il deviendra sage",
+                    "Il mourrait",
+                    "Il serait banni immédiatement",
+                    "Il perdrait la mémoire"
+                ],
+                "explanation": "Dieu a prévenu : \"Le jour où tu en mangeras, tu mourras certainement\" (Genèse 2:17). Cela a introduit la perspective de la mort dans l'histoire de l'humanité.",
+                "questionText": "Qu'est-ce que Dieu a dit qu'il arriverait à Adam s'il mangeait de l'arbre de la connaissance du bien et du mal ?",
+                "sourceReference": "Genèse 2:17 ; 3:3"
+            }
+        }
+    },
+    {
+        "id": "gen_3_q2",
+        "chapterKey": "Genesis|3",
+        "questionText": "What did God promise in Genesis 3:15 regarding the serpent's \"offspring\" and the woman's \"offspring\"?",
+        "options": [
+            "They would live in peace",
+            "The woman's offspring would crush the serpent's head",
+            "The serpent's offspring would rule the earth",
+            "Both would be removed from the garden"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 3:15 records the first Messianic prophecy: the offspring of the woman would strike the serpent's head, pointing to the crushing of Satan by Jesus Christ.",
+        "sourceReference": "Genesis 3:15; Revelation 12:9; Insight on the Scriptures, Vol. 1, \"Enmity\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=01003015&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie würden in Frieden leben",
+                    "Die Nachkommen der Frau werden der Schlange den Kopf zertreten",
+                    "Die Nachkommen der Schlange würden die Erde beherrschen",
+                    "Beide würden aus dem Garten entfernt werden"
+                ],
+                "explanation": "Mose 3,15 enthält die erste messianische Prophezeiung: Der Nachkomme der Frau wird der Schlange den Kopf abschlagen, was auf die Zerschlagung Satans durch Jesus Christus hinweist.",
+                "questionText": "Was versprach Gott in 1. Mose 3:15 bezüglich der \"Nachkommenschaft\" der Schlange und der \"Nachkommenschaft\" der Frau?",
+                "sourceReference": "Mose 3,15; Offenbarung 12,9; Einsicht in die Heilige Schrift, Band 1, \"Feindschaft\""
+            },
+            "fr": {
+                "options": [
+                    "Ils vivraient en paix",
+                    "La descendance de la femme écrasera la tête du serpent.",
+                    "La progéniture du serpent dominerait la terre.",
+                    "Les deux seraient retirés du jardin"
+                ],
+                "explanation": "Genèse 3:15 rapporte la première prophétie messianique : la descendance de la femme frappera la tête du serpent, évoquant l'écrasement de Satan par Jésus-Christ.",
+                "questionText": "Qu'est-ce que Dieu a promis dans Genèse 3:15 concernant la \"descendance\" du serpent et la \"descendance\" de la femme ?",
+                "sourceReference": "Genèse 3:15 ; Apocalypse 12:9 ; Regard sur les Ecritures, vol. 1, \"Inimitié\"."
+            }
+        }
+    },
+    {
+        "id": "gen_3_q3",
+        "chapterKey": "Genesis|3",
+        "questionText": "Which wild animal was the most cautious of the field, that Jehovah God has made?",
+        "options": [
+            "The lion",
+            "The lizard",
+            "The serpent",
+            "The ant"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "If you read Genesis 3:1 it will say: \"Now the serpent was the most cautious of all the wild animals of the field that Jehovah God had made\".",
+        "sourceReference": "Gensis 3:1",
+        "translations": {
+            "de": {
+                "options": [
+                    "Der Löwe",
+                    "Die Eidechse",
+                    "Die Schlange",
+                    "Die Ameise"
+                ],
+                "explanation": "Wenn Sie Genesis 3:1 lesen, steht dort: \"Die Schlange aber war das vorsichtigste unter allen wilden Tieren des Feldes, die Jehova Gott gemacht hatte\".",
+                "questionText": "Welches wilde Tier war das vorsichtigste auf dem Feld, das Jehova Gott gemacht hat?",
+                "sourceReference": "Gensis 3:1"
+            },
+            "fr": {
+                "options": [
+                    "Le lion",
+                    "Le lézard",
+                    "Le serpent",
+                    "La fourmi"
+                ],
+                "explanation": "Si vous lisez Genèse 3:1, vous lirez ce qui suit : \"Le serpent était le plus prudent de tous les animaux sauvages des champs que Jéhovah Dieu avait faits\".",
+                "questionText": "Quel est l'animal sauvage le plus prudent des champs que Jéhovah Dieu a créés ?",
+                "sourceReference": "Gensis 3:1"
+            }
+        }
+    },
+    {
+        "id": "joh_3_q1",
+        "chapterKey": "John|3",
+        "questionText": "What did Jesus tell Nicodemus a person must do to see the Kingdom of God?",
+        "options": [
+            "Observe all the Mosaic law",
+            "Be born again (from water and spirit)",
+            "Perform many miraculous deeds",
+            "Give all his possessions to the poor"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus said: 'Unless anyone is born of water and spirit, he cannot enter into the Kingdom of God' (John 3:5), referring to the anointing by holy spirit required for those who will rule in heaven.",
+        "sourceReference": "John 3:3-6",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43003003&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Beachtet das gesamte mosaische Gesetz",
+                    "Wiedergeboren werden (aus Wasser und Geist)",
+                    "Viele wundersame Taten vollbringen",
+                    "Alle seine Besitztümer den Armen geben"
+                ],
+                "explanation": "Jesus sagte: \"Es sei denn, dass jemand aus Wasser und Geist geboren werde, so kann er nicht in das Reich Gottes kommen\" (Johannes 3,5) und bezog sich damit auf die Salbung mit dem Heiligen Geist, die für diejenigen erforderlich ist, die im Himmel herrschen werden.",
+                "questionText": "Was sagte Jesus zu Nikodemus, was ein Mensch tun muss, um das Reich Gottes zu sehen?",
+                "sourceReference": "Johannes 3:3-6"
+            },
+            "fr": {
+                "options": [
+                    "Observer toute la loi mosaïque",
+                    "Naître de nouveau (de l'eau et de l'esprit)",
+                    "accomplir de nombreux actes miraculeux",
+                    "Donner tous ses biens aux pauvres"
+                ],
+                "explanation": "Jésus a dit : \"Si quelqu'un ne naît d'eau et d'esprit, il ne peut entrer dans le Royaume de Dieu\" (Jean 3:5), faisant référence à l'onction par l'esprit saint requise pour ceux qui régneront dans les cieux.",
+                "questionText": "Qu'est-ce que Jésus a dit à Nicodème qu'une personne doit faire pour voir le Royaume de Dieu ?",
+                "sourceReference": "Jean 3:3-6"
+            }
+        }
+    },
+    {
+        "id": "joh_3_q2",
+        "chapterKey": "John|3",
+        "questionText": "What does John 3:16 say God gave because he loved the world so much?",
+        "options": [
+            "His law and commandments",
+            "His angels to protect mankind",
+            "His only-begotten Son",
+            "The holy spirit without measure"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "'For God loved the world so much that he gave his only-begotten Son, so that everyone exercising faith in him might not be destroyed but have everlasting life' (John 3:16).",
+        "sourceReference": "John 3:16",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43003016&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sein Gesetz und seine Gebote",
+                    "Seine Engel zum Schutz der Menschheit",
+                    "Sein eingeborener Sohn",
+                    "Der Heilige Geist ohne Maß"
+                ],
+                "explanation": "Denn Gott hat die Welt so sehr geliebt, dass er seinen eingeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht zugrunde geht, sondern ewiges Leben hat\" (Johannes 3,16).",
+                "questionText": "Was hat Gott laut Johannes 3:16 gegeben, weil er die Welt so sehr geliebt hat?",
+                "sourceReference": "Johannes 3:16"
+            },
+            "fr": {
+                "options": [
+                    "Sa loi et ses commandements",
+                    "Ses anges pour protéger l'humanité",
+                    "Son Fils unique",
+                    "L'esprit saint sans mesure"
+                ],
+                "explanation": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne soit pas détruit, mais ait la vie éternelle\" (Jean 3:16).",
+                "questionText": "Qu'est-ce que Jean 3:16 dit que Dieu a donné parce qu'il a tant aimé le monde ?",
+                "sourceReference": "Jean 3:16"
+            }
+        }
+    },
+    {
+        "id": "joh_11_q1",
+        "chapterKey": "John|11",
+        "questionText": "What miracle did Jesus perform that demonstrated his power over death, shortly before his own death?",
+        "options": [
+            "He healed ten lepers",
+            "He raised Lazarus from the dead after four days",
+            "He restored sight to a man born blind",
+            "He fed 5,000 men with five loaves and two fish"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus raised Lazarus who had been in the tomb for four days (John 11:39, 43-44). This miracle strengthened faith and foreshadowed the resurrection Jesus himself would experience.",
+        "sourceReference": "John 11:38-44",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43011038&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Er heilte zehn Leprakranke",
+                    "Er hat Lazarus nach vier Tagen von den Toten auferweckt",
+                    "Er gab einem blind geborenen Mann das Augenlicht zurück",
+                    "Er speiste 5.000 Menschen mit fünf Broten und zwei Fischen"
+                ],
+                "explanation": "Jesus erweckte Lazarus, der vier Tage lang im Grab gelegen hatte (Johannes 11:39, 43-44). Dieses Wunder stärkte den Glauben und war ein Vorgeschmack auf die Auferstehung, die Jesus selbst erleben würde.",
+                "questionText": "Welches Wunder vollbrachte Jesus, das seine Macht über den Tod bewies, kurz vor seinem eigenen Tod?",
+                "sourceReference": "Johannes 11:38-44"
+            },
+            "fr": {
+                "options": [
+                    "Il a guéri dix lépreux",
+                    "Il a ressuscité Lazare au bout de quatre jours",
+                    "Il a rendu la vue à un aveugle de naissance",
+                    "Il a nourri 5 000 hommes avec cinq pains et deux poissons"
+                ],
+                "explanation": "Jésus a ressuscité Lazare qui était dans le tombeau depuis quatre jours (Jean 11:39, 43-44). Ce miracle a renforcé la foi et préfiguré la résurrection que Jésus lui-même allait connaître.",
+                "questionText": "Quel miracle Jésus a-t-il accompli pour démontrer son pouvoir sur la mort, peu avant sa propre mort ?",
+                "sourceReference": "Jean 11:38-44"
+            }
+        }
+    },
+    {
+        "id": "joh_17_q1",
+        "chapterKey": "John|17",
+        "questionText": "In his prayer to his Father in John 17, what did Jesus say constitutes everlasting life?",
+        "options": [
+            "Performing many good works",
+            "Keeping the Sabbath and the festivals",
+            "Taking in knowledge of the Father and the Son",
+            "Baptism and regular prayer"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus prayed: 'This means everlasting life, their taking in knowledge of you, the only true God, and of the one whom you sent, Jesus Christ' (John 17:3). Knowing God and Christ is foundational to eternal life.",
+        "sourceReference": "John 17:3",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=43017003&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Viele gute Werke vollbringen",
+                    "Halten des Sabbats und der Feste",
+                    "Die Erkenntnis des Vaters und des Sohnes",
+                    "Taufe und regelmäßiges Gebet"
+                ],
+                "explanation": "Jesus hat gebetet: 'Das bedeutet ewiges Leben, dass sie dich, den einzigen wahren Gott, und den du gesandt hast, Jesus Christus, erkennen' (Johannes 17,3). Gott und Christus zu kennen, ist die Grundlage für das ewige Leben.",
+                "questionText": "Was hat Jesus in seinem Gebet zu seinem Vater in Johannes 17 gesagt, was ewiges Leben ausmacht?",
+                "sourceReference": "Johannes 17:3"
+            },
+            "fr": {
+                "options": [
+                    "Faire beaucoup de bonnes actions",
+                    "Observer le sabbat et les fêtes",
+                    "Connaître le Père et le Fils",
+                    "Baptême et prière régulière"
+                ],
+                "explanation": "Jésus a prié : La vie éternelle, c'est la connaissance de toi, le seul vrai Dieu, et de celui que tu as envoyé, Jésus-Christ\" (Jean 17:3). La connaissance de Dieu et du Christ est le fondement de la vie éternelle.",
+                "questionText": "Dans la prière qu'il adresse à son Père en Jean 17, qu'est-ce qui, selon Jésus, constitue la vie éternelle ?",
+                "sourceReference": "Jean 17:3"
+            }
+        }
+    },
+    {
+        "id": "jos-1-ai-f4e590d4",
+        "chapterKey": "Joshua|1",
+        "questionText": "What was the extent of Joshua's territory according to Jehovah?",
+        "options": [
+            "From the wilderness up to the Euphrates River and to the Great Sea on the west",
+            "From the Mediterranean Sea to the east side of the Jordan",
+            "Every place where he set his foot, from the wilderness up to Lebanon and to the great river, the Euphrates, all the land of the Hit'tites, and to the Great Sea on the west",
+            "Only the land of Canaan"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "multiple",
+        "sortOrder": 0,
+        "explanation": "Joshua 1:4",
+        "sourceReference": "Joshua 1 (New World Translation)",
+        "correctAnswerIndices": [
+            0,
+            2
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "von der Wüste bis zum Euphrat und zum großen Meer im Westen",
+                    "Vom Mittelmeer bis zur Ostseite des Jordans",
+                    "überall, wo er seinen Fuß hinsetzte, von der Wüste bis zum Libanon und bis zum großen Strom, dem Euphrat, das ganze Land der Hit'titer, und bis zum großen Meer im Westen",
+                    "Nur das Land Kanaan"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 1:4",
+                "questionText": "Wie groß war das Gebiet, das Josua nach den Worten Jehovas besaß?",
+                "sourceReference": "Josua 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Du désert jusqu'à l'Euphrate et jusqu'à la grande mer à l'ouest",
+                    "De la mer Méditerranée à l'est du Jourdain",
+                    "Tous les lieux où il posa le pied, depuis le désert jusqu'au Liban, et jusqu'au grand fleuve, l'Euphrate, tout le pays des Hittites, et jusqu'à la grande mer, à l'occident.",
+                    "Seulement le pays de Canaan"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 1:4",
+                "questionText": "Quelle était l'étendue du territoire de Josué selon Jéhovah ?",
+                "sourceReference": "Josué 1 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "jos-3-ai-1148fdeb",
+        "chapterKey": "Joshua|3",
+        "questionText": "How far should the Israelites keep from the ark of the covenant?",
+        "options": [
+            "About 100 cubits",
+            "About 2,000 cubits",
+            "As close as possible",
+            "Not specified in the passage"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Joshua 3:4",
+        "sourceReference": "Joshua 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Etwa 100 Ellen",
+                    "Etwa 2.000 Ellen",
+                    "So nah wie möglich",
+                    "Im Text nicht angegeben"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 3:4",
+                "questionText": "Wie weit sollten sich die Israeliten von der Bundeslade entfernen?",
+                "sourceReference": "Josua 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Environ 100 coudées",
+                    "Environ 2 000 coudées",
+                    "Aussi proche que possible",
+                    "Non spécifié dans le passage"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 3:4",
+                "questionText": "À quelle distance les Israélites doivent-ils se tenir de l'arche de l'alliance ?",
+                "sourceReference": "Josué 3 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "jos-4-ai-a32fff7b",
+        "chapterKey": "Joshua|4",
+        "questionText": "How many stones were taken from the middle of the Jordan?",
+        "options": [
+            "10",
+            "12",
+            "20",
+            "40"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Joshua 4:8, 'They took up 12 stones from the middle of the Jordan, just as Jehovah had instructed Joshua, to correspond to the number of the tribes of the Israelites.'",
+        "sourceReference": "Joshua 4 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "10",
+                    "12",
+                    "20",
+                    "40"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josua 4:8: \"Sie holten 12 Steine aus der Mitte des Jordans, so wie Jehova es Josua aufgetragen hatte, entsprechend der Zahl der Stämme der Israeliten\".",
+                "questionText": "Wie viele Steine wurden aus der Mitte des Jordans entnommen?",
+                "sourceReference": "Josua 4 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "10",
+                    "12",
+                    "20",
+                    "40"
+                ],
+                "sourceURLs": [],
+                "explanation": "Josué 4:8 : \"Ils enlevèrent douze pierres du milieu du Jourdain, comme Jéhovah l'avait ordonné à Josué, pour correspondre au nombre des tribus d'Israël\".",
+                "questionText": "Combien de pierres ont été prises au milieu du Jourdain ?",
+                "sourceReference": "Josué 4 (Traduction du Nouveau Monde)"
+            }
+        }
+    },
+    {
+        "id": "jdg-1-ai-0178f6ed",
+        "chapterKey": "Judges|1",
+        "questionText": "Who did Jehovah say would go up first to fight against the Caʹnaan·ites?",
+        "options": [
+            "Judah",
+            "Simʹe·on",
+            "Ephraim",
+            "Benjamin"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 1:2",
+        "sourceReference": "Judges 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Juda",
+                    "Simʹe-on",
+                    "Ephraim",
+                    "Benjamin"
+                ],
+                "sourceURLs": [],
+                "explanation": "Richter 1:2",
+                "questionText": "Wer, so sagte Jehova, würde zuerst hinaufziehen, um gegen die Caʹnaaniter zu kämpfen?",
+                "sourceReference": "Richter 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Juda",
+                    "Simʹe-on",
+                    "Ephraïm",
+                    "Benjamin"
+                ],
+                "sourceURLs": [],
+                "explanation": "Juges 1:2",
+                "questionText": "Qui, selon Jéhovah, monterait le premier pour combattre les Caʹnaanites ?",
+                "sourceReference": "Juges 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-2-ai-c3ec7971",
+        "chapterKey": "Judges|2",
+        "questionText": "What was the reason Jehovah did not drive out all the nations that Joshua left behind?",
+        "options": [
+            "Because they were too strong",
+            "To test whether Israel would keep Jehovah's way by walking in it as their fathers did",
+            "Because Jehovah had sworn to protect them",
+            "Because Joshua was still alive"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 2:21, \"This is to test whether Israel will keep Jehovah's way by walking in it as their fathers did.\"",
+        "sourceReference": "Judges 2 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Weil sie zu stark waren",
+                    "Um zu prüfen, ob Israel den Weg Jehovas einhalten würde, indem es ihn wie seine Väter beschreitet",
+                    "Denn Jehova hatte geschworen, sie zu beschützen",
+                    "Weil Josua noch am Leben war"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Richter 2:21: \"Damit soll geprüft werden, ob Israel den Weg Jehovas einhält, indem es darin wandelt, wie es seine Väter getan haben.\"",
+                "questionText": "Was war der Grund dafür, dass Jehova nicht alle Völker, die Josua zurückließ, vertrieb?",
+                "sourceReference": "Richter 2 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Parce qu'ils étaient trop forts",
+                    "Pour vérifier si Israël gardera la voie de Jéhovah en y marchant comme ses pères.",
+                    "Parce que Jéhovah avait juré de les protéger",
+                    "Parce que Joshua était encore en vie"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Juges 2:21 : \"C'est pour éprouver si Israël gardera la voie de l'Éternel en y marchant comme l'ont fait leurs pères\".",
+                "questionText": "Quelle est la raison pour laquelle Jéhovah n'a pas chassé toutes les nations que Josué a laissées derrière lui ?",
+                "sourceReference": "Juges 2 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-3-ai-cf5619d8",
+        "chapterKey": "Judges|3",
+        "questionText": "How many years did the Israelites serve under Cuʹshan-rish·a·thaʹim the king of Mes·o·po·taʹmi·a?",
+        "options": [
+            "8 years",
+            "18 years",
+            "40 years",
+            "80 years"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judges 3:8",
+        "sourceReference": "Judges 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "8 Jahre",
+                    "18 Jahre",
+                    "40 Jahre",
+                    "80 Jahre"
+                ],
+                "sourceURLs": [],
+                "explanation": "Richter 3:8",
+                "questionText": "Wie viele Jahre dienten die Israeliten unter Cuʹshan-rish-a-thaʹim, dem König von Mes-o-po-taʹmi-a?",
+                "sourceReference": "Richter 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "8 ans",
+                    "18 ans",
+                    "40 ans",
+                    "80 ans"
+                ],
+                "sourceURLs": [],
+                "explanation": "Juges 3:8",
+                "questionText": "Combien d'années les Israélites ont-ils servi sous Cuʹshan-rish-a-thaʹim, le roi de Mes-o-po-taʹmi-a ?",
+                "sourceReference": "Juges 3 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "jdg-5-ai-716bf89d",
+        "chapterKey": "Judges|5",
+        "questionText": "Who was the mother of Sis'era?",
+        "options": [
+            "Deborah",
+            "Ja'el",
+            "He'ber's wife",
+            "Sis'era's sister"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Judg. 5:24",
+        "sourceReference": "Judges 5 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Deborah",
+                    "Ja'el",
+                    "He'bers Frau",
+                    "Die Schwester von Sis'era"
+                ],
+                "sourceURLs": [],
+                "explanation": "Judg. 5:24",
+                "questionText": "Wer war die Mutter von Sis'era?",
+                "sourceReference": "Richter 5 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Deborah",
+                    "Ja'el",
+                    "L'épouse de He'ber",
+                    "La sœur de Sis'era"
+                ],
+                "sourceURLs": [],
+                "explanation": "Jugement 5:24",
+                "questionText": "Qui était la mère de Sis'era ?",
+                "sourceReference": "Juges 5 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-0421bbc3",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What should be done to a sound male animal before presenting it as a burnt offering?",
+        "options": [
+            "It should be slaughtered at the north side of the altar.",
+            "He should lay his hand on the head of the burnt offering, and it will be accepted in his behalf to make atonement for him.",
+            "The young bull must be slaughtered before Jehovah.",
+            "It should be presented with its intestines and shanks unwashed."
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:4",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Es sollte an der Nordseite des Altars geschlachtet werden.",
+                    "Er soll seine Hand auf das Haupt des Brandopfers legen, und es wird für ihn angenommen, um für ihn zu sühnen.",
+                    "Der junge Stier muss vor Jehova geschlachtet werden.",
+                    "Es sollte mit ungewaschenen Eingeweiden und Haxen angeboten werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:4",
+                "questionText": "Was sollte man mit einem gesunden männlichen Tier tun, bevor man es als Brandopfer darbringt?",
+                "sourceReference": "Levitikus 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Il doit être égorgé du côté nord de l'autel.",
+                    "Il doit poser sa main sur la tête de l'holocauste, et celle-ci sera acceptée en sa faveur pour faire l'expiation.",
+                    "Le jeune taureau doit être abattu devant Jéhovah.",
+                    "Il doit être présenté avec ses intestins et ses jarrets non lavés."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:4",
+                "questionText": "Que faut-il faire à un animal mâle sain avant de le présenter en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-4ae0b922",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What type of animal should be presented as a burnt offering from the herd?",
+        "options": [
+            "A sound female animal",
+            "A sound male animal",
+            "An injured animal",
+            "A wild animal"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:3 ‘If his offering is a burnt offering from the herd, he should present a sound male animal.'",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein gesundes weibliches Tier",
+                    "Ein gesundes männliches Tier",
+                    "Ein verletztes Tier",
+                    "Ein wildes Tier"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:3 \"Wenn es sich um ein Brandopfer von der Herde handelt, soll er ein gesundes männliches Tier darbringen\".",
+                "questionText": "Welche Art von Tier sollte als Brandopfer von der Herde dargebracht werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Un animal femelle sain",
+                    "Un animal mâle sain",
+                    "Un animal blessé",
+                    "Un animal sauvage"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:3 \"S'il s'agit d'un holocauste de bétail, il présentera un animal mâle sain\".",
+                "questionText": "Quel type d'animal du troupeau doit être présenté en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-5cc7e707",
+        "chapterKey": "Leviticus|1",
+        "questionText": "Where should the burnt offering be slaughtered?",
+        "options": [
+            "At the north side of the altar before Jehovah",
+            "At the entrance of the tent of meeting",
+            "Outside the camp",
+            "In the city"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:11",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "An der Nordseite des Altars vor Jehova",
+                    "Am Eingang des Zeltes der Begegnung",
+                    "Außerhalb des Lagers",
+                    "In der Stadt"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:11",
+                "questionText": "Wo soll das Brandopfer geschlachtet werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Au côté nord de l'autel devant l'Éternel",
+                    "A l'entrée de la tente d'assignation",
+                    "A l'extérieur du camp",
+                    "En ville"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:11",
+                "questionText": "Où doit-on égorger l'holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-8cef7e3f",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What should be done to the intestines and shanks of a burnt offering?",
+        "options": [
+            "They should not be washed with water.",
+            "They should be washed with water.",
+            "They should be sprinkled with blood.",
+            "They should be thrown beside the altar."
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "3. Mose 1:9, 3. Mose 1:13",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie sollten nicht mit Wasser gewaschen werden.",
+                    "Sie sollten mit Wasser gewaschen werden.",
+                    "Sie sollten mit Blut besprengt werden.",
+                    "Sie sollten neben den Altar geworfen werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "Levitikus 1:9, Levitikus 1:13",
+                "questionText": "Was soll man mit den Eingeweiden und Schenkeln eines Brandopfers machen?",
+                "sourceReference": "4. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ils ne doivent pas être lavés à l'eau.",
+                    "Ils doivent être lavés à l'eau.",
+                    "Ils doivent être aspergés de sang.",
+                    "Ils doivent être jetés à côté de l'autel."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:9, Lévitique 1:13",
+                "questionText": "Que faut-il faire des intestins et des jarrets d'un holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-1-ai-b36e289f",
+        "chapterKey": "Leviticus|1",
+        "questionText": "What type of animal should be presented as a burnt offering from the herd?",
+        "options": [
+            "A sound female animal",
+            "A sound male animal",
+            "An old or weak animal",
+            "Any type of animal"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 1:3",
+        "sourceReference": "Leviticus 1 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein gesundes weibliches Tier",
+                    "Ein gesundes männliches Tier",
+                    "Ein altes oder schwaches Tier",
+                    "Jede Art von Tier"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 1:3",
+                "questionText": "Welche Art von Tier sollte als Brandopfer von der Herde dargebracht werden?",
+                "sourceReference": "3. Mose 1 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Un animal femelle sain",
+                    "Un animal mâle sain",
+                    "Un animal vieux ou faible",
+                    "Tout type d'animal"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 1:3",
+                "questionText": "Quel type d'animal du troupeau doit être présenté en holocauste ?",
+                "sourceReference": "Lévitique 1 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-2-ai-a4c8788b",
+        "chapterKey": "Leviticus|2",
+        "questionText": "What type of grain offering should not be leavened?",
+        "options": [
+            "Grain offerings made by fire",
+            "Grain offerings that are baked in the oven",
+            "Grain offerings that have sourdough or honey",
+            "All grain offerings"
+        ],
+        "correctAnswerIndex": 3,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 2:11, ‘No grain offering that you present to Jehovah should be leavened...’",
+        "sourceReference": "Leviticus 2 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Getreideopfer aus dem Feuer",
+                    "Getreideangebote, die im Ofen gebacken werden",
+                    "Getreideangebote, die Sauerteig oder Honig enthalten",
+                    "Alle Getreideangebote"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 2:11: \"Kein Speisopfer, das du Jehova darbringst, soll gesäuert sein...",
+                "questionText": "Welche Art von Speisopfer darf nicht gesäuert werden?",
+                "sourceReference": "3. Mose 2 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Offrandes de céréales faites par le feu",
+                    "Offres de céréales cuites au four",
+                    "Offres de céréales au levain ou au miel",
+                    "Offrandes de toutes sortes de céréales"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 2:11 : \"Aucune des offrandes de blé que vous présentez à l'Éternel ne doit être levée...\".",
+                "questionText": "Quel type d'offrande de grain ne doit pas être levé ?",
+                "sourceReference": "Lévitique 2 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-3-ai-84394e14",
+        "chapterKey": "Leviticus|3",
+        "questionText": "What must be presented as an offering made by fire to Jehovah from a communion sacrifice?",
+        "options": [
+            "The entire animal",
+            "The fat that covers the intestines and all the surrounding fat",
+            "Only the kidneys with their surrounding fat",
+            "None of the above"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 3:3, Leviticus 3:9",
+        "sourceReference": "Leviticus 3 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Das gesamte Tier",
+                    "Das Fett, das den Darm bedeckt, und das gesamte umgebende Fett",
+                    "Nur die Nieren mit dem sie umgebenden Fett",
+                    "Keiner der oben genannten Punkte"
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 3:3, 3. Mose 3:9",
+                "questionText": "Was muss als Feueropfer für Jehova aus einem Abendmahlsopfer dargebracht werden?",
+                "sourceReference": "3. Mose 3 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "L'ensemble de l'animal",
+                    "La graisse qui recouvre les intestins et toute la graisse environnante",
+                    "Seuls les reins et la graisse qui les entoure",
+                    "Aucune de ces réponses"
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 3:3, Lévitique 3:9",
+                "questionText": "Qu'est-ce qui doit être présenté à Jéhovah en tant qu'offrande consumée par le feu lors d'un sacrifice de communion ?",
+                "sourceReference": "Lévitique 3 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "lev-4-ai-bbaef6c1",
+        "chapterKey": "Leviticus|4",
+        "questionText": "What should be done to the skin and flesh of a bull used as a sin offering?",
+        "options": [
+            "It should be burned on the altar of burnt offering.",
+            "It should be taken to the outskirts of the camp and burned in a clean place where ashes are discarded.",
+            "It should be given to the priests as food.",
+            "It should be buried outside the camp."
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Leviticus 4:11-12",
+        "sourceReference": "Leviticus 4 (New World Translation)",
+        "translations": {
+            "de": {
+                "options": [
+                    "Es soll auf dem Brandopferaltar verbrannt werden.",
+                    "Er sollte an den Rand des Lagers gebracht und an einem sauberen Ort verbrannt werden, wo die Asche entsorgt wird.",
+                    "Es sollte den Priestern als Nahrung gegeben werden.",
+                    "Sie sollte außerhalb des Lagers vergraben werden."
+                ],
+                "sourceURLs": [],
+                "explanation": "3. Mose 4:11-12",
+                "questionText": "Was soll man mit der Haut und dem Fleisch eines Stieres machen, der als Sündopfer verwendet wird?",
+                "sourceReference": "3. Mose 4 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Il doit être brûlé sur l'autel des holocaustes.",
+                    "Il doit être transporté à l'extérieur du camp et brûlé dans un endroit propre où les cendres sont jetées.",
+                    "Il doit être donné aux prêtres en guise de nourriture.",
+                    "Il devrait être enterré à l'extérieur du camp."
+                ],
+                "sourceURLs": [],
+                "explanation": "Lévitique 4:11-12",
+                "questionText": "Que faut-il faire de la peau et de la chair d'un taureau utilisé comme sacrifice pour le péché ?",
+                "sourceReference": "Lévitique 4 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "mat_5_q1",
+        "chapterKey": "Matthew|5",
+        "questionText": "According to Jesus' Sermon on the Mount, who are \"the meek\"?",
+        "options": [
+            "Those who are mourning",
+            "Those who hunger and thirst for righteousness",
+            "Those who will inherit the earth",
+            "Those who are persecuted"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 5:5: 'Happy are the mild-tempered, since they will inherit the earth.' The meek â€” those who are humble and submissive to God â€” receive the earth as their inheritance.",
+        "sourceReference": "Matthew 5:5; Psalm 37:11",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40005005&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Diejenigen, die trauern",
+                    "Diejenigen, die nach Gerechtigkeit hungern und dürsten",
+                    "Diejenigen, die die Erde erben werden",
+                    "Diejenigen, die verfolgt werden"
+                ],
+                "explanation": "Matthäus 5,5: 'Glücklich sind die Sanftmütigen, denn sie werden das Erdreich erben.' Die Sanftmütigen â€\" diejenigen, die demütig und Gott untertan sind â€\" erhalten die Erde als ihr Erbe.",
+                "questionText": "Wer sind nach der Bergpredigt Jesu \"die Sanftmütigen\"?",
+                "sourceReference": "Matthäus 5:5; Psalm 37:11"
+            },
+            "fr": {
+                "options": [
+                    "Ceux qui sont en deuil",
+                    "Ceux qui ont faim et soif de justice",
+                    "Ceux qui hériteront de la terre",
+                    "Ceux qui sont persécutés"
+                ],
+                "explanation": "Matthieu 5:5 : \"Heureux les doux, car ils recevront la terre en héritage\". Les doux - ceux qui sont humbles et soumis à Dieu - reçoivent la terre en héritage.",
+                "questionText": "Selon le sermon de Jésus sur la montagne, qui sont les \"doux\" ?",
+                "sourceReference": "Matthieu 5:5 ; Psaume 37:11"
+            }
+        }
+    },
+    {
+        "id": "mat_5_q2",
+        "chapterKey": "Matthew|5",
+        "questionText": "In the Sermon on the Mount, Jesus said his disciples are the \"salt of the earth.\" What does this imply about their role?",
+        "options": [
+            "They should be numerous like grains of salt",
+            "They preserve and add moral flavour to society",
+            "They should keep themselves pure and separate",
+            "They bring a sharp or difficult message"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Salt was used for preservation and flavouring. Jesus meant his followers would exert a preserving, morally wholesome influence on those around them.",
+        "sourceReference": "Matthew 5:13",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40005013&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie sollten zahlreich sein wie Salzkörner",
+                    "Sie bewahren die Moral in der Gesellschaft und verleihen ihr eine besondere Note.",
+                    "Sie sollten sich rein und getrennt halten",
+                    "Sie bringen eine scharfe oder schwierige Botschaft"
+                ],
+                "explanation": "Salz wurde zur Konservierung und zum Würzen verwendet. Jesus wollte, dass seine Jünger einen konservierenden, moralisch gesunden Einfluss auf ihre Umgebung ausüben.",
+                "questionText": "In der Bergpredigt sagte Jesus, seine Jünger seien das \"Salz der Erde\". Was sagt das über ihre Rolle aus?",
+                "sourceReference": "Matthäus 5:13"
+            },
+            "fr": {
+                "options": [
+                    "Ils devraient être nombreux comme des grains de sel",
+                    "Ils préservent la société et lui confèrent une dimension morale",
+                    "Ils doivent se maintenir purs et séparés",
+                    "Ils apportent un message incisif ou difficile"
+                ],
+                "explanation": "Le sel était utilisé pour conserver et aromatiser. Jésus voulait dire que ses disciples exerceraient une influence conservatrice et moralement saine sur ceux qui les entourent.",
+                "questionText": "Dans le Sermon sur la montagne, Jésus dit que ses disciples sont le \"sel de la terre\". Qu'est-ce que cela implique quant à leur rôle ?",
+                "sourceReference": "Matthieu 5:13"
+            }
+        }
+    },
+    {
+        "id": "mat_6_q1",
+        "chapterKey": "Matthew|6",
+        "questionText": "In the Lord's Prayer, what is the first petition Jesus taught his disciples to make?",
+        "options": [
+            "Give us today our bread for this day",
+            "Let your name be sanctified",
+            "Forgive us our debts",
+            "Deliver us from the wicked one"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 6:9 shows the first petition is 'Let your name be sanctified' â€” honouring and clearing God's name comes before requests for personal needs.",
+        "sourceReference": "Matthew 6:9",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40006009&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Gib uns heute unser Brot für diesen Tag",
+                    "Dein Name soll geheiligt werden",
+                    "Vergib uns unsere Schulden",
+                    "Erlöse uns von dem Bösewicht"
+                ],
+                "explanation": "Matthäus 6,9 zeigt, dass die erste Bitte lautet: \"Dein Name werde geheiligt\" â€\" die Ehrung und Reinigung des Namens Gottes kommt vor den Bitten um persönliche Bedürfnisse.",
+                "questionText": "Was ist die erste Bitte im Vaterunser, die Jesus seine Jünger zu sprechen lehrte?",
+                "sourceReference": "Matthäus 6:9"
+            },
+            "fr": {
+                "options": [
+                    "Donne-nous aujourd'hui notre pain pour ce jour",
+                    "Que ton nom soit sanctifié",
+                    "Pardonnez-nous nos dettes",
+                    "Délivre-nous du méchant"
+                ],
+                "explanation": "Matthieu 6:9 montre que la première demande est \"Que ton nom soit sanctifié\" - l'honneur et la purification du nom de Dieu passent avant les demandes pour des besoins personnels.",
+                "questionText": "Dans le Notre Père, quelle est la première demande que Jésus a enseignée à ses disciples ?",
+                "sourceReference": "Matthieu 6:9"
+            }
+        }
+    },
+    {
+        "id": "mat_6_q2",
+        "chapterKey": "Matthew|6",
+        "questionText": "What does Jesus say about storing up treasures on earth versus in heaven?",
+        "options": [
+            "We should equally value both earthly and heavenly treasures",
+            "Earthly treasures bring lasting happiness",
+            "Heavenly treasures cannot be corrupted by moth, rust, or thieves",
+            "We should give half our wealth to the poor"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Jesus contrasts earthly treasures â€” which rust, are eaten by moths, and can be stolen â€” with heavenly treasures, which are permanent. He concludes: 'Where your treasure is, there your heart will be also' (Matthew 6:20-21).",
+        "sourceReference": "Matthew 6:19-21",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40006019&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Wir sollten irdische und himmlische Schätze gleichermaßen schätzen",
+                    "Irdische Schätze bringen dauerhaftes Glück",
+                    "Himmlische Schätze können nicht von Motten, Rost oder Dieben verdorben werden",
+                    "Wir sollten die Hälfte unseres Reichtums an die Armen abgeben"
+                ],
+                "explanation": "Jesus stellt irdische SchÃ?tze â€\" die rosten, von Motten zerfressen werden und gestohlen werden kÃ¶nnen â€\" den himmlischen SchÃ?tzen gegenÃ?ber, die dauerhaft sind. Er schließt ab: 'Wo dein Schatz ist, da wird auch dein Herz sein' (Matthäus 6,20-21).",
+                "questionText": "Was sagt Jesus über das Anhäufen von Schätzen auf der Erde und im Himmel?",
+                "sourceReference": "Matthäus 6:19-21"
+            },
+            "fr": {
+                "options": [
+                    "Nous devons accorder la même valeur aux trésors terrestres et aux trésors célestes.",
+                    "Les trésors terrestres apportent un bonheur durable",
+                    "Les trésors célestes ne peuvent être corrompus par la mite, la rouille ou les voleurs.",
+                    "Nous devrions donner la moitié de nos richesses aux pauvres"
+                ],
+                "explanation": "Jésus oppose les trésors terrestres - qui rouillent, sont mangés par les mites et peuvent être volés - aux trésors célestes, qui sont permanents. Il conclut : Là où est ton trésor, là aussi sera ton cœur\" (Matthieu 6,20-21).",
+                "questionText": "Que dit Jésus à propos de l'accumulation de trésors sur la terre par rapport au ciel ?",
+                "sourceReference": "Matthieu 6:19-21"
+            }
+        }
+    },
+    {
+        "id": "mat_24_q1",
+        "chapterKey": "Matthew|24",
+        "questionText": "In Matthew 24, what sign did Jesus give that would indicate \"the conclusion of the system of things\"?",
+        "options": [
+            "A single catastrophic earthquake",
+            "A combination of wars, food shortages, earthquakes, pestilences, and increased lawlessness",
+            "The rebuilding of the Jerusalem temple",
+            "A great comet appearing in the sky"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 24:7-12 lists wars, food shortages, earthquakes, pestilences, false prophets, and increased lawlessness as parts of the composite sign of the last days.",
+        "sourceReference": "Matthew 24:3-14",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=40024003&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Ein einziges katastrophales Erdbeben",
+                    "Eine Kombination aus Kriegen, Nahrungsmittelknappheit, Erdbeben, Seuchen und zunehmender Gesetzlosigkeit",
+                    "Der Wiederaufbau des Tempels in Jerusalem",
+                    "Ein großer Komet, der am Himmel erscheint"
+                ],
+                "explanation": "In Matthäus 24:7-12 werden Kriege, Nahrungsmittelknappheit, Erdbeben, Pestilenzen, falsche Propheten und zunehmende Gesetzlosigkeit als Teil des zusammengesetzten Zeichens der Endzeit aufgeführt.",
+                "questionText": "Welches Zeichen hat Jesus in Matthäus 24 gegeben, das auf \"den Abschluss des Systems der Dinge\" hinweist?",
+                "sourceReference": "Matthäus 24:3-14"
+            },
+            "fr": {
+                "options": [
+                    "Un seul tremblement de terre catastrophique",
+                    "Une combinaison de guerres, de pénuries alimentaires, de tremblements de terre, de pestes et d'une augmentation de l'anarchie.",
+                    "La reconstruction du temple de Jérusalem",
+                    "Une grande comète apparaît dans le ciel"
+                ],
+                "explanation": "Matthieu 24:7-12 énumère les guerres, les pénuries alimentaires, les tremblements de terre, les pestes, les faux prophètes et l'augmentation de l'anarchie comme faisant partie du signe composite des derniers jours.",
+                "questionText": "Dans Matthieu 24, quel signe Jésus a-t-il donné qui indiquerait \"la conclusion du système des choses\" ?",
+                "sourceReference": "Matthieu 24:3-14"
+            }
+        }
+    },
+    {
+        "id": "mat-26-ai-067d7dff",
+        "chapterKey": "Matthew|26",
+        "questionText": "Who was the one who betrayed Jesus?",
+        "options": [
+            "Judas Iscariot",
+            "Petrus",
+            "Caiphas",
+            "The high priest's servant"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:25",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Judas Iskariot",
+                    "Peter",
+                    "Kaiphas",
+                    "Der Diener des Hohenpriesters"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:25",
+                "questionText": "Wer war derjenige, der Jesus verraten hat?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Judas Iscariote",
+                    "Pierre",
+                    "Caiphas",
+                    "Le serviteur du grand prêtre"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:25",
+                "questionText": "Qui a trahi Jésus ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "mat-26-ai-54677d52",
+        "chapterKey": "Matthew|26",
+        "questionText": "What did Jesus say would happen to the disciples on that night?",
+        "options": [
+            "They would all be happy and joyful",
+            "They would all be stumbled in connection with him",
+            "They would all become leaders of the church",
+            "They would all go to heaven immediately"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:31",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie wären alle glücklich und fröhlich",
+                    "Sie würden alle in Verbindung mit ihm ins Stolpern kommen.",
+                    "Sie würden alle Leiter der Kirche werden.",
+                    "Sie würden alle sofort in den Himmel kommen"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:31",
+                "questionText": "Was sagte Jesus, was mit den Jüngern in dieser Nacht geschehen würde?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ils seraient tous heureux et joyeux",
+                    "Ils seraient tous trébuchés en relation avec lui",
+                    "Ils deviendront tous des dirigeants de l'Église",
+                    "Ils iraient tous au paradis immédiatement"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:31",
+                "questionText": "Qu'est-ce que Jésus a dit qu'il arriverait aux disciples cette nuit-là ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "mat-26-ai-a727b7c0",
+        "chapterKey": "Matthew|26",
+        "questionText": "How many times did Peter deny knowing Jesus?",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Matthew 26:74",
+        "sourceReference": "Matthew 26 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sobald",
+                    "Zweimal",
+                    "Dreimal",
+                    "Viermal"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthäus 26:74",
+                "questionText": "Wie oft hat Petrus geleugnet, Jesus zu kennen?",
+                "sourceReference": "Matthäus 26 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Une fois",
+                    "Deux fois",
+                    "Trois fois",
+                    "Quatre fois"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Matthieu 26:74",
+                "questionText": "Combien de fois Pierre a-t-il nié connaître Jésus ?",
+                "sourceReference": "Matthieu 26 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "psa_23_q1",
+        "chapterKey": "Psalms|23",
+        "questionText": "How does David describe Jehovah at the opening of Psalm 23?",
+        "options": [
+            "My King",
+            "My Shepherd",
+            "My Rock",
+            "My Light"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Psalm 23 opens: 'Jehovah is my Shepherd. I will lack nothing.' David draws on his own experience as a shepherd to illustrate God's tender care.",
+        "sourceReference": "Psalm 23:1",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19023001&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Mein König",
+                    "Mein Schafhirte",
+                    "Mein Fels",
+                    "Mein Licht"
+                ],
+                "explanation": "Psalm 23 beginnt: \"Jehova ist mein Hirte. Mir wird nichts mangeln. David greift auf seine eigenen Erfahrungen als Hirte zurück, um Gottes liebevolle Fürsorge zu veranschaulichen.",
+                "questionText": "Wie beschreibt David Jehova am Anfang von Psalm 23?",
+                "sourceReference": "Psalm 23:1"
+            },
+            "fr": {
+                "options": [
+                    "Mon roi",
+                    "Mon berger",
+                    "Mon rocher",
+                    "Ma lumière"
+                ],
+                "explanation": "Le Psaume 23 commence ainsi : \"L'Éternel est mon berger. Je ne manquerai de rien\". David s'appuie sur sa propre expérience de berger pour illustrer la tendresse de Dieu.",
+                "questionText": "Comment David décrit-il Jéhovah au début du Psaume 23 ?",
+                "sourceReference": "Psaume 23:1"
+            }
+        }
+    },
+    {
+        "id": "psa_23_q2",
+        "chapterKey": "Psalms|23",
+        "questionText": "What does Psalm 23:4 say David will not fear, even when walking through the valley of deep shadow?",
+        "options": [
+            "Enemies",
+            "Death",
+            "Darkness",
+            "Calamity"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "'Even if I walk in the valley of deep shadow, I fear no calamity' â€” the phrase often rendered 'valley of the shadow of death' reflects trust in God's presence even in the darkest trials.",
+        "sourceReference": "Psalm 23:4",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19023004&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Feinde",
+                    "Tod",
+                    "Dunkelheit",
+                    "Kalamität"
+                ],
+                "explanation": "'Auch wenn ich im finsteren Tal wandle, fÃ?rchte ich kein Unheil' â€\" der Satz, der hÃ?ufig als 'Tal des Todesschattens' wiedergegeben wird, spiegelt das Vertrauen in Gottes Gegenwart selbst in den dunkelsten PrÃ?fungen wider.",
+                "questionText": "Was sagt Psalm 23,4, dass David sich nicht fürchten wird, selbst wenn er durch das Tal der tiefen Schatten geht?",
+                "sourceReference": "Psalm 23:4"
+            },
+            "fr": {
+                "options": [
+                    "Ennemis",
+                    "La mort",
+                    "Ténèbres",
+                    "Calamité"
+                ],
+                "explanation": "Même si je marche dans la vallée de l'ombre profonde, je ne crains aucun malheur\" - l'expression souvent rendue par \"vallée de l'ombre de la mort\" reflète la confiance en la présence de Dieu, même dans les épreuves les plus sombres.",
+                "questionText": "Que dit le Psaume 23:4 que David ne craindra pas, même lorsqu'il marchera dans la vallée de l'ombre profonde ?",
+                "sourceReference": "Psaume 23:4"
+            }
+        }
+    },
+    {
+        "id": "psa_83_q1",
+        "chapterKey": "Psalms|83",
+        "questionText": "What request does Psalm 83 make regarding God's name?",
+        "options": [
+            "That his name be praised in all the earth",
+            "That people may know that Jehovah alone is the Most High over all the earth",
+            "That his name be hidden from the nations",
+            "That his name be written in the heavens"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "intermediate",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Psalm 83:18 says: 'May people know that you, whose name is Jehovah, you alone are the Most High over all the earth.' This verse preserves God's personal name in many Bible translations.",
+        "sourceReference": "Psalm 83:18",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=19083018&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Dass sein Name gepriesen werde auf der ganzen Erde",
+                    "Damit die Menschen erkennen, dass Jehova allein der Allerhöchste über die ganze Erde ist",
+                    "Dass sein Name vor den Völkern verborgen bleibt",
+                    "Dass sein Name in den Himmel geschrieben sei"
+                ],
+                "explanation": "In Psalm 83:18 heißt es: \"Mögen die Menschen erkennen, dass du, dessen Name Jehova ist, der Allerhöchste bist über die ganze Erde\". In diesem Vers wird in vielen Bibelübersetzungen der persönliche Name Gottes beibehalten.",
+                "questionText": "Welche Bitte enthält Psalm 83 in Bezug auf den Namen Gottes?",
+                "sourceReference": "Psalm 83:18"
+            },
+            "fr": {
+                "options": [
+                    "Que son nom soit loué sur toute la terre",
+                    "Pour que l'on sache que Jéhovah seul est le Très-Haut sur toute la terre.",
+                    "Que son nom soit caché aux nations",
+                    "Que son nom soit inscrit dans les cieux"
+                ],
+                "explanation": "Le Psaume 83.18 dit : \"Que l'on sache que toi, dont le nom est Jéhovah, toi seul es le Très-Haut sur toute la terre\". Ce verset conserve le nom personnel de Dieu dans de nombreuses traductions de la Bible.",
+                "questionText": "Quelle demande le Psaume 83 fait-il au sujet du nom de Dieu ?",
+                "sourceReference": "Psaume 83:18"
+            }
+        }
+    },
+    {
+        "id": "rev_21_q1",
+        "chapterKey": "Revelation|21",
+        "questionText": "What does Revelation 21:4 promise God will do away with?",
+        "options": [
+            "The sea and the mountains",
+            "Death, mourning, outcry, and pain",
+            "The sun and moon (replaced by God's glory)",
+            "All memory of the former world"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Revelation 21:4 promises: 'He will wipe out every tear from their eyes, and death will be no more, neither will mourning nor outcry nor pain be anymore.' This describes conditions in the new world.",
+        "sourceReference": "Revelation 21:3-4",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66021003&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Das Meer und die Berge",
+                    "Tod, Trauer, Aufschrei und Schmerz",
+                    "Die Sonne und der Mond (ersetzt durch Gottes Herrlichkeit)",
+                    "Alle Erinnerung an die frühere Welt"
+                ],
+                "explanation": "Offenbarung 21,4 verheißt: \"Und er wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, noch Leid noch Geschrei noch Schmerz wird mehr sein. Dies beschreibt die Bedingungen in der neuen Welt.",
+                "questionText": "Was verspricht Offenbarung 21:4, dass Gott abschaffen wird?",
+                "sourceReference": "Offenbarung 21:3-4"
+            },
+            "fr": {
+                "options": [
+                    "La mer et les montagnes",
+                    "La mort, le deuil, les cris et la douleur",
+                    "Le soleil et la lune (remplacés par la gloire de Dieu)",
+                    "Toute mémoire du monde d'avant"
+                ],
+                "explanation": "Apocalypse 21:4 promet : \"Il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur\". Cela décrit la situation dans le nouveau monde.",
+                "questionText": "Qu'est-ce qu'Apocalypse 21:4 promet que Dieu fera disparaître ?",
+                "sourceReference": "Apocalypse 21:3-4"
+            }
+        }
+    },
+    {
+        "id": "rev_21_q2",
+        "chapterKey": "Revelation|21",
+        "questionText": "What does the \"new Jerusalem\" descending from heaven in Revelation 21 represent?",
+        "options": [
+            "A literal rebuilt city in Palestine",
+            "The heavenly government â€” Christ and his 144,000 co-rulers â€” coming to rule over the earth",
+            "The church as a spiritual community",
+            "The angels sent to protect the earth"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The new Jerusalem symbolises the Kingdom of God â€” Jesus Christ and the 144,000 anointed ones â€” descending to bring righteous rule and blessing to all the earth (Revelation 21:2; 3:12).",
+        "sourceReference": "Revelation 21:2; 3:12; Insight on the Scriptures, Vol. 2, \"New Jerusalem\"",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66021002&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Eine buchstäblich wiederaufgebaute Stadt in Palästina",
+                    "Die himmlische Regierung â€\" Christus und seine 144.000 Mitregenten â€\" kommen, um über die Erde zu herrschen",
+                    "Die Kirche als geistliche Gemeinschaft",
+                    "Die zum Schutz der Erde gesandten Engel"
+                ],
+                "explanation": "Das neue Jerusalem symbolisiert das Reich Gottes â€\" Jesus Christus und die 144.000 Gesalbten â€\", das herabsteigt, um der ganzen Erde gerechte Herrschaft und Segen zu bringen (Offenbarung 21:2; 3:12).",
+                "questionText": "Was stellt das \"neue Jerusalem\" dar, das in Offenbarung 21 vom Himmel herabsteigt?",
+                "sourceReference": "Offenbarung 21:2; 3:12; Einsicht in die Heilige Schrift, Band 2, \"Das neue Jerusalem\""
+            },
+            "fr": {
+                "options": [
+                    "Une ville littéralement reconstruite en Palestine",
+                    "Le gouvernement céleste - le Christ et ses 144 000 co-régisseurs - venant régner sur la terre",
+                    "L'église en tant que communauté spirituelle",
+                    "Les anges envoyés pour protéger la terre"
+                ],
+                "explanation": "La nouvelle Jérusalem symbolise le Royaume de Dieu - Jésus-Christ et les 144 000 oints - qui descend pour apporter la justice et la bénédiction à toute la terre (Apocalypse 21:2 ; 3:12).",
+                "questionText": "Que représente la \"nouvelle Jérusalem\" qui descend du ciel dans Apocalypse 21 ?",
+                "sourceReference": "Apocalypse 21:2 ; 3:12 ; Regards sur les Ecritures, vol. 2, \"La nouvelle Jérusalem\"."
+            }
+        }
+    },
+    {
+        "id": "rev_22_q1",
+        "chapterKey": "Revelation|22",
+        "questionText": "What does the river of water of life in Revelation 22 flowing from God's throne represent?",
+        "options": [
+            "Literal water for the new earth",
+            "God's life-giving provisions â€” including the ransom and Kingdom blessings â€” that restore humans to perfect life",
+            "The holy spirit flowing to the angels",
+            "The prayers of all the holy ones"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "deep",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "The river of life proceeding from God's throne symbolises the life-giving blessings God provides through his Kingdom â€” ultimately leading to the full restoration of human life.",
+        "sourceReference": "Revelation 22:1-2; Ezekiel 47:1-12",
+        "sourceURLs": [
+            "https://www.jw.org/finder?bible=66022001&wtlocale=E"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Buchstäbliches Wasser für die neue Erde",
+                    "Gottes lebensspendende Vorkehrungen â€\" einschlieÃŸlich des LÃ¶segeldes und der Segnungen des Reiches Gottes â€\", die den Menschen zu einem vollkommenen Leben verhelfen",
+                    "Der Heilige Geist fließt zu den Engeln",
+                    "Die Gebete aller Heiligen"
+                ],
+                "explanation": "Der Strom des Lebens, der von Gottes Thron ausgeht, symbolisiert die lebensspendenden Segnungen, die Gott durch sein Reich bereitstellt â€\" und die letztlich zur vollen Wiederherstellung des menschlichen Lebens fÃ?hren.",
+                "questionText": "Was stellt der Strom des Wassers des Lebens in Offenbarung 22 dar, der von Gottes Thron fließt?",
+                "sourceReference": "Offenbarung 22:1-2; Hesekiel 47:1-12"
+            },
+            "fr": {
+                "options": [
+                    "L'eau littérale pour la nouvelle terre",
+                    "Les dispositions de Dieu qui donnent la vie - y compris la rançon et les bénédictions du Royaume - qui restaurent les humains à une vie parfaite.",
+                    "L'esprit saint coule vers les anges",
+                    "Les prières de tous les saints"
+                ],
+                "explanation": "Le fleuve de vie qui s'écoule du trône de Dieu symbolise les bénédictions vivifiantes que Dieu apporte par l'intermédiaire de son Royaume - et qui aboutissent finalement à la restauration complète de la vie humaine.",
+                "questionText": "Que représente le fleuve d'eau de vie d'Apocalypse 22 qui coule du trône de Dieu ?",
+                "sourceReference": "Apocalypse 22:1-2 ; Ezéchiel 47:1-12"
+            }
+        }
     }
-  },
-  {
-    "id": "gen_1_q4",
-    "chapterKey": "Genesis|1",
-    "questionText": "On which \"day\" where humans created?",
-    "options": [
-      "The 5th day.",
-      "The 2nd day.",
-      "The 3rd day.",
-      "The 7th day."
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "When you read through the verses, you can see that is says that it was on 5th day, that Jehova created us humans.",
-    "sourceReference": "Genesis 1:26-31",
-    "sourceURLs": [],
-    "difficulty": "basic",
-    "questionType": "single",
-    "correctAnswerIndices": []
-  }
 ]
