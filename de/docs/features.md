@@ -147,6 +147,7 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 
 - **Sprache** — Englisch, Deutsch oder Französisch
 - **Haptisches Feedback** — Vibration beim Tippen ein-/ausschalten
+- **iCloud-Synchronisierung** — optionale automatische Synchronisierung über die Apple ID (standardmäßig deaktiviert)
 - **App-Symbol** — Standard, Grün, Gold, Lila oder Rot
 
 ### Berichtseinstellungen
@@ -183,6 +184,7 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 
 ## Datenschutz & Daten
 
-- **Alle Daten werden lokal auf deinem Gerät gespeichert** — nichts wird an Server gesendet
-- **Kein Konto erforderlich** — App funktioniert vollständig offline
-- **Keine Verfolgung oder Analyse** — keine Daten werden gesammelt oder geteilt
+- **Deine Daten bleiben privat** — nichts wird an Server oder Dritte gesendet; keine Verfolgung oder Analyse
+- **Kein Konto erforderlich** — die App funktioniert vollständig offline
+- **Optionale iCloud-Synchronisierung** — in den Einstellungen aktivierbar; synchronisiert Daten automatisch auf allen Geräten mit derselben Apple ID; standardmäßig deaktiviert
+- **Export/Import** — sichere und stelle deine Daten manuell als JSON-Datei wieder her

@@ -147,6 +147,7 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 
 - **Langue** — anglais, allemand ou français
 - **Retour haptique** — activer/désactiver la vibration
+- **Synchronisation iCloud** — synchronisation automatique optionnelle via l'identifiant Apple (désactivée par défaut)
 - **Icône de l'application** — par défaut, vert, or, violet ou rouge
 
 ### Paramètres de rapport
@@ -183,6 +184,7 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 
 ## Confidentialité & Données
 
-- **Toutes les données sont stockées localement sur votre appareil** — rien n'est envoyé à des serveurs
+- **Vos données restent privées** — rien n'est envoyé à des serveurs ou à des tiers ; aucun suivi ni analyse
 - **Aucun compte requis** — l'application fonctionne entièrement hors ligne
-- **Aucun suivi ni analyse** — aucune donnée n'est collectée ou partagée
+- **Synchronisation iCloud optionnelle** — activez dans les réglages pour synchroniser vos données automatiquement sur tous vos appareils avec le même identifiant Apple ; désactivée par défaut
+- **Export/Import** — sauvegardez et restaurez vos données manuellement sous forme de fichier JSON

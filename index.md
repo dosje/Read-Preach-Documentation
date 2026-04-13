@@ -18,7 +18,7 @@ title: Home
 ## Key highlights
 
 - **Ministry Timer** — track ministry time with widgets and Dynamic Island, save directly to your report
-- **No account needed** — all data stays on your device
+- **No account needed** — data stays on your device; optional iCloud sync available
 - **iPhone & iPad** — fully adaptive layout for all screen sizes
 - **3 languages** — English, German, French
 - **Export & Import** — back up and restore all your data as a JSON file

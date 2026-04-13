@@ -18,7 +18,7 @@ Oui. Read & Preach est entièrement gratuite — sans achats intégrés ni abonn
 iPhone et iPad uniquement (iOS 16.0 ou version ultérieure). L'application est optimisée pour les deux appareils avec une mise en page adaptative.
 
 **Une connexion Internet est-elle nécessaire ?**
-Non. L'application fonctionne entièrement hors ligne. Une connexion Internet n'est utilisée que si vous appuyez sur un lien pour ouvrir un passage sur JW.org ou dans JW Library.
+Non. L'application fonctionne entièrement hors ligne. Une connexion Internet n'est utilisée que si vous appuyez sur un lien pour ouvrir un passage sur JW.org ou dans JW Library, ou si la synchronisation iCloud est activée dans les réglages.
 
 **Quelles langues sont prises en charge ?**
 Anglais, allemand et français. Changez la langue dans **Paramètres → Général → Langue**.
@@ -28,7 +28,10 @@ Anglais, allemand et français. Changez la langue dans **Paramètres → Génér
 ## Données & Confidentialité
 
 **Où mes données sont-elles stockées ?**
-Toutes les données sont stockées uniquement localement sur votre appareil. Rien n'est envoyé à des serveurs ou à des tiers.
+Par défaut, toutes les données sont stockées uniquement localement sur votre appareil. Rien n'est envoyé à des serveurs ou à des tiers. Si vous activez la **Synchronisation iCloud** dans **Paramètres → Général → Synchronisation iCloud**, vos données sont également synchronisées sur vos appareils via iCloud d'Apple — toujours entièrement privées, rien n'est partagé avec des tiers.
+
+**À quoi sert la synchronisation iCloud ?**
+Lorsqu'elle est activée, l'application synchronise automatiquement vos données (rapports de ministère, progression de lecture biblique et réglages) sur tous vos appareils utilisant le même identifiant Apple via le stockage clé-valeur iCloud d'Apple. La synchronisation iCloud est optionnelle et désactivée par défaut. Vous pouvez l'activer ou la désactiver à tout moment dans **Paramètres → Général → Synchronisation iCloud**.
 
 **L'application collecte-t-elle des données personnelles ou des analyses ?**
 Non. Read & Preach ne collecte, ne suit et ne partage aucune donnée.

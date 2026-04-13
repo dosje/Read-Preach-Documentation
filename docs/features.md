@@ -161,6 +161,7 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 
 - **Language** — English, German, or French. Changing the language restarts the app.
 - **Haptic feedback** — enable or disable vibration feedback when tapping
+- **iCloud Sync** — optionally sync data automatically across devices on the same Apple ID (off by default)
 - **App icon** — choose from Default, Green, Gold, Purple, or Red
 
 ### Report Settings
@@ -199,7 +200,7 @@ All your data can be exported to a JSON file and imported on another device or a
 
 ## Privacy & Data
 
-- **All data is stored locally on your device** — nothing is sent to any server
+- **Your data stays private** — nothing is sent to any server or third party; no tracking or analytics
 - **No account required** — the app works fully offline from first launch
-- **No tracking or analytics** — no data is collected or shared with third parties
-- **Export/Import** is the only way to transfer data between devices
+- **Optional iCloud sync** — enable in Settings to automatically sync your data across all your devices on the same Apple ID; disabled by default
+- **Export/Import** — back up and restore all your data manually as a JSON file

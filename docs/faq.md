@@ -19,7 +19,7 @@ Yes. Read & Preach is completely free with no in-app purchases and no subscripti
 iPhone and iPad only (iOS 16.0 or later). The app is optimized for both devices with an adaptive layout.
 
 **Is an internet connection required?**
-No. The app works fully offline. An internet connection is only used if you tap a link to open a passage on JW.org or in JW Library.
+No. The app works fully offline. An internet connection is only used if you tap a link to open a passage on JW.org or in JW Library, or if iCloud sync is enabled in Settings.
 
 **What languages are supported?**
 English, German, and French. Change the language in **Settings → General → Language**.
@@ -29,7 +29,10 @@ English, German, and French. Change the language in **Settings → General → L
 ## Data & Privacy
 
 **Where is my data stored?**
-All data is stored locally on your device only. Nothing is sent to any server or third party.
+By default, all data is stored locally on your device only. Nothing is sent to any server or third party. If you enable **iCloud Sync** in **Settings → General → iCloud Sync**, your data is also synced across your devices via Apple's iCloud — still fully private, nothing shared with third parties.
+
+**What does iCloud sync do?**
+When enabled, the app automatically syncs your data (ministry reports, Bible reading progress, and settings) across all your devices using the same Apple ID via Apple's iCloud Key-Value Store. iCloud sync is optional and disabled by default. You can enable or disable it at any time in **Settings → General → iCloud Sync**.
 
 **Does the app collect any personal data or analytics?**
 No. Read & Preach does not collect, track, or share any data.

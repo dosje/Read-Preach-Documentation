@@ -18,7 +18,7 @@ Ja. Read & Preach ist vollständig kostenlos — ohne In-App-Käufe und ohne Abo
 Nur iPhone und iPad (iOS 18.2 oder neuer). Die App ist für beide Geräte mit einem adaptiven Layout optimiert.
 
 **Ist eine Internetverbindung erforderlich?**
-Nein. Die App funktioniert vollständig offline. Eine Internetverbindung wird nur benötigt, wenn du auf einen Link tippst, um eine Bibelstelle auf JW.org oder in der JW Library zu öffnen.
+Nein. Die App funktioniert vollständig offline. Eine Internetverbindung wird nur benötigt, wenn du auf einen Link tippst, um eine Bibelstelle auf JW.org oder in der JW Library zu öffnen, oder wenn iCloud-Synchronisierung in den Einstellungen aktiviert ist.
 
 **Welche Sprachen werden unterstützt?**
 Englisch, Deutsch und Französisch. Ändere die Sprache unter **Einstellungen → Allgemein → Sprache**.
@@ -28,7 +28,10 @@ Englisch, Deutsch und Französisch. Ändere die Sprache unter **Einstellungen �
 ## Daten & Datenschutz
 
 **Wo werden meine Daten gespeichert?**
-Alle Daten werden ausschließlich lokal auf deinem Gerät gespeichert. Nichts wird an Server oder Dritte gesendet.
+Standardmäßig werden alle Daten ausschließlich lokal auf deinem Gerät gespeichert. Nichts wird an Server oder Dritte gesendet. Wenn du die **iCloud-Synchronisierung** unter **Einstellungen → Allgemein → iCloud-Synchronisierung** aktivierst, werden deine Daten auch über Apples iCloud auf deinen Geräten synchronisiert — vollständig privat, nichts wird mit Dritten geteilt.
+
+**Was macht die iCloud-Synchronisierung?**
+Wenn aktiviert, synchronisiert die App deine Daten (Dienstberichte, Bibellese-Fortschritt und Einstellungen) automatisch auf allen Geräten mit derselben Apple ID über Apples iCloud Key-Value Store. Die iCloud-Synchronisierung ist optional und standardmäßig deaktiviert. Du kannst sie jederzeit unter **Einstellungen → Allgemein → iCloud-Synchronisierung** aktivieren oder deaktivieren.
 
 **Sammelt die App persönliche Daten oder Analysen?**
 Nein. Read & Preach sammelt, verfolgt oder teilt keinerlei Daten.
