@@ -44,6 +44,29 @@ Unter **Einstellungen → Berichtseinstellungen**:
 - **Einmalige Zuweisung** — temporärer Hilfspioniersmonat (15 oder 30 Stunden)
 - **Rollenverlauf** — Protokoll aller vergangenen Rollenänderungen
 
+### Dienstjahr-Übersicht
+
+Tippe auf **Dienstjahr anzeigen** am unteren Rand der Monatsübersichtskarte.
+
+- Wähle mit dem Picker oben ein beliebiges Dienstjahr (September–August), für das Daten vorhanden sind
+- Die Tabelle zeigt alle 12 Monate mit der Rolle des jeweiligen Monats, Stunden, Platzierungen und Bibelstunden
+- Zukünftige Monate werden mit Strichen und ausgegraut angezeigt
+- Ein orangefarbenes **!**-Symbol erscheint bei Monaten, in denen ein Pionierziel nicht erreicht wurde (nur Hilfspioniere und einmalige Zuweisungen — Reguläre Pioniere zählen das Gesamtjahr)
+- Der Zielbereich unterhalb der Tabelle zeigt:
+  - **Hilfspionier / einmalige Zuweisung** — das Monatsziel für diesen Monat
+  - **Regulärer Pionier** — Jahresgesamtstunden vs. 600-Stunden-Jahresziel
+  - **Verkündiger** — kein Zielbereich
+- Tippe auf die Teilen-Schaltfläche (oben rechts), um das Jahr als PDF zu exportieren und das iOS-Teilen-Menü zu öffnen (in Dateien speichern, drucken oder über eine beliebige App teilen)
+
+### Bericht teilen
+
+Tippe auf **Bericht teilen** am unteren Rand der Monatsübersichtskarte, um deinen Monatsbericht als Textnachricht zu senden.
+
+- Die Nachricht ist rollenabhängig:
+  - **Pionier oder einmalige Zuweisung** — enthält deine Stunden und Bibelstunden für den Monat
+  - **Verkündiger (kein Ziel)** — enthält nur „Dienst erledigt: ja"
+- Das Standard-iOS-Teilen-Menü öffnet sich, sodass du die Nachricht per iMessage, WhatsApp, E-Mail oder einer anderen App senden kannst
+
 ---
 
 ## Diensttimer
@@ -145,6 +168,7 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 
 ### Allgemeine Einstellungen
 
+- **Name** — dein Name, verwendet im PDF-Dienstjahresbericht und in der monatlichen Teilen-Nachricht. Wird über iCloud synchronisiert, wenn die iCloud-Synchronisierung aktiviert ist.
 - **Sprache** — Englisch, Deutsch oder Französisch
 - **Haptisches Feedback** — Vibration beim Tippen ein-/ausschalten
 - **iCloud-Synchronisierung** — optionale automatische Synchronisierung über die Apple ID (standardmäßig deaktiviert)

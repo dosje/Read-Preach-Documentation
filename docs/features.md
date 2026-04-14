@@ -48,6 +48,29 @@ In **Settings → Report Settings** you can configure your ministry role:
 - **One-time assignment** — set a temporary Auxiliary Pioneer month (15 or 30 hours) for a single month without changing your recurring role.
 - **Role history** — a log of all past role changes.
 
+### Service Year Overview
+
+Tap **View service year** at the bottom of the monthly summary card to open the Service Year Overview.
+
+- Use the picker at the top to select any service year (September–August) for which you have data
+- The table shows all 12 months with the role you had that month, your hours, placements, and Bible studies
+- Future months are shown with dashes and greyed out
+- An orange **!** icon appears next to any past month where a pioneer goal was not reached (Auxiliary Pioneer and one-time assignments only — Regular Pioneer tracks the full year)
+- The goal section below the table shows:
+  - **Auxiliary Pioneer / one-time assignment** — the monthly goal for that month
+  - **Regular Pioneer** — the full yearly total vs. the 600-hour annual goal
+  - **Publisher** — no goal section shown
+- Tap the share button (top right) to export the year as a PDF and open the iOS share sheet (save to Files, print, or share via any app)
+
+### Share Report
+
+Tap **Share report** at the bottom of the monthly summary card to send your monthly report as a text message.
+
+- The message is role-aware:
+  - **Pioneer or one-time assignment** — includes your hours and Bible studies for the month
+  - **Publisher (no goal)** — simply states "Ministry done: yes"
+- The standard iOS share sheet opens, so you can send via iMessage, WhatsApp, email, or any other app
+
 ---
 
 ## Ministry Timer
@@ -159,6 +182,7 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 
 ### General Settings
 
+- **Name** — your name, used in the PDF service year report and the monthly share message. Synced via iCloud if iCloud Sync is enabled.
 - **Language** — English, German, or French. Changing the language restarts the app.
 - **Haptic feedback** — enable or disable vibration feedback when tapping
 - **iCloud Sync** — optionally sync data automatically across devices on the same Apple ID (off by default)

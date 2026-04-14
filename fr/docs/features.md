@@ -44,6 +44,29 @@ Sous **Paramètres → Paramètres de rapport** :
 - **Mission ponctuelle** — mois de pionnier auxiliaire temporaire (15 ou 30 heures)
 - **Historique des rôles** — journal de tous les changements de rôles passés
 
+### Vue d'ensemble de l'année de service
+
+Appuyez sur **Voir l'année de service** en bas de la carte de récapitulatif mensuel.
+
+- Utilisez le sélecteur en haut pour choisir n'importe quelle année de service (septembre–août) pour laquelle vous avez des données
+- Le tableau affiche les 12 mois avec le rôle que vous aviez ce mois-là, vos heures, placements et études bibliques
+- Les mois futurs sont affichés avec des tirets et grisés
+- Une icône **!** orange apparaît à côté des mois passés où un objectif de pionnier n'a pas été atteint (Pionniers auxiliaires et missions ponctuelles uniquement — les Pionniers réguliers suivent l'année complète)
+- La section objectif sous le tableau affiche :
+  - **Pionnier auxiliaire / mission ponctuelle** — l'objectif mensuel pour ce mois
+  - **Pionnier régulier** — le total annuel vs. l'objectif annuel de 600 heures
+  - **Proclamateur** — aucune section objectif
+- Appuyez sur le bouton partager (en haut à droite) pour exporter l'année en PDF et ouvrir la feuille de partage iOS
+
+### Partager le rapport
+
+Appuyez sur **Partager le rapport** en bas de la carte de récapitulatif mensuel pour envoyer votre rapport mensuel sous forme de message.
+
+- Le message s'adapte à votre rôle :
+  - **Pionnier ou mission ponctuelle** — inclut vos heures et études bibliques du mois
+  - **Proclamateur (sans objectif)** — indique simplement « Ministère effectué : oui »
+- La feuille de partage iOS standard s'ouvre pour envoyer via iMessage, WhatsApp, e-mail ou toute autre application
+
 ---
 
 ## Minuteur de ministère
@@ -145,6 +168,7 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 
 ### Paramètres généraux
 
+- **Nom** — votre nom, utilisé dans le rapport PDF de l'année de service et dans le message de partage mensuel. Synchronisé via iCloud si la synchronisation iCloud est activée.
 - **Langue** — anglais, allemand ou français
 - **Retour haptique** — activer/désactiver la vibration
 - **Synchronisation iCloud** — synchronisation automatique optionnelle via l'identifiant Apple (désactivée par défaut)
