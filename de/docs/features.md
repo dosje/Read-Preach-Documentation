@@ -158,6 +158,9 @@ Nachdem du die heutigen Kapitel als gelesen markiert hast, erscheint ein **Quiz*
 
 Das Quiz ist optional — du kannst es jederzeit überspringen.
 
+**Quiz-Wiederholung per Langdruck**
+Halte ein gelesenes Kapitel im Kapitelraster gedrückt, um es direkt zu quizzen — ohne den heutigen Leseplan abschließen zu müssen. Jedes Kapitel kann einmal pro Leseprogramm-Zyklus Punkte einbringen. Wurde ein Kapitel in diesem Zyklus bereits geprüft, startet derselbe Langdruck eine Wiederholungssitzung: Dein Ergebnis wird angezeigt, aber keine Punkte vergeben. Wenn du das gesamte Leseprogramm (alle 1 189 Kapitel) abgeschlossen hast, werden alle Kapitel für einen neuen Zyklus freigeschaltet.
+
 ### Gedenkmahl-Tracker
 
 Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen eine Gedenkmahl-Karte und ein täglicher Leseabschnitt. Diese zeigen die zugewiesenen Bibelstellen und Kapitel aus dem Buch *Jesus — der Weg, die Wahrheit, das Leben*.

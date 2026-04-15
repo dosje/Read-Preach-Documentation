@@ -158,6 +158,9 @@ Après avoir marqué les chapitres du jour comme lus, un bouton **Quiz** appara�
 
 Le quiz est facultatif — vous pouvez le passer à tout moment.
 
+**Replay du quiz par appui long**
+Appuyez longuement sur un chapitre lu dans la grille des chapitres pour le quizzer directement — sans avoir à terminer le plan de lecture du jour. Chaque chapitre peut rapporter des points une fois par cycle du programme de lecture. Si un chapitre a déjà été quizzé dans ce cycle, le même appui long lance une session de replay : votre score est affiché, mais aucun point n'est attribué. Lorsque vous terminez le programme complet (les 1 189 chapitres), tous les chapitres se débloquent pour un nouveau cycle.
+
 ### Suivi du Mémorial
 
 Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan), une carte du Mémorial et une section de lecture quotidienne apparaissent. Elles affichent les passages assignés de la Bible et les chapitres du livre *Jésus — le chemin, la vérité, la vie*.

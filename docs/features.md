@@ -167,6 +167,9 @@ After marking today's chapters as read, a **Quiz** button appears in the Today's
 
 The quiz is optional — you can skip it at any time.
 
+**Quiz replay via long-press**
+Long-press any read chapter in the chapter grid to quiz it directly — without needing to finish today's reading plan first. Each chapter can earn points once per reading program cycle. Once a chapter has already been quizzed this cycle, the same long-press starts a replay session that shows your score but does not award points. When you complete the full reading program (all 1,189 chapters), all chapters unlock again for a new cycle.
+
 ### Memorial Tracker
 
 During the Memorial season (approximately one week before and after Nisan 14), a Memorial card and daily reading section appear. These show the assigned passages from the Bible and the book *Jesus — The Way, the Truth, the Life* for each day leading up to and following the Memorial.
