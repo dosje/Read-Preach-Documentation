@@ -751,6 +751,306 @@
         }
     },
     {
+        "id": "gen-13-ai-00ad2da7",
+        "chapterKey": "Genesis|13",
+        "questionText": "Why did Aʹbram suggest that Lot separate from him?",
+        "options": [
+            "Because they were brothers and had too many animals to care for together",
+            "Because the land was not suitable for both of them to live there",
+            "Because God told him to do so",
+            "Because he wanted to be in charge"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 13:8",
+        "sourceReference": "Genesis 13 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Weil sie Brüder waren und gemeinsam zu viele Tiere zu versorgen hatten",
+                    "Weil das Land für beide nicht geeignet war, dort zu leben.",
+                    "Weil Gott es ihm befohlen hat",
+                    "Weil er die Verantwortung übernehmen wollte"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 13:8",
+                "questionText": "Warum schlug Aʹbram vor, dass Lot sich von ihm trennen sollte?",
+                "sourceReference": "Genesis 13 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Parce qu'ils étaient frères et qu'ils avaient trop d'animaux à s'occuper ensemble",
+                    "Parce que le terrain n'était pas adapté pour qu'ils y vivent tous les deux",
+                    "Parce que Dieu lui a dit de le faire",
+                    "Parce qu'il voulait être responsable"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 13:8",
+                "questionText": "Pourquoi Aʹbram a-t-il suggéré à Lot de se séparer de lui ?",
+                "sourceReference": "Genèse 13 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "gen-13-ai-54e19223",
+        "chapterKey": "Genesis|13",
+        "questionText": "What did Jehovah promise to give to Aʹbram and his offspring?",
+        "options": [
+            "The whole district of the Jordan",
+            "A lasting possession of all the land that he could see",
+            "Many animals and riches",
+            "Only a small plot of land near Sodʹom"
+        ],
+        "correctAnswerIndex": 1,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 13:15",
+        "sourceReference": "Genesis 13 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Das gesamte Gebiet des Jordans",
+                    "Dauerhafter Besitz von allem Land, das er sehen konnte",
+                    "Viele Tiere und Reichtümer",
+                    "Nur ein kleines Grundstück bei Sodʹom"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 13:15",
+                "questionText": "Was versprach Jehova, Aʹbram und seinen Nachkommen zu geben?",
+                "sourceReference": "Genesis 13 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Toute la région du Jourdain",
+                    "Une possession durable de toutes les terres qu'il pouvait voir",
+                    "Beaucoup d'animaux et de richesses",
+                    "Seulement un petit terrain près de Sodʹom"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 13:15",
+                "questionText": "Qu'est-ce que Jéhovah a promis de donner à Aʹbram et à sa descendance ?",
+                "sourceReference": "Genèse 13 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "gen-13-ai-6225b175",
+        "chapterKey": "Genesis|13",
+        "questionText": "Where did Aʹbram and his wife camp as they traveled from the Negʹeb to Bethʹel?",
+        "options": [
+            "In one place after another",
+            "Only in Bethʹel",
+            "Always near a city",
+            "Never more than 1 day at a time"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 13:3",
+        "sourceReference": "Genesis 13 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "An einem Ort nach dem anderen",
+                    "Nur in Bethʹel",
+                    "Immer in der Nähe einer Stadt",
+                    "Nie mehr als 1 Tag am Stück"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 13:3",
+                "questionText": "Wo lagerten Aʹbram und seine Frau, als sie vom Negʹeb nach Bethʹel reisten?",
+                "sourceReference": "Genesis 13 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "D'un endroit à l'autre",
+                    "Seulement à Bethʹel",
+                    "Toujours à proximité d'une ville",
+                    "Jamais plus d'un jour à la fois"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 13:3",
+                "questionText": "Où Aʹbram et sa femme ont-ils campé pendant leur voyage du Negʹeb à Bethʹel ?",
+                "sourceReference": "Genèse 13 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "gen-14-ai-468bee2a",
+        "chapterKey": "Genesis|14",
+        "questionText": "What happened to the kings of Sodʹom and Go·morʹrah during the battle in the Valley of Sidʹdim?",
+        "options": [
+            "They won the battle",
+            "They were defeated, but escaped",
+            "They fell into bitumen pits",
+            "They took refuge on a nearby mountain"
+        ],
+        "correctAnswerIndex": 2,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 14:10",
+        "sourceReference": "Genesis 14 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Sie haben die Schlacht gewonnen",
+                    "Sie wurden besiegt, konnten aber entkommen.",
+                    "Sie fielen in Bitumengruben",
+                    "Sie suchten Zuflucht auf einem nahe gelegenen Berg"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 14:10",
+                "questionText": "Was geschah mit den Königen von Sodʹom und Gomorʹrah während der Schlacht im Tal von Sidʹdim?",
+                "sourceReference": "Genesis 14 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ils ont gagné la bataille",
+                    "Ils ont été vaincus, mais se sont échappés",
+                    "Ils sont tombés dans des puits de bitume",
+                    "Ils se sont réfugiés sur une montagne voisine"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 14:10",
+                "questionText": "Qu'est-il arrivé aux rois de Sodʹom et de Go-morʹrah lors de la bataille dans la vallée de Sidʹdim ?",
+                "sourceReference": "Genèse 14 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "gen-14-ai-98fe18f1",
+        "chapterKey": "Genesis|14",
+        "questionText": "Who were the four kings that fought against the five kings in the Valley of Sidʹdim?",
+        "options": [
+            "Ched·or·la·oʹmer king of Eʹlam, Tiʹdal king of Goiʹim, Amʹra·phel king of Shiʹnar, and Arʹi·och king of El·laʹsar",
+            "Beʹra king of Sodʹom, Birʹsha king of Go·morʹrah, Shiʹnab king of Adʹmah, and Shem·eʹber king of Ze·boiʹim",
+            "The kings of Sodʹom and Go·morʹrah, the king of Adʹmah, and the king of Beʹla",
+            "Aʹbram's allies, Eshʹcol, Aʹner, and Mamʹre"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 14:9",
+        "sourceReference": "Genesis 14 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Ched-or-la-oʹmer, König von Eʹlam, Tiʹdal, König von Goiʹim, Amʹra-phel, König von Schiʹnar, und Arʹi-och, König von El-laʹsar",
+                    "Beʹra, König von Sodʹom, Birʹsha, König von Go-morʹrah, Shiʹnab, König von Adʹmah, und Shem-eʹber, König von Ze-boiʹim",
+                    "Die Könige von Sodʹom und Go-morʹrah, der König von Adʹmah und der König von Beʹla",
+                    "Aʹbrams Verbündete, Eshʹcol, Aʹner und Mamʹre"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 14:9",
+                "questionText": "Wer waren die vier Könige, die gegen die fünf Könige im Tal von Sidʹdim kämpften?",
+                "sourceReference": "Genesis 14 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Ched-or-la-oʹmer, roi d'Eʹlam, Tiʹdal, roi de Goiʹim, Amʹra-phel, roi de Shiʹnar, et Arʹi-och, roi d'El-laʹsar.",
+                    "Beʹra, roi de Sodʹom, Birʹsha, roi de Go-morʹrah, Shiʹnab, roi d'Adʹmah, et Shem-eʹber, roi de Ze-boiʹim.",
+                    "Les rois de Sodʹom et de Go-morʹrah, le roi d'Adʹmah et le roi de Beʹla.",
+                    "Les alliés d'Aʹbram, Eshʹcol, Aʹner et Mamʹre."
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 14:9",
+                "questionText": "Qui sont les quatre rois qui ont combattu les cinq rois dans la vallée de Sidʹdim ?",
+                "sourceReference": "Genèse 14 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
+        "id": "gen-14-ai-c7dbbdb3",
+        "chapterKey": "Genesis|14",
+        "questionText": "Who helped Aʹbram after he defeated Ched·or·la·moʹmer and the kings who were with him?",
+        "options": [
+            "Mel·chizʹe·dek king of Saʹlem",
+            "The king of Sodʹom",
+            "Aʹbram's allies, Eshʹcol, Aʹner, and Mamʹre",
+            "Jehovah the Most High God"
+        ],
+        "correctAnswerIndex": 0,
+        "difficulty": "basic",
+        "questionType": "single",
+        "sortOrder": 0,
+        "explanation": "Genesis 14:17-18",
+        "sourceReference": "Genesis 14 (New World Translation)",
+        "sourceURLs": [
+            "https://wol.jw.org"
+        ],
+        "translations": {
+            "de": {
+                "options": [
+                    "Mel-chizʹe-dek König von Saʹlem",
+                    "Der König von Sodʹom",
+                    "Aʹbrams Verbündete, Eshʹcol, Aʹner und Mamʹre",
+                    "Jehova, der allerhöchste Gott"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Mose 14:17-18",
+                "questionText": "Wer half Aʹbram, nachdem er Ched-or-la-moʹmer und die Könige, die bei ihm waren, besiegt hatte?",
+                "sourceReference": "Genesis 14 (Neue-Welt-Übersetzung)"
+            },
+            "fr": {
+                "options": [
+                    "Mel-chizʹe-dek roi de Saʹlem",
+                    "Le roi de Sodʹom",
+                    "Les alliés d'Aʹbram, Eshʹcol, Aʹner et Mamʹre.",
+                    "Jéhovah, le Dieu très haut"
+                ],
+                "sourceURLs": [
+                    "https://wol.jw.org"
+                ],
+                "explanation": "Genèse 14:17-18",
+                "questionText": "Qui a aidé Aʹbram après sa victoire sur Ched-or-la-moʹmer et les rois qui étaient avec lui ?",
+                "sourceReference": "Genèse 14 (Nouvelle traduction mondiale)"
+            }
+        }
+    },
+    {
         "id": "joh_3_q1",
         "chapterKey": "John|3",
         "questionText": "What did Jesus tell Nicodemus a person must do to see the Kingdom of God?",
@@ -1040,10 +1340,8 @@
                     "20",
                     "40"
                 ],
-                "sourceURLs": [],
                 "explanation": "Josua 4:8: \"Sie holten 12 Steine aus der Mitte des Jordans, so wie Jehova es Josua aufgetragen hatte, entsprechend der Zahl der Stämme der Israeliten\".",
-                "questionText": "Wie viele Steine wurden aus der Mitte des Jordans entnommen?",
-                "sourceReference": "Josua 4 (Neue-Welt-Übersetzung)"
+                "questionText": "Wie viele Steine wurden aus der Mitte des Jordans entnommen?"
             },
             "fr": {
                 "options": [
@@ -1052,10 +1350,8 @@
                     "20",
                     "40"
                 ],
-                "sourceURLs": [],
                 "explanation": "Josué 4:8 : \"Ils enlevèrent douze pierres du milieu du Jourdain, comme Jéhovah l'avait ordonné à Josué, pour correspondre au nombre des tribus d'Israël\".",
-                "questionText": "Combien de pierres ont été prises au milieu du Jourdain ?",
-                "sourceReference": "Josué 4 (Traduction du Nouveau Monde)"
+                "questionText": "Combien de pierres ont été prises au milieu du Jourdain ?"
             }
         }
     },
