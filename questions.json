@@ -385,9 +385,12 @@
                     "Tag 4",
                     "Tag 6"
                 ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001014&wtlocale=X"
+                ],
                 "explanation": "Am vierten Tag schuf Gott die beiden großen Leuchter und die Sterne, um die Erde zu beleuchten und die Jahreszeiten, Tage und Jahre zu kennzeichnen.",
                 "questionText": "An welchem Tag schuf Gott die Sonne, den Mond und die Sterne?",
-                "sourceReference": "Genesis 1:14-19"
+                "sourceReference": "1. Mose 1:14-19"
             },
             "fr": {
                 "options": [
@@ -395,6 +398,9 @@
                     "Troisième jour",
                     "Jour 4",
                     "Jour 6"
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001014&wtlocale=F"
                 ],
                 "explanation": "Le quatrième jour, Dieu a créé les deux grands luminaires et les étoiles pour éclairer la terre et marquer les saisons, les jours et les années.",
                 "questionText": "En quel jour Dieu a-t-il créé le soleil, la lune et les étoiles ?",
@@ -429,9 +435,12 @@
                     "\"Es werde Licht\"",
                     "\"Gott hat es gesegnet\""
                 ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001004&wtlocale=X"
+                ],
                 "explanation": "Nach jedem schöpferischen Werk heißt es im Bericht: \"Gott sah, dass es gut war\", was die göttliche Zufriedenheit mit seinem Werk zeigt.",
                 "questionText": "Welcher Satz wird nach jedem Tag der Schöpfung wiederholt, um Gottes Zustimmung zu zeigen?",
-                "sourceReference": "Genesis 1:4, 10, 12, 18, 21, 25, 31"
+                "sourceReference": "1. Mose 1:4, 10, 12, 18, 21, 25, 31"
             },
             "fr": {
                 "options": [
@@ -439,6 +448,9 @@
                     "\"Dieu a vu que c'était bon",
                     "\"Que la lumière soit\"",
                     "\"Dieu l'a béni\""
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001004&wtlocale=F"
                 ],
                 "explanation": "Après chaque création, le récit dit que \"Dieu vit que cela était bon\", montrant ainsi la satisfaction divine face à son œuvre.",
                 "questionText": "Quelle phrase est répétée après chaque jour de la création pour montrer l'approbation de Dieu ?",
@@ -473,9 +485,12 @@
                     "Die Tiere",
                     "Adam"
                 ],
-                "explanation": "In 1. Mose 1,27 heißt es: Gott schuf den Menschen als sein Abbild, als Abbild Gottes schuf er ihn; als Mann und Frau schuf er sie.",
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001027&wtlocale=X"
+                ],
+                "explanation": "In 1. Mose 1:27 heißt es: Gott schuf den Menschen als sein Abbild, als Abbild Gottes schuf er ihn; als Mann und Frau schuf er sie.",
                 "questionText": "Nach wessen Bild wurde der Mensch geschaffen?",
-                "sourceReference": "Mose 1:27; Einsicht in die Heilige Schrift, Band 2, \"Der Mensch\""
+                "sourceReference": "1: Mose 1:27; Einsicht in die Heilige Schrift, Band 2, \"Der Mensch\""
             },
             "fr": {
                 "options": [
@@ -483,6 +498,9 @@
                     "Dieu",
                     "Les animaux",
                     "Adam"
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01001027&wtlocale=F"
                 ],
                 "explanation": "La Genèse 1:27 stipule : \"Dieu créa l'homme à son image, à l'image de Dieu, il le créa : Dieu créa l'homme à son image, il le créa à l'image de Dieu, il les créa homme et femme.",
                 "questionText": "À l'image de qui l'homme a-t-il été créé ?",
@@ -515,9 +533,9 @@
                     "Der 7. Tag."
                 ],
                 "sourceURLs": [],
-                "explanation": "Nach Genesis 1:26-31 schuf Gott den Menschen am sechsten Tag der Schöpfung.",
+                "explanation": "Nach 1. Mose 1:26-31 schuf Gott den Menschen am sechsten Tag der Schöpfung.",
                 "questionText": "An welchem Tag wurde der Mensch erschaffen?",
-                "sourceReference": "Genesis 1:26-31"
+                "sourceReference": "1. Mose 1:26-31"
             },
             "fr": {
                 "options": [
@@ -692,9 +710,12 @@
                     "Die Nachkommen der Schlange würden die Erde beherrschen",
                     "Beide würden aus dem Garten entfernt werden"
                 ],
-                "explanation": "Mose 3,15 enthält die erste messianische Prophezeiung: Der Nachkomme der Frau wird der Schlange den Kopf abschlagen, was auf die Zerschlagung Satans durch Jesus Christus hinweist.",
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01003015&wtlocale=X"
+                ],
+                "explanation": "1. Mose 3:15 enthält die erste messianische Prophezeiung: Der Nachkomme der Frau wird der Schlange den Kopf abschlagen, was auf die Zerschlagung Satans durch Jesus Christus hinweist.",
                 "questionText": "Was versprach Gott in 1. Mose 3:15 bezüglich der \"Nachkommenschaft\" der Schlange und der \"Nachkommenschaft\" der Frau?",
-                "sourceReference": "Mose 3,15; Offenbarung 12,9; Einsicht in die Heilige Schrift, Band 1, \"Feindschaft\""
+                "sourceReference": "1. Mose 3:15; Offenbarung 12:9; Einsicht in die Heilige Schrift, Band 1, \"Feindschaft\""
             },
             "fr": {
                 "options": [
@@ -702,6 +723,9 @@
                     "La descendance de la femme écrasera la tête du serpent.",
                     "La progéniture du serpent dominerait la terre.",
                     "Les deux seraient retirés du jardin"
+                ],
+                "sourceURLs": [
+                    "https://www.jw.org/finder?bible=01003015&wtlocale=F"
                 ],
                 "explanation": "Genèse 3:15 rapporte la première prophétie messianique : la descendance de la femme frappera la tête du serpent, évoquant l'écrasement de Satan par Jésus-Christ.",
                 "questionText": "Qu'est-ce que Dieu a promis dans Genèse 3:15 concernant la \"descendance\" du serpent et la \"descendance\" de la femme ?",
@@ -733,9 +757,10 @@
                     "Die Schlange",
                     "Die Ameise"
                 ],
-                "explanation": "Wenn Sie Genesis 3:1 lesen, steht dort: \"Die Schlange aber war das vorsichtigste unter allen wilden Tieren des Feldes, die Jehova Gott gemacht hatte\".",
+                "sourceURLs": [],
+                "explanation": "Wenn Sie 1. Moses 3:1 lesen, steht dort: \"Die Schlange aber war das vorsichtigste unter allen wilden Tieren des Feldes, die Jehova Gott gemacht hatte\".",
                 "questionText": "Welches wilde Tier war das vorsichtigste auf dem Feld, das Jehova Gott gemacht hat?",
-                "sourceReference": "Gensis 3:1"
+                "sourceReference": "1. Mose 3:1"
             },
             "fr": {
                 "options": [
@@ -744,9 +769,10 @@
                     "Le serpent",
                     "La fourmi"
                 ],
-                "explanation": "Si vous lisez Genèse 3:1, vous lirez ce qui suit : \"Le serpent était le plus prudent de tous les animaux sauvages des champs que Jéhovah Dieu avait faits\".",
-                "questionText": "Quel est l'animal sauvage le plus prudent des champs que Jéhovah Dieu a créés ?",
-                "sourceReference": "Gensis 3:1"
+                "sourceURLs": [],
+                "explanation": "Si vous lisez Genèse 3:1, vous verrez qu'il est écrit : « Or, le serpent était le plus rusé de tous les animaux sauvages des champs que Jéhovah Dieu avait créés. »",
+                "questionText": "Quel animal sauvage, parmi tous ceux que Jéhovah Dieu a créés, était le plus prudent ?",
+                "sourceReference": "Genèse 3:1"
             }
         }
     },
@@ -2289,50 +2315,6 @@
                 "explanation": "Le Psaume 23 commence ainsi : \"L'Éternel est mon berger. Je ne manquerai de rien\". David s'appuie sur sa propre expérience de berger pour illustrer la tendresse de Dieu.",
                 "questionText": "Comment David décrit-il Jéhovah au début du Psaume 23 ?",
                 "sourceReference": "Psaume 23:1"
-            }
-        }
-    },
-    {
-        "id": "psa_23_q2",
-        "chapterKey": "Psalms|23",
-        "questionText": "What does Psalm 23:4 say David will not fear, even when walking through the valley of deep shadow?",
-        "options": [
-            "Enemies",
-            "Death",
-            "Darkness",
-            "Calamity"
-        ],
-        "correctAnswerIndex": 1,
-        "difficulty": "basic",
-        "questionType": "single",
-        "sortOrder": 0,
-        "explanation": "'Even if I walk in the valley of deep shadow, I fear no calamity' â€” the phrase often rendered 'valley of the shadow of death' reflects trust in God's presence even in the darkest trials.",
-        "sourceReference": "Psalm 23:4",
-        "sourceURLs": [
-            "https://www.jw.org/finder?bible=19023004&wtlocale=E"
-        ],
-        "translations": {
-            "de": {
-                "options": [
-                    "Feinde",
-                    "Tod",
-                    "Dunkelheit",
-                    "Kalamität"
-                ],
-                "explanation": "'Auch wenn ich im finsteren Tal wandle, fÃ?rchte ich kein Unheil' â€\" der Satz, der hÃ?ufig als 'Tal des Todesschattens' wiedergegeben wird, spiegelt das Vertrauen in Gottes Gegenwart selbst in den dunkelsten PrÃ?fungen wider.",
-                "questionText": "Was sagt Psalm 23,4, dass David sich nicht fürchten wird, selbst wenn er durch das Tal der tiefen Schatten geht?",
-                "sourceReference": "Psalm 23:4"
-            },
-            "fr": {
-                "options": [
-                    "Ennemis",
-                    "La mort",
-                    "Ténèbres",
-                    "Calamité"
-                ],
-                "explanation": "Même si je marche dans la vallée de l'ombre profonde, je ne crains aucun malheur\" - l'expression souvent rendue par \"vallée de l'ombre de la mort\" reflète la confiance en la présence de Dieu, même dans les épreuves les plus sombres.",
-                "questionText": "Que dit le Psaume 23:4 que David ne craindra pas, même lorsqu'il marchera dans la vallée de l'ombre profonde ?",
-                "sourceReference": "Psaume 23:4"
             }
         }
     },
