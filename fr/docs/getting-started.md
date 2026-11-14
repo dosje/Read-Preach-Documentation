@@ -10,12 +10,13 @@ Bienvenue sur Read & Preach ! Ce guide vous accompagne dans la configuration ini
 
 ## Prérequis
 
-- **iPhone ou iPad** sous iOS 16.0 ou version ultérieure
+- **iPhone ou iPad** sous iOS 18.2 ou version ultérieure, ou
+- **Smartphone ou tablette Android** sous Android 8.0 ou version ultérieure
 - Aucun compte, aucune connexion Internet requise
 
 ## Étape 1 — Installer l'application
 
-Téléchargez Read & Preach depuis l'App Store. Consultez le [guide d'installation](../installation/) pour plus de détails.
+Téléchargez Read & Preach depuis l'App Store (iPhone & iPad) ou Google Play (Android). Consultez le [guide d'installation](../installation/) pour plus de détails.
 
 ## Étape 2 — Configurer un plan de lecture (onglet Bible)
 
@@ -46,6 +47,8 @@ Pour que l'objectif mensuel d'heures s'affiche correctement :
 1. Ouvrez **Paramètres → Paramètres de lecture biblique**
 2. Faites défiler jusqu'à **Rappel quotidien**
 3. Activez-le et choisissez une heure
+
+Sous Android 13 et versions ultérieures, l'application demande l'autorisation d'envoyer des notifications lorsque vous activez un rappel. Si l'application affiche un message sur les **Alarmes et rappels**, appuyez sur le bouton et autorisez-les pour que les rappels arrivent à l'heure.
 
 ## Étape 5 — Activer le suivi de série (optionnel)
 

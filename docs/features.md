@@ -32,6 +32,8 @@ The calendar shows the current month with visual indicators on days that have da
 
 On iPhone the calendar can be collapsed to a compact week view. On iPad it is always visible — as a sidebar in landscape, or above the form in portrait.
 
+On Android tablets the Report tab opens with the month calendar. In landscape a navigation rail replaces the bottom tab bar; you can place it on the left or right in **Settings → General**.
+
 ### Monthly Summary
 
 Below the daily form, a summary card shows:
@@ -48,6 +50,14 @@ In **Settings → Report Settings** you can configure your ministry role:
 - **One-time assignment** — set a temporary Auxiliary Pioneer month (15 or 30 hours) for a single month without changing your recurring role.
 - **Role history** — a log of all past role changes.
 
+### Credit Hours
+
+Regular Pioneers can record credit hours. They count towards the hour goal and are shown separately from ministry hours.
+
+### Bible Students
+
+Keep a list of your Bible students and tick the ones you studied with. Each month the app counts your different Bible studies. Bible student names stay on your device and are never included in a report you send.
+
 ### Service Year Overview
 
 Tap **View service year** at the bottom of the monthly summary card to open the Service Year Overview.
@@ -60,7 +70,7 @@ Tap **View service year** at the bottom of the monthly summary card to open the 
   - **Auxiliary Pioneer / one-time assignment** — the monthly goal for that month
   - **Regular Pioneer** — the full yearly total vs. the 600-hour annual goal
   - **Publisher** — no goal section shown
-- Tap the share button (top right) to export the year as a PDF and open the iOS share sheet (save to Files, print, or share via any app)
+- Tap the share button (top right) to export the year as a PDF and open the share sheet (save to Files or Google Drive, print, or share via any app)
 
 ### Share Report
 
@@ -69,7 +79,11 @@ Tap **Share report** at the bottom of the monthly summary card to send your mont
 - The message is role-aware:
   - **Pioneer or one-time assignment** — includes your hours and Bible studies for the month
   - **Publisher (no goal)** — simply states "Ministry done: yes"
-- The standard iOS share sheet opens, so you can send via iMessage, WhatsApp, email, or any other app
+- The system share sheet opens, so you can send via Messages, WhatsApp, email, or any other app
+
+### Send to NW Publisher
+
+Tap **Send to NW Publisher** to hand last month's totals (hours, credit hours, Bible studies and an optional note) to the NW Publisher app on your device. Names of Bible students are never sent. The NW Publisher app must be installed on the same device.
 
 ---
 
@@ -84,7 +98,7 @@ Tap the timer button in the Report tab to open the Ministry Timer:
 - **Pause / Resume** — pause the timer during breaks and resume when you continue
 - **Stop** — ends the session; a save dialog shows your time rounded to the nearest 30 minutes, ready to add to the day's report entry
 
-### Home screen widgets
+### Home screen widgets — iPhone & iPad
 
 Add a Ministry Timer widget to your home screen. Two sizes are available:
 - **Small** — shows the current timer with icon-only Pause/Resume and Stop controls
@@ -92,11 +106,16 @@ Add a Ministry Timer widget to your home screen. Two sizes are available:
 
 Both sizes update automatically and let you control the timer without opening the app.
 
-### Live Activity & Dynamic Island
+### Live Activity & Dynamic Island — iPhone
 
 When you start the timer, a Live Activity is created automatically on supported devices:
 - **Lock Screen** — shows the elapsed time with Pause/Resume and Stop controls
 - **Dynamic Island** (iPhone 14 Pro and later) — shows a compact animated timer in the pill; long-press to expand and access controls
+
+### Widget & notification — Android
+
+- **Home screen widget** — shows the running time with a Pause/Resume button. The widget is resizable; tap it to open the app.
+- **Timer notification** — while the timer runs, a notification shows the elapsed time with **Pause/Resume** and **Stop**. Stop opens the app so you can save the time to your report.
 
 ---
 
@@ -188,8 +207,10 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 - **Name** — your name, used in the PDF service year report and the monthly share message. Synced via iCloud if iCloud Sync is enabled.
 - **Language** — English, German, or French. Changing the language restarts the app.
 - **Haptic feedback** — enable or disable vibration feedback when tapping
-- **iCloud Sync** — optionally sync data automatically across devices on the same Apple ID (off by default)
-- **App icon** — choose from Default, Green, Gold, Purple, or Red
+- **iCloud Sync** *(iPhone & iPad)* — optionally sync data automatically across devices on the same Apple ID (off by default)
+- **App icon** *(iPhone & iPad)* — choose from Default, Green, Gold, Purple, or Red
+- **Navigation rail side** *(Android tablets)* — place the navigation rail on the left or right in landscape
+- **Export & Import** *(Android)* — see [Export & Import](#export--import) below
 
 ### Report Settings
 
@@ -218,10 +239,11 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 
 ### Export & Import
 
-All your data can be exported to a JSON file and imported on another device or after reinstalling:
+All your data can be exported to a JSON file and imported on another device or after reinstalling. On Android, Export & Import is found under **Settings → General**.
 - Choose what to include: Ministry Reports, Bible Reading (chapters, plan, streak, history), Memorial Reading
-- Export saves a file you can store anywhere (iCloud Drive, Files app, email, etc.)
+- Export saves a file you can store anywhere (iCloud Drive, Files app, Google Drive, email, etc.)
 - Import restores all selected data from a previously exported file
+- The file format is the same on iPhone, iPad and Android, so you can move your data between platforms
 
 ---
 
@@ -229,5 +251,6 @@ All your data can be exported to a JSON file and imported on another device or a
 
 - **Your data stays private** — nothing is sent to any server or third party; no tracking or analytics
 - **No account required** — the app works fully offline from first launch
-- **Optional iCloud sync** — enable in Settings to automatically sync your data across all your devices on the same Apple ID; disabled by default
+- **Optional iCloud sync** *(iPhone & iPad)* — enable in Settings to automatically sync your data across all your devices on the same Apple ID; disabled by default
+- **Android backup** — the Android app has no built-in sync; if Google backup is turned on in your Android settings, Android may include the app's data in your device backup
 - **Export/Import** — back up and restore all your data manually as a JSON file

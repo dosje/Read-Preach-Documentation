@@ -29,6 +29,8 @@ Der Kalender zeigt den aktuellen Monat mit visuellen Markierungen an Tagen mit E
 
 Auf dem iPhone kann der Kalender auf eine kompakte Wochenansicht reduziert werden. Auf dem iPad ist er immer sichtbar.
 
+Auf Android-Tablets öffnet sich der Bericht-Reiter mit dem Monatskalender. Im Querformat ersetzt eine Navigationsleiste an der Seite die untere Reiterleiste; du kannst sie unter **Einstellungen → Allgemein** links oder rechts platzieren.
+
 ### Monatsübersicht
 
 Unterhalb des Tagesformulars zeigt eine Zusammenfassung:
@@ -44,6 +46,14 @@ Unter **Einstellungen → Berichtseinstellungen**:
 - **Einmalige Zuweisung** — temporärer Hilfspioniersmonat (15 oder 30 Stunden)
 - **Rollenverlauf** — Protokoll aller vergangenen Rollenänderungen
 
+### Zeitgutschrift
+
+Reguläre Pioniere können Stunden als Zeitgutschrift erfassen. Sie zählen zum Stundenziel und werden getrennt von den Dienststunden angezeigt.
+
+### Bibelschüler
+
+Führe eine Liste deiner Bibelschüler und hake an, mit wem du studiert hast. Jeden Monat zählt die App deine verschiedenen Bibelstudien. Die Namen der Bibelschüler bleiben auf deinem Gerät und werden nie in einem gesendeten Bericht mitgeschickt.
+
 ### Dienstjahr-Übersicht
 
 Tippe auf **Dienstjahr anzeigen** am unteren Rand der Monatsübersichtskarte.
@@ -56,7 +66,7 @@ Tippe auf **Dienstjahr anzeigen** am unteren Rand der Monatsübersichtskarte.
   - **Hilfspionier / einmalige Zuweisung** — das Monatsziel für diesen Monat
   - **Regulärer Pionier** — Jahresgesamtstunden vs. 600-Stunden-Jahresziel
   - **Verkündiger** — kein Zielbereich
-- Tippe auf die Teilen-Schaltfläche (oben rechts), um das Jahr als PDF zu exportieren und das iOS-Teilen-Menü zu öffnen (in Dateien speichern, drucken oder über eine beliebige App teilen)
+- Tippe auf die Teilen-Schaltfläche (oben rechts), um das Jahr als PDF zu exportieren und das Teilen-Menü zu öffnen (in Dateien oder Google Drive speichern, drucken oder über eine beliebige App teilen)
 
 ### Bericht teilen
 
@@ -65,7 +75,11 @@ Tippe auf **Bericht teilen** am unteren Rand der Monatsübersichtskarte, um dein
 - Die Nachricht ist rollenabhängig:
   - **Pionier oder einmalige Zuweisung** — enthält deine Stunden und Bibelstunden für den Monat
   - **Verkündiger (kein Ziel)** — enthält nur „Dienst erledigt: ja"
-- Das Standard-iOS-Teilen-Menü öffnet sich, sodass du die Nachricht per iMessage, WhatsApp, E-Mail oder einer anderen App senden kannst
+- Das Teilen-Menü des Systems öffnet sich, sodass du die Nachricht per Nachrichten-App, WhatsApp, E-Mail oder einer anderen App senden kannst
+
+### An NW Publisher senden
+
+Tippe auf **An NW Publisher senden**, um die Summen des letzten Monats (Stunden, Zeitgutschrift, Bibelstudien und eine optionale Anmerkung) an die NW-Publisher-App auf deinem Gerät zu übergeben. Namen von Bibelschülern werden nie gesendet. Die NW-Publisher-App muss auf demselben Gerät installiert sein.
 
 ---
 
@@ -80,7 +94,7 @@ Tippe im Bericht-Reiter auf die Timer-Schaltfläche, um den Diensttimer zu öffn
 - **Pausieren / Fortsetzen** — halte den Timer bei Pausen an und setze ihn danach fort
 - **Stoppen** — beendet die Sitzung; ein Speicherdialog zeigt die auf 30 Minuten gerundete Zeit, bereit zum Hinzufügen zum Tageseintrag
 
-### Startbildschirm-Widgets
+### Startbildschirm-Widgets — iPhone & iPad
 
 Füge ein Diensttimer-Widget zum Startbildschirm hinzu. Zwei Größen sind verfügbar:
 - **Klein** — zeigt den aktuellen Timer mit Symbol-Schaltflächen für Pausieren/Fortsetzen und Stopp
@@ -88,11 +102,16 @@ Füge ein Diensttimer-Widget zum Startbildschirm hinzu. Zwei Größen sind verf�
 
 Beide Größen aktualisieren sich automatisch und ermöglichen die Steuerung ohne App-Öffnung.
 
-### Live Activity & Dynamic Island
+### Live Activity & Dynamic Island — iPhone
 
 Wenn du den Timer startest, wird auf unterstützten Geräten automatisch eine Live Activity erstellt:
 - **Sperrbildschirm** — zeigt die verstrichene Zeit mit Pausieren/Fortsetzen- und Stopp-Schaltflächen
 - **Dynamic Island** (iPhone 14 Pro und neuer) — zeigt einen kompakten animierten Timer in der Pille; lang drücken, um die Steuerung aufzuklappen
+
+### Widget & Benachrichtigung — Android
+
+- **Startbildschirm-Widget** — zeigt die laufende Zeit mit einer Pausieren/Fortsetzen-Schaltfläche. Die Größe des Widgets ist anpassbar; tippe darauf, um die App zu öffnen.
+- **Timer-Benachrichtigung** — solange der Timer läuft, zeigt eine Benachrichtigung die verstrichene Zeit mit **Pausieren/Fortsetzen** und **Stopp**. Stopp öffnet die App, damit du die Zeit in deinen Bericht speichern kannst.
 
 ---
 
@@ -174,8 +193,10 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 - **Name** — dein Name, verwendet im PDF-Dienstjahresbericht und in der monatlichen Teilen-Nachricht. Wird über iCloud synchronisiert, wenn die iCloud-Synchronisierung aktiviert ist.
 - **Sprache** — Englisch, Deutsch oder Französisch
 - **Haptisches Feedback** — Vibration beim Tippen ein-/ausschalten
-- **iCloud-Synchronisierung** — optionale automatische Synchronisierung über die Apple ID (standardmäßig deaktiviert)
-- **App-Symbol** — Standard, Grün, Gold, Lila oder Rot
+- **iCloud-Synchronisierung** *(iPhone & iPad)* — optionale automatische Synchronisierung über die Apple ID (standardmäßig deaktiviert)
+- **App-Symbol** *(iPhone & iPad)* — Standard, Grün, Gold, Lila oder Rot
+- **Seite der Navigationsleiste** *(Android-Tablets)* — Navigationsleiste im Querformat links oder rechts
+- **Export & Import** *(Android)* — siehe [Export & Import](#export--import) unten
 
 ### Berichtseinstellungen
 
@@ -203,9 +224,12 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 
 ### Export & Import
 
-- Exportiert alle Daten als JSON-Datei
+Unter Android findest du Export & Import unter **Einstellungen → Allgemein**.
+
+- Exportiert alle Daten als JSON-Datei, die du überall speichern kannst (iCloud Drive, Dateien, Google Drive, E-Mail usw.)
 - Wähle was enthalten sein soll: Dienstberichte, Bibellesen, Gedenkmahl-Lesen
 - Import stellt alle ausgewählten Daten wieder her
+- Das Dateiformat ist auf iPhone, iPad und Android gleich, sodass du deine Daten zwischen den Plattformen übertragen kannst
 
 ---
 
@@ -213,5 +237,6 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 
 - **Deine Daten bleiben privat** — nichts wird an Server oder Dritte gesendet; keine Verfolgung oder Analyse
 - **Kein Konto erforderlich** — die App funktioniert vollständig offline
-- **Optionale iCloud-Synchronisierung** — in den Einstellungen aktivierbar; synchronisiert Daten automatisch auf allen Geräten mit derselben Apple ID; standardmäßig deaktiviert
+- **Optionale iCloud-Synchronisierung** *(iPhone & iPad)* — in den Einstellungen aktivierbar; synchronisiert Daten automatisch auf allen Geräten mit derselben Apple ID; standardmäßig deaktiviert
+- **Android-Sicherung** — die Android-App hat keine eingebaute Synchronisierung; wenn in den Android-Einstellungen die Google-Sicherung eingeschaltet ist, kann Android die App-Daten in die Gerätesicherung aufnehmen
 - **Export/Import** — sichere und stelle deine Daten manuell als JSON-Datei wieder her

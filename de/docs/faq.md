@@ -9,16 +9,22 @@ permalink: /de/docs/faq/
 ## Allgemein
 
 **Was ist Read & Preach?**
-Read & Preach ist eine native iOS-App für Brüder, die Dienstberichterstattung und Bibellese-Fortschritt kombiniert. Sie funktioniert vollständig offline und erfordert kein Konto.
+Read & Preach ist eine App für iPhone, iPad und Android für Brüder, die Dienstberichterstattung und Bibellese-Fortschritt kombiniert. Sie funktioniert vollständig offline und erfordert kein Konto.
 
 **Ist die App kostenlos?**
 Ja. Read & Preach ist vollständig kostenlos — ohne In-App-Käufe und ohne Abonnement.
 
 **Auf welchen Geräten ist die App verfügbar?**
-Nur iPhone und iPad (iOS 18.2 oder neuer). Die App ist für beide Geräte mit einem adaptiven Layout optimiert.
+- **iPhone und iPad** (iOS 18.2 oder neuer), aus dem App Store
+- **Android-Smartphones und -Tablets** (Android 8.0 oder neuer), aus Google Play
+
+Die App passt ihr Layout auf beiden Plattformen an Smartphones und Tablets an.
+
+**Sind die iPhone- und die Android-Version gleich?**
+Fast. Berichte, Lesepläne, das Quiz, der Gedenkmahl-Tracker und Export & Import funktionieren gleich. iCloud-Synchronisierung, Live Activities und alternative App-Symbole gibt es nur auf iPhone und iPad. Unter Android wird der Diensttimer stattdessen über eine Benachrichtigung und ein Startbildschirm-Widget gesteuert.
 
 **Ist eine Internetverbindung erforderlich?**
-Nein. Die App funktioniert vollständig offline. Eine Internetverbindung wird nur benötigt, wenn du auf einen Link tippst, um eine Bibelstelle auf JW.org oder in der JW Library zu öffnen, oder wenn iCloud-Synchronisierung in den Einstellungen aktiviert ist.
+Nein. Die App funktioniert vollständig offline. Eine Internetverbindung wird nur benötigt, wenn du auf einen Link tippst, um eine Bibelstelle auf JW.org oder in der JW Library zu öffnen, um neue Quizfragen zu laden, solange das Quiz eingeschaltet ist, oder wenn iCloud-Synchronisierung in den Einstellungen aktiviert ist (iPhone & iPad).
 
 **Welche Sprachen werden unterstützt?**
 Englisch, Deutsch und Französisch. Ändere die Sprache unter **Einstellungen → Allgemein → Sprache**.
@@ -30,14 +36,20 @@ Englisch, Deutsch und Französisch. Ändere die Sprache unter **Einstellungen �
 **Wo werden meine Daten gespeichert?**
 Standardmäßig werden alle Daten ausschließlich lokal auf deinem Gerät gespeichert. Nichts wird an Server oder Dritte gesendet. Wenn du die **iCloud-Synchronisierung** unter **Einstellungen → Allgemein → iCloud-Synchronisierung** aktivierst, werden deine Daten auch über Apples iCloud auf deinen Geräten synchronisiert — vollständig privat, nichts wird mit Dritten geteilt.
 
-**Was macht die iCloud-Synchronisierung?**
+**Was macht die iCloud-Synchronisierung?** *(iPhone & iPad)*
 Wenn aktiviert, synchronisiert die App deine Daten (Dienstberichte, Bibellese-Fortschritt und Einstellungen) automatisch auf allen Geräten mit derselben Apple ID über Apples iCloud Key-Value Store. Die iCloud-Synchronisierung ist optional und standardmäßig deaktiviert. Du kannst sie jederzeit unter **Einstellungen → Allgemein → iCloud-Synchronisierung** aktivieren oder deaktivieren.
+
+**Gibt es unter Android eine Synchronisierung?**
+Nein. Die Android-App hat keine eingebaute Synchronisierung. Wenn in den Android-Einstellungen die Google-Sicherung eingeschaltet ist, kann Android die App-Daten in die Gerätesicherung aufnehmen. Um Daten zwischen Geräten zu übertragen, nutze Export & Import.
+
+**Kann ich meine Daten zwischen iPhone und Android übertragen?**
+Ja. Die Exportdatei ist auf beiden Plattformen gleich. Exportiere auf dem einen Gerät und importiere die Datei auf dem anderen.
 
 **Sammelt die App persönliche Daten oder Analysen?**
 Nein. Read & Preach sammelt, verfolgt oder teilt keinerlei Daten.
 
 **Wie sichere ich meine Daten?**
-Nutze die Export-Funktion unter **Einstellungen → Export & Import**. Du kannst Dienstberichte, Bibellese-Fortschritt und Gedenkmahl-Lesen als JSON-Datei exportieren.
+Nutze die Export-Funktion unter **Einstellungen → Export & Import** (unter Android: **Einstellungen → Allgemein → Export & Import**). Du kannst Dienstberichte, Bibellese-Fortschritt und Gedenkmahl-Lesen als JSON-Datei exportieren und z. B. in iCloud Drive, Dateien, Google Drive oder per E-Mail speichern.
 
 **Wie stelle ich meine Daten nach einer Neuinstallation oder auf einem neuen Gerät wieder her?**
 Nutze **Einstellungen → Export & Import → Import** und wähle deine zuvor exportierte JSON-Datei.
@@ -66,13 +78,18 @@ Eine einmalige Zuweisung ermöglicht es dir, einen temporären Hilfspionier-Mona
 Tippe im Bericht-Reiter auf die Timer-Schaltfläche. Tippe auf **Starten**, um die Zeitmessung zu beginnen. Der Timer läuft im Hintergrund weiter, auch wenn du die App verlässt.
 
 **Wie speichere ich meine Dienstzeit?**
-Tippe auf **Stopp** in der App, im Widget oder in der Live Activity. Ein Speicherdialog zeigt die auf 30 Minuten gerundete Zeit. Bestätige, um sie direkt zum heutigen Bericht hinzuzufügen.
+Tippe auf **Stopp** in der App, im Widget oder in der Live Activity (iPhone) bzw. in der Timer-Benachrichtigung (Android). Ein Speicherdialog zeigt die auf 30 Minuten gerundete Zeit. Bestätige, um sie direkt zum heutigen Bericht hinzuzufügen.
 
 **Kann ich den Timer vom Startbildschirm aus steuern?**
-Ja. Füge ein Diensttimer-Widget (klein oder mittel) zum Startbildschirm hinzu. Beide Größen unterstützen Pausieren, Fortsetzen und Stopp ohne App-Öffnung.
+Ja.
+- **iPhone & iPad:** Füge ein Diensttimer-Widget (klein oder mittel) zum Startbildschirm hinzu. Beide Größen unterstützen Pausieren, Fortsetzen und Stopp ohne App-Öffnung.
+- **Android:** Füge das Diensttimer-Widget hinzu. Es zeigt die laufende Zeit mit einer Pausieren/Fortsetzen-Schaltfläche; tippe auf das Widget, um die App zu öffnen. Zum Stoppen nutze die Timer-Benachrichtigung oder die App.
 
-**Der Timer läuft, aber die Dynamic Island ist leer.**
-Stelle sicher, dass Live Activities für die App aktiviert sind unter **iPhone-Einstellungen → Read & Preach → Live Activities**. Live Activities erfordern iOS 16.1 oder neuer und sind auf älteren Geräten nicht verfügbar. Auf iPhone 12 und älteren Modellen (ohne Dynamic Island) erscheint der Timer stattdessen auf dem Sperrbildschirm.
+**Der Timer läuft, aber die Dynamic Island ist leer.** *(iPhone)*
+Stelle sicher, dass Live Activities für die App aktiviert sind unter **iPhone-Einstellungen → Read & Preach → Live Activities**. Auf iPhones ohne Dynamic Island erscheint der Timer stattdessen auf dem Sperrbildschirm.
+
+**Ich sehe die Timer-Benachrichtigung nicht.** *(Android)*
+Erlaube Benachrichtigungen für die App unter **Android-Einstellungen → Apps → Read & Preach → Benachrichtigungen**. Unter Android 13 und neuer fragt die App beim ersten Start des Timers nach dieser Erlaubnis.
 
 ---
 
@@ -119,7 +136,12 @@ Dies kann passieren, wenn ein alter Leseplan vorhanden ist. Gehe zu **Einstellun
 Der Streak erlaubt bis zu 2 verpasste Tage, bevor er zurückgesetzt wird. Wenn er zurückgesetzt wurde, bedeutet das, dass 3 oder mehr aufeinanderfolgende Tage ohne ein gelesenes Kapitel vergangen sind.
 
 **Die tägliche Erinnerungsbenachrichtigung zeigt nicht die heutigen Kapitel an.**
-Stelle sicher, dass du der App Benachrichtigungsrechte gewährt hast unter **iPhone-Einstellungen → Mitteilungen → Read & Preach**. Überprüfe auch, ob die Erinnerung unter **Einstellungen → Bibellese-Einstellungen → Tägliche Erinnerung** aktiviert ist.
+Überprüfe, ob die Erinnerung unter **Einstellungen → Bibellese-Einstellungen → Tägliche Erinnerung** aktiviert ist, und prüfe dann die Benachrichtigungsrechte:
+- **iPhone & iPad:** **iPhone-Einstellungen → Mitteilungen → Read & Preach**
+- **Android:** **Android-Einstellungen → Apps → Read & Preach → Benachrichtigungen**
+
+**Unter Android kommen Erinnerungen zu spät oder gar nicht.**
+Erlaube exakte Wecker unter **Android-Einstellungen → Apps → Read & Preach → Wecker und Erinnerungen**. Ohne diese Berechtigung können Erinnerungen bis zu 10 Minuten zu spät kommen. Die App zeigt einen Hinweis mit einer Schaltfläche, die diese Seite öffnet. Manche Geräte stoppen Erinnerungen, um Akku zu sparen: Stelle die Akkunutzung der App auf **Nicht eingeschränkt** (oder schalte die Akkuoptimierung für sie aus). Nach einem Neustart des Geräts werden Erinnerungen automatisch neu eingerichtet.
 
 ---
 

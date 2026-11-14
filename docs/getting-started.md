@@ -11,12 +11,13 @@ Welcome to Read & Preach! This guide walks you through the first-time setup so y
 
 ## Requirements
 
-- **iPhone or iPad** running iOS 16.0 or later
+- **iPhone or iPad** running iOS 18.2 or later, or
+- **Android phone or tablet** running Android 8.0 or later
 - No account, no internet connection required
 
 ## Step 1 — Install the app
 
-Download Read & Preach from the App Store. See the [Installation guide](../installation/) for details.
+Download Read & Preach from the App Store (iPhone & iPad) or Google Play (Android). See the [Installation guide](../installation/) for details.
 
 ## Step 2 — Set up your reading plan (Bible tab)
 
@@ -55,6 +56,8 @@ To get a daily reminder to read:
 3. Toggle it on and choose a time
 
 The notification will show which chapters are scheduled for that day.
+
+On Android 13 and later, the app asks for permission to send notifications when you turn on a reminder. If the app shows a hint about **Alarms & reminders**, tap the button and allow it so reminders arrive on time.
 
 ## Step 5 — Enable the streak tracker (optional)
 

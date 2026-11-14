@@ -6,7 +6,7 @@ permalink: /de/
 
 # Read & Preach
 
-**Read & Preach** ist eine native iOS-App für Brüder, um den täglichen Predigtdienst und den Bibellese-Fortschritt zu verfolgen — alles an einem Ort, vollständig offline, ohne Konto.
+**Read & Preach** ist eine App für iPhone, iPad und Android für Brüder, um den täglichen Predigtdienst und den Bibellese-Fortschritt zu verfolgen — alles an einem Ort, vollständig offline, ohne Konto.
 
 ## Was macht die App?
 
@@ -18,11 +18,12 @@ permalink: /de/
 
 ## Highlights
 
-- **Diensttimer** — Dienstzeit mit Widget und Dynamic Island erfassen, direkt in den Bericht speichern
-- **Kein Konto erforderlich** — Daten bleiben auf deinem Gerät; optionale iCloud-Synchronisierung verfügbar
-- **iPhone & iPad** — vollständig adaptives Layout für alle Bildschirmgrößen
+- **Diensttimer** — Dienstzeit mit Startbildschirm-Widget, Live Activities (iPhone) oder einer Benachrichtigung (Android) erfassen, direkt in den Bericht speichern
+- **Kein Konto erforderlich** — Daten bleiben auf deinem Gerät; optionale iCloud-Synchronisierung auf iPhone & iPad
+- **iPhone, iPad & Android** — adaptives Layout für Smartphones und Tablets
+- **An NW Publisher senden** — Monatssummen an die NW-Publisher-App übergeben
 - **3 Sprachen** — Englisch, Deutsch, Französisch
-- **Export & Import** — alle Daten als JSON-Datei sichern und wiederherstellen
+- **Export & Import** — alle Daten als JSON-Datei sichern und wiederherstellen, auch zwischen iPhone und Android
 - **Kostenlos** — keine In-App-Käufe, kein Abonnement
 
 ## Dokumentation

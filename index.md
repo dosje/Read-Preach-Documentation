@@ -5,7 +5,7 @@ title: Home
 
 # Read & Preach
 
-**Read & Preach** is a native iOS app for brothers to track their daily ministry service and Bible reading progress — all in one place, fully offline, with no account required.
+**Read & Preach** is an app for iPhone, iPad and Android for brothers to track their daily ministry service and Bible reading progress — all in one place, fully offline, with no account required.
 
 ## What does the app do?
 
@@ -17,11 +17,12 @@ title: Home
 
 ## Key highlights
 
-- **Ministry Timer** — track ministry time with widgets and Dynamic Island, save directly to your report
-- **No account needed** — data stays on your device; optional iCloud sync available
-- **iPhone & iPad** — fully adaptive layout for all screen sizes
+- **Ministry Timer** — track ministry time with home screen widgets, Live Activities (iPhone) or a notification (Android), save directly to your report
+- **No account needed** — data stays on your device; optional iCloud sync on iPhone & iPad
+- **iPhone, iPad & Android** — adaptive layout for phones and tablets
+- **Send to NW Publisher** — hand your monthly totals to the NW Publisher app
 - **3 languages** — English, German, French
-- **Export & Import** — back up and restore all your data as a JSON file
+- **Export & Import** — back up and restore all your data as a JSON file, also between iPhone and Android
 - **Free** — no in-app purchases, no subscription
 
 ## Documentation

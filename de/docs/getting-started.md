@@ -10,12 +10,13 @@ Willkommen bei Read & Preach! Diese Anleitung führt dich durch die Ersteinricht
 
 ## Voraussetzungen
 
-- **iPhone oder iPad** mit iOS 16.0 oder neuer
+- **iPhone oder iPad** mit iOS 18.2 oder neuer, oder
+- **Android-Smartphone oder -Tablet** mit Android 8.0 oder neuer
 - Kein Konto, keine Internetverbindung erforderlich
 
 ## Schritt 1 — App installieren
 
-Lade Read & Preach aus dem App Store herunter. Weitere Details findest du in der [Installationsanleitung](../installation/).
+Lade Read & Preach aus dem App Store (iPhone & iPad) oder aus Google Play (Android) herunter. Weitere Details findest du in der [Installationsanleitung](../installation/).
 
 ## Schritt 2 — Leseplan einrichten (Bibel-Reiter)
 
@@ -46,6 +47,8 @@ Damit das monatliche Stundenziel korrekt angezeigt wird:
 1. Öffne **Einstellungen → Bibellese-Einstellungen**
 2. Scrolle zu **Tägliche Erinnerung**
 3. Schalte sie ein und wähle eine Uhrzeit
+
+Unter Android 13 und neuer fragt die App beim Einschalten einer Erinnerung nach der Erlaubnis, Benachrichtigungen zu senden. Wenn die App einen Hinweis zu **Wecker und Erinnerungen** zeigt, tippe auf die Schaltfläche und erlaube es, damit Erinnerungen pünktlich kommen.
 
 ## Schritt 5 — Streak-Tracker aktivieren (optional)
 

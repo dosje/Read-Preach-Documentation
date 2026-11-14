@@ -10,16 +10,22 @@ nav_order: 4
 ## General
 
 **What is Read & Preach?**
-Read & Preach is a native iOS app for brothers that combines ministry service reporting with Bible reading progress tracking. It works fully offline and requires no account.
+Read & Preach is an app for iPhone, iPad and Android for brothers that combines ministry service reporting with Bible reading progress tracking. It works fully offline and requires no account.
 
 **Is the app free?**
 Yes. Read & Preach is completely free with no in-app purchases and no subscription.
 
 **What platforms is the app available on?**
-iPhone and iPad only (iOS 16.0 or later). The app is optimized for both devices with an adaptive layout.
+- **iPhone and iPad** (iOS 18.2 or later), from the App Store
+- **Android phones and tablets** (Android 8.0 or later), from Google Play
+
+The app adapts its layout to phones and tablets on both platforms.
+
+**Are the iPhone and Android versions the same?**
+Almost. Reports, reading plans, the quiz, the Memorial Tracker and Export & Import work the same way. iCloud sync, Live Activities and alternative app icons are only available on iPhone and iPad. On Android the Ministry Timer is controlled from a notification and a home screen widget instead.
 
 **Is an internet connection required?**
-No. The app works fully offline. An internet connection is only used if you tap a link to open a passage on JW.org or in JW Library, or if iCloud sync is enabled in Settings.
+No. The app works fully offline. An internet connection is only used if you tap a link to open a passage on JW.org or in JW Library, to download new quiz questions while the quiz is enabled, or if iCloud sync is enabled in Settings (iPhone & iPad).
 
 **What languages are supported?**
 English, German, and French. Change the language in **Settings → General → Language**.
@@ -31,14 +37,20 @@ English, German, and French. Change the language in **Settings → General → L
 **Where is my data stored?**
 By default, all data is stored locally on your device only. Nothing is sent to any server or third party. If you enable **iCloud Sync** in **Settings → General → iCloud Sync**, your data is also synced across your devices via Apple's iCloud — still fully private, nothing shared with third parties.
 
-**What does iCloud sync do?**
+**What does iCloud sync do?** *(iPhone & iPad)*
 When enabled, the app automatically syncs your data (ministry reports, Bible reading progress, and settings) across all your devices using the same Apple ID via Apple's iCloud Key-Value Store. iCloud sync is optional and disabled by default. You can enable or disable it at any time in **Settings → General → iCloud Sync**.
+
+**Is there sync on Android?**
+No. The Android app has no built-in sync. If Google backup is turned on in your Android settings, Android may include the app's data in your device backup. To move data between devices, use Export & Import.
+
+**Can I move my data between iPhone and Android?**
+Yes. The export file is the same on both platforms. Export on one device and import the file on the other.
 
 **Does the app collect any personal data or analytics?**
 No. Read & Preach does not collect, track, or share any data.
 
 **How do I back up my data?**
-Use the Export function in **Settings → Export & Import**. You can export Ministry Reports, Bible Reading progress (including streak and history), and Memorial Reading data to a JSON file. Store this file anywhere you like — iCloud Drive, email, or the Files app.
+Use the Export function in **Settings → Export & Import** (on Android: **Settings → General → Export & Import**). You can export Ministry Reports, Bible Reading progress (including streak and history), and Memorial Reading data to a JSON file. Store this file anywhere you like — iCloud Drive, the Files app, Google Drive, or email.
 
 **How do I restore my data after reinstalling or on a new device?**
 Use **Settings → Export & Import → Import** and select your previously exported JSON file. All selected data will be restored.
@@ -67,13 +79,18 @@ A one-time assignment lets you set a temporary Auxiliary Pioneer month (15 or 30
 Tap the timer button in the Report tab. Tap **Start** to begin timing. The timer continues running in the background even if you leave the app.
 
 **How do I save my ministry time?**
-Tap **Stop** in the app, widget, or Live Activity. A save dialog appears showing your time rounded to the nearest 30 minutes. Confirm to add it directly to today's report entry.
+Tap **Stop** in the app, the widget or Live Activity (iPhone), or the timer notification (Android). A save dialog appears showing your time rounded to the nearest 30 minutes. Confirm to add it directly to today's report entry.
 
 **Can I control the timer from my home screen?**
-Yes. Add a Ministry Timer widget (small or medium) to your home screen. Both sizes support Pause, Resume, and Stop without opening the app.
+Yes.
+- **iPhone & iPad:** add a Ministry Timer widget (small or medium). Both sizes support Pause, Resume, and Stop without opening the app.
+- **Android:** add the Ministry Timer widget. It shows the running time with a Pause/Resume button; tap the widget to open the app. To stop the timer, use the timer notification or the app.
 
-**The timer is running but the Dynamic Island is empty.**
-Make sure Live Activities are enabled for the app in **iPhone Settings → Read & Preach → Live Activities**. Live Activities require iOS 16.1 or later and are not available on older devices. On iPhone 12 and earlier (no Dynamic Island), the timer appears on the Lock Screen instead.
+**The timer is running but the Dynamic Island is empty.** *(iPhone)*
+Make sure Live Activities are enabled for the app in **iPhone Settings → Read & Preach → Live Activities**. On iPhones without a Dynamic Island, the timer appears on the Lock Screen instead.
+
+**I don't see the timer notification.** *(Android)*
+Allow notifications for the app in **Android Settings → Apps → Read & Preach → Notifications**. On Android 13 and later, the app asks for this permission when you first start the timer.
 
 ---
 
@@ -120,7 +137,12 @@ This can happen if you had a previous reading plan from an earlier version of th
 The streak allows up to 2 missed days before resetting. If it reset, it means 3 or more consecutive days passed without a chapter being marked as read.
 
 **The Daily Reminder notification is not showing today's chapters.**
-Make sure you have granted notification permission to the app in **iPhone Settings → Notifications → Read & Preach**. Also check that the reminder is enabled in **Settings → Bible Reading Settings → Daily Reminder**.
+Check that the reminder is enabled in **Settings → Bible Reading Settings → Daily Reminder**, then check the notification permission:
+- **iPhone & iPad:** **iPhone Settings → Notifications → Read & Preach**
+- **Android:** **Android Settings → Apps → Read & Preach → Notifications**
+
+**Reminders arrive late or not at all on Android.**
+Allow exact alarms in **Android Settings → Apps → Read & Preach → Alarms & reminders**. Without it, reminders may arrive up to 10 minutes late. The app shows a hint with a button that opens this page. Some phones also stop reminders to save battery: set the app's battery usage to **Unrestricted** (or turn off battery optimisation for it). Reminders are set again automatically after the device restarts.
 
 **The app is crashing on launch.**
 Try force-closing the app and reopening it. If the issue persists, try reinstalling (export your data first).

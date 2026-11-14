@@ -29,6 +29,8 @@ Le calendrier affiche le mois en cours avec des indicateurs visuels sur les jour
 
 Sur iPhone, le calendrier peut être réduit en vue hebdomadaire compacte. Sur iPad, il est toujours visible.
 
+Sur les tablettes Android, l'onglet Rapport s'ouvre avec le calendrier du mois. En mode paysage, un rail de navigation latéral remplace la barre d'onglets du bas ; vous pouvez le placer à gauche ou à droite dans **Paramètres → Général**.
+
 ### Récapitulatif mensuel
 
 Sous le formulaire quotidien, une carte de synthèse affiche :
@@ -44,6 +46,14 @@ Sous **Paramètres → Paramètres de rapport** :
 - **Mission ponctuelle** — mois de pionnier auxiliaire temporaire (15 ou 30 heures)
 - **Historique des rôles** — journal de tous les changements de rôles passés
 
+### Crédit d'heures
+
+Les pionniers réguliers peuvent enregistrer des heures de crédit. Elles comptent pour l'objectif d'heures et sont affichées séparément des heures de ministère.
+
+### Étudiants de la Bible
+
+Tenez une liste de vos étudiants de la Bible et cochez ceux avec qui vous avez étudié. Chaque mois, l'application compte vos différents cours bibliques. Les noms des étudiants restent sur votre appareil et ne sont jamais inclus dans un rapport envoyé.
+
 ### Vue d'ensemble de l'année de service
 
 Appuyez sur **Voir l'année de service** en bas de la carte de récapitulatif mensuel.
@@ -56,7 +66,7 @@ Appuyez sur **Voir l'année de service** en bas de la carte de récapitulatif me
   - **Pionnier auxiliaire / mission ponctuelle** — l'objectif mensuel pour ce mois
   - **Pionnier régulier** — le total annuel vs. l'objectif annuel de 600 heures
   - **Proclamateur** — aucune section objectif
-- Appuyez sur le bouton partager (en haut à droite) pour exporter l'année en PDF et ouvrir la feuille de partage iOS
+- Appuyez sur le bouton partager (en haut à droite) pour exporter l'année en PDF et ouvrir la feuille de partage (enregistrer dans Fichiers ou Google Drive, imprimer ou partager via n'importe quelle application)
 
 ### Partager le rapport
 
@@ -65,7 +75,11 @@ Appuyez sur **Partager le rapport** en bas de la carte de récapitulatif mensuel
 - Le message s'adapte à votre rôle :
   - **Pionnier ou mission ponctuelle** — inclut vos heures et études bibliques du mois
   - **Proclamateur (sans objectif)** — indique simplement « Ministère effectué : oui »
-- La feuille de partage iOS standard s'ouvre pour envoyer via iMessage, WhatsApp, e-mail ou toute autre application
+- La feuille de partage du système s'ouvre pour envoyer via Messages, WhatsApp, e-mail ou toute autre application
+
+### Envoyer à NW Publisher
+
+Appuyez sur **Envoyer à NW Publisher** pour transmettre les totaux du mois dernier (heures, crédit d'heures, cours bibliques et une remarque facultative) à l'application NW Publisher de votre appareil. Les noms des étudiants ne sont jamais envoyés. L'application NW Publisher doit être installée sur le même appareil.
 
 ---
 
@@ -80,7 +94,7 @@ Appuyez sur le bouton du minuteur dans l'onglet Rapport pour ouvrir le Minuteur 
 - **Pause / Reprendre** — mettez le minuteur en pause lors des interruptions et reprenez ensuite
 - **Arrêter** — termine la session ; une boîte de dialogue affiche votre temps arrondi aux 30 minutes les plus proches, prêt à être ajouté à l'entrée du jour
 
-### Widgets d'écran d'accueil
+### Widgets d'écran d'accueil — iPhone & iPad
 
 Ajoutez un widget Minuteur de ministère à votre écran d'accueil. Deux tailles sont disponibles :
 - **Petit** — affiche le minuteur actuel avec des contrôles icône-only (Pause/Reprendre et Arrêt)
@@ -88,11 +102,16 @@ Ajoutez un widget Minuteur de ministère à votre écran d'accueil. Deux tailles
 
 Les deux tailles se mettent à jour automatiquement et permettent de contrôler le minuteur sans ouvrir l'application.
 
-### Live Activity & Dynamic Island
+### Live Activity & Dynamic Island — iPhone
 
 Lorsque vous démarrez le minuteur, une Live Activity est créée automatiquement sur les appareils compatibles :
 - **Écran verrouillé** — affiche le temps écoulé avec les contrôles Pause/Reprendre et Arrêt
 - **Dynamic Island** (iPhone 14 Pro et ultérieurs) — affiche un minuteur animé compact dans la pastille ; appui long pour développer et accéder aux contrôles
+
+### Widget & notification — Android
+
+- **Widget d'écran d'accueil** — affiche le temps écoulé avec un bouton Pause/Reprendre. Le widget est redimensionnable ; appuyez dessus pour ouvrir l'application.
+- **Notification du minuteur** — tant que le minuteur tourne, une notification affiche le temps écoulé avec **Pause/Reprendre** et **Arrêter**. Arrêter ouvre l'application pour enregistrer le temps dans votre rapport.
 
 ---
 
@@ -174,8 +193,10 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 - **Nom** — votre nom, utilisé dans le rapport PDF de l'année de service et dans le message de partage mensuel. Synchronisé via iCloud si la synchronisation iCloud est activée.
 - **Langue** — anglais, allemand ou français
 - **Retour haptique** — activer/désactiver la vibration
-- **Synchronisation iCloud** — synchronisation automatique optionnelle via l'identifiant Apple (désactivée par défaut)
-- **Icône de l'application** — par défaut, vert, or, violet ou rouge
+- **Synchronisation iCloud** *(iPhone & iPad)* — synchronisation automatique optionnelle via l'identifiant Apple (désactivée par défaut)
+- **Icône de l'application** *(iPhone & iPad)* — par défaut, vert, or, violet ou rouge
+- **Côté du rail de navigation** *(tablettes Android)* — rail de navigation à gauche ou à droite en mode paysage
+- **Export & Import** *(Android)* — voir [Export & Import](#export--import) ci-dessous
 
 ### Paramètres de rapport
 
@@ -203,9 +224,12 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 
 ### Export & Import
 
-- Exporte toutes les données en fichier JSON
+Sous Android, l'Export & Import se trouve dans **Paramètres → Général**.
+
+- Exporte toutes les données en fichier JSON, à enregistrer où vous voulez (iCloud Drive, Fichiers, Google Drive, e-mail, etc.)
 - Choisissez ce qui est inclus : Rapports de ministère, Lecture biblique, Lecture du Mémorial
 - L'import restaure toutes les données sélectionnées
+- Le format de fichier est identique sur iPhone, iPad et Android : vous pouvez transférer vos données d'une plateforme à l'autre
 
 ---
 
@@ -213,5 +237,6 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 
 - **Vos données restent privées** — rien n'est envoyé à des serveurs ou à des tiers ; aucun suivi ni analyse
 - **Aucun compte requis** — l'application fonctionne entièrement hors ligne
-- **Synchronisation iCloud optionnelle** — activez dans les réglages pour synchroniser vos données automatiquement sur tous vos appareils avec le même identifiant Apple ; désactivée par défaut
+- **Synchronisation iCloud optionnelle** *(iPhone & iPad)* — activez dans les réglages pour synchroniser vos données automatiquement sur tous vos appareils avec le même identifiant Apple ; désactivée par défaut
+- **Sauvegarde Android** — l'application Android n'a pas de synchronisation intégrée ; si la sauvegarde Google est activée dans les paramètres Android, Android peut inclure les données de l'application dans la sauvegarde de l'appareil
 - **Export/Import** — sauvegardez et restaurez vos données manuellement sous forme de fichier JSON

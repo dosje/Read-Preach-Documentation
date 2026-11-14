@@ -6,7 +6,7 @@ permalink: /fr/
 
 # Read & Preach
 
-**Read & Preach** est une application iOS native pour les frères afin de suivre leur service du ministère quotidien et leur progression dans la lecture de la Bible — le tout en un seul endroit, entièrement hors ligne, sans compte requis.
+**Read & Preach** est une application pour iPhone, iPad et Android pour les frères afin de suivre leur service du ministère quotidien et leur progression dans la lecture de la Bible — le tout en un seul endroit, entièrement hors ligne, sans compte requis.
 
 ## Que fait l'application ?
 
@@ -18,11 +18,12 @@ permalink: /fr/
 
 ## Points forts
 
-- **Minuteur de ministère** — suivez votre temps de prédication avec widgets et Dynamic Island, sauvegardez directement dans votre rapport
-- **Aucun compte requis** — les données restent sur votre appareil ; synchronisation iCloud optionnelle disponible
-- **iPhone & iPad** — mise en page entièrement adaptative pour toutes les tailles d'écran
+- **Minuteur de ministère** — suivez votre temps de prédication avec un widget d'écran d'accueil, les Live Activities (iPhone) ou une notification (Android), sauvegardez directement dans votre rapport
+- **Aucun compte requis** — les données restent sur votre appareil ; synchronisation iCloud optionnelle sur iPhone & iPad
+- **iPhone, iPad & Android** — mise en page adaptative pour smartphones et tablettes
+- **Envoyer à NW Publisher** — transmettez vos totaux mensuels à l'application NW Publisher
 - **3 langues** — anglais, allemand, français
-- **Export & Import** — sauvegardez et restaurez toutes vos données en fichier JSON
+- **Export & Import** — sauvegardez et restaurez toutes vos données en fichier JSON, aussi entre iPhone et Android
 - **Gratuit** — pas d'achats intégrés, pas d'abonnement
 
 ## Documentation
