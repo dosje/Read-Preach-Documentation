@@ -16,7 +16,7 @@ Bienvenue sur Read & Preach ! Ce guide vous accompagne dans la configuration ini
 
 ## Étape 1 — Installer l'application
 
-Téléchargez Read & Preach depuis l'App Store (iPhone & iPad) ou Google Play (Android). Consultez le [guide d'installation](../installation/) pour plus de détails.
+Téléchargez Read & Preach depuis l'[App Store](https://apps.apple.com/app/read-preach/id6760897523) (iPhone & iPad) ou Google Play (Android). Consultez le [guide d'installation](../installation/) pour plus de détails.
 
 ## Étape 2 — Configurer un plan de lecture (onglet Bible)
 

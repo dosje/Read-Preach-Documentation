@@ -17,7 +17,7 @@ Welcome to Read & Preach! This guide walks you through the first-time setup so y
 
 ## Step 1 — Install the app
 
-Download Read & Preach from the App Store (iPhone & iPad) or Google Play (Android). See the [Installation guide](../installation/) for details.
+Download Read & Preach from the [App Store](https://apps.apple.com/app/read-preach/id6760897523) (iPhone & iPad) or Google Play (Android). See the [Installation guide](../installation/) for details.
 
 ## Step 2 — Set up your reading plan (Bible tab)
 

@@ -16,7 +16,7 @@ Willkommen bei Read & Preach! Diese Anleitung führt dich durch die Ersteinricht
 
 ## Schritt 1 — App installieren
 
-Lade Read & Preach aus dem App Store (iPhone & iPad) oder aus Google Play (Android) herunter. Weitere Details findest du in der [Installationsanleitung](../installation/).
+Lade Read & Preach aus dem [App Store](https://apps.apple.com/app/read-preach/id6760897523) (iPhone & iPad) oder aus Google Play (Android) herunter. Weitere Details findest du in der [Installationsanleitung](../installation/).
 
 ## Schritt 2 — Leseplan einrichten (Bibel-Reiter)
 

@@ -22,10 +22,9 @@ Aucune connexion Internet requise après l'installation.
 
 ### Installation depuis l'App Store
 
-1. Ouvrez l'**App Store** sur votre iPhone ou iPad
-2. Recherchez **"Read & Preach"**
-3. Appuyez sur **Obtenir**, puis authentifiez-vous avec Face ID, Touch ID ou votre mot de passe Apple ID
-4. L'application se télécharge et apparaît sur votre écran d'accueil
+1. Ouvrez [**Read & Preach dans l'App Store**](https://apps.apple.com/app/read-preach/id6760897523) sur votre iPhone ou iPad (ou ouvrez l'App Store et recherchez **"Read & Preach"**)
+2. Appuyez sur **Obtenir**, puis authentifiez-vous avec Face ID, Touch ID ou votre mot de passe Apple ID
+3. L'application se télécharge et apparaît sur votre écran d'accueil
 
 ### Mettre à jour l'application
 
