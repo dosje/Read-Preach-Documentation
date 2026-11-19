@@ -57,7 +57,7 @@ Auf den meisten Geräten aktualisiert sich die App automatisch, daher beschreibt
 
 ## Android
 
-### 1.1.1 — November 2026
+### 1.1.1 — demnächst
 - Erste Version für **Google Play**
 - **NW Publisher-Erinnerung:** vom 1. bis 10. jedes Monats erinnert ein Banner im Bericht-Reiter daran, den Bericht des Vormonats zu senden. Du kannst es für den Monat ausblenden oder in den Einstellungen ausschalten
 - **Bibelschüler:** ein Bibelschüler, den du nie angehakt hast, kann jetzt gelöscht werden; überall wird der volle Begriff „Bibelschüler" verwendet

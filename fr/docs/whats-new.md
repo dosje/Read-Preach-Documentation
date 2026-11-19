@@ -57,7 +57,7 @@ Sur la plupart des appareils, l'application se met à jour automatiquement : cet
 
 ## Android
 
-### 1.1.1 — novembre 2026
+### 1.1.1 — bientôt disponible
 - Première version sur **Google Play**
 - **Rappel NW Publisher :** du 1er au 10 de chaque mois, une bannière dans l'onglet Rapport vous rappelle d'envoyer le rapport du mois précédent. Vous pouvez la masquer pour le mois ou la désactiver dans les paramètres
 - **Étudiants de la Bible :** un étudiant que vous n'avez jamais coché peut maintenant être supprimé ; le terme complet « étudiant de la Bible » est utilisé partout

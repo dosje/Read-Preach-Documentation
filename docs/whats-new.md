@@ -58,7 +58,7 @@ The app updates automatically on most devices, so these docs always describe the
 
 ## Android
 
-### 1.1.1 — November 2026
+### 1.1.1 — coming soon
 - First version for **Google Play**
 - **NW Publisher reminder:** from the 1st to the 10th of each month, a banner on the Report tab reminds you to send last month's report. You can hide it for the month or turn it off in Settings
 - **Bible students:** a Bible student you never ticked can now be deleted; the full term "Bible student" is used everywhere
