@@ -56,7 +56,13 @@ Regular Pioneers can record credit hours. They count towards the hour goal and a
 
 ### Bible Students
 
-Keep a list of your Bible students and tick the ones you studied with. Each month the app counts your different Bible studies. Bible student names stay on your device and are never included in a report you send.
+Keep a list of your Bible students and tick the ones you studied with each day. Each Bible student counts once per month, so the monthly summary shows your number of **different** Bible studies (tap it to see the names). This number is also used in the shared report, the service year overview and the PDF.
+
+- Add a Bible student in **Settings → Report Settings → Bible students**, or with **+ Add Bible student** directly in the daily report
+- A Bible student you never ticked on any day can be deleted (with confirmation). Bible students already used in your reports can only be archived, so past months stay correct
+- Without active Bible students you can still count Bible studies with the counter; a hint reminds you that adding a Bible student counts them by name
+
+Bible student names stay on your device and in your backup file. They are never included in a shared report, the PDF or a report sent to NW Publisher.
 
 ### Service Year Overview
 
@@ -83,7 +89,17 @@ Tap **Share report** at the bottom of the monthly summary card to send your mont
 
 ### Send to NW Publisher
 
-Tap **Send to NW Publisher** to hand last month's totals (hours, credit hours, Bible studies and an optional note) to the NW Publisher app on your device. Names of Bible students are never sent. The NW Publisher app must be installed on the same device.
+Send last month's report to the NW Publisher app on the same device:
+
+1. Go to last month in the Report tab and tap **Send to NW Publisher** in the monthly summary
+2. Check the values: **I shared in the ministry this month**, different Bible studies, whole hours (pioneers), credit (Regular Pioneers) and an optional **note for the secretary**
+3. If there are leftover minutes, you can move them to the 1st of the current month
+4. Tap **Open NW Publisher**: NW Publisher opens with its report form filled in. Check the values there and tap **Submit**
+
+The report goes only to the installed NW Publisher app, never to a website, and Bible student names are never sent. If NW Publisher is not installed, nothing is sent.
+
+**Reminder banner**
+From the 1st to the 10th of each month, the Report tab shows a banner such as **"October report · Send to NW Publisher"** if last month has data. Tap it to open the dialog for last month. The banner disappears once you have opened NW Publisher for that month. Tap **✕** to hide it for this month (you can undo this right away), or turn it off completely with **Settings → Report Settings → NW Publisher reminder**.
 
 ---
 
@@ -218,6 +234,8 @@ During the Memorial season (approximately one week before and after Nisan 14), a
 - **Recurring role** — configure your ongoing ministry role and monthly hour goal
 - **One-time assignment** — add a temporary pioneer month
 - **Role history** — view and manage past role entries
+- **Bible students** — add, rename, archive or delete Bible students
+- **NW Publisher reminder** — show the banner to send last month's report during the first 10 days of a month (on by default)
 
 ### Bible Reading Settings
 

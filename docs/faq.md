@@ -71,6 +71,15 @@ Yes. Tap any day in the calendar to switch to that day and enter or edit data.
 **What is a one-time assignment?**
 A one-time assignment lets you set a temporary Auxiliary Pioneer month (15 or 30 hours) without changing your recurring role. Configure it in **Settings → Report Settings → One-Time Assignment**.
 
+**How do I send my report to NW Publisher?**
+Open last month in the Report tab and tap **Send to NW Publisher** in the monthly summary. Check the values, then tap **Open NW Publisher**. NW Publisher opens with the report filled in, and you submit it there. During the first 10 days of a month, a banner on the Report tab reminds you. See [Send to NW Publisher](../features/#send-to-nw-publisher).
+
+**How do I hide the NW Publisher banner?**
+Tap **✕** on the banner to hide it for this month, or turn it off in **Settings → Report Settings → NW Publisher reminder**. It also disappears once you have opened NW Publisher for that month.
+
+**Can I delete a Bible student?**
+Yes, if you never ticked that Bible student on any day. Bible students who appear in your reports can only be archived, so past months keep the right count.
+
 ---
 
 ## Ministry Timer

@@ -52,7 +52,13 @@ Reguläre Pioniere können Stunden als Zeitgutschrift erfassen. Sie zählen zum 
 
 ### Bibelschüler
 
-Führe eine Liste deiner Bibelschüler und hake an, mit wem du studiert hast. Jeden Monat zählt die App deine verschiedenen Bibelstudien. Die Namen der Bibelschüler bleiben auf deinem Gerät und werden nie in einem gesendeten Bericht mitgeschickt.
+Führe eine Liste deiner Bibelschüler und hake jeden Tag an, mit wem du studiert hast. Jeder Bibelschüler zählt einmal pro Monat, daher zeigt die Monatsübersicht die Anzahl der **verschiedenen** Bibelstudien (tippe darauf, um die Namen zu sehen). Diese Zahl wird auch im geteilten Bericht, in der Dienstjahr-Übersicht und im PDF verwendet.
+
+- Füge einen Bibelschüler unter **Einstellungen → Berichtseinstellungen → Bibelschüler** hinzu oder direkt im Tagesbericht mit **+ Bibelschüler hinzufügen**
+- Einen Bibelschüler, den du an keinem Tag angehakt hast, kannst du löschen (mit Bestätigung). Bibelschüler, die schon in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate stimmen
+- Ohne aktive Bibelschüler kannst du Bibelstudien weiterhin mit dem Zähler erfassen; ein Hinweis erinnert dich, dass Bibelschüler nach Namen gezählt werden
+
+Die Namen der Bibelschüler bleiben auf deinem Gerät und in deiner Sicherungsdatei. Sie erscheinen nie in einem geteilten Bericht, im PDF oder in einem Bericht an NW Publisher.
 
 ### Dienstjahr-Übersicht
 
@@ -79,7 +85,17 @@ Tippe auf **Bericht teilen** am unteren Rand der Monatsübersichtskarte, um dein
 
 ### An NW Publisher senden
 
-Tippe auf **An NW Publisher senden**, um die Summen des letzten Monats (Stunden, Zeitgutschrift, Bibelstudien und eine optionale Anmerkung) an die NW-Publisher-App auf deinem Gerät zu übergeben. Namen von Bibelschülern werden nie gesendet. Die NW-Publisher-App muss auf demselben Gerät installiert sein.
+Sende den Bericht des Vormonats an die NW-Publisher-App auf demselben Gerät:
+
+1. Wechsle im Bericht-Reiter zum Vormonat und tippe in der Monatsübersicht auf **An NW Publisher senden**
+2. Prüfe die Werte: **Ich habe mich in diesem Monat am Predigtdienst beteiligt**, verschiedene Bibelstudien, ganze Stunden (Pioniere), Zeitgutschrift (Reguläre Pioniere) und eine optionale **Anmerkung für den Sekretär**
+3. Bleiben Minuten übrig, kannst du sie auf den 1. des aktuellen Monats übertragen
+4. Tippe auf **NW Publisher öffnen**: NW Publisher öffnet sich mit ausgefülltem Berichtsformular. Prüfe die Werte dort und tippe auf **Übermitteln**
+
+Der Bericht geht nur an die installierte NW-Publisher-App, nie an eine Website, und Namen von Bibelschülern werden nie gesendet. Ist NW Publisher nicht installiert, wird nichts gesendet.
+
+**Erinnerungsbanner**
+Vom 1. bis 10. jedes Monats zeigt der Bericht-Reiter ein Banner wie **„Bericht Oktober · An NW Publisher senden"**, wenn der Vormonat Einträge hat. Tippe darauf, um den Dialog für den Vormonat zu öffnen. Das Banner verschwindet, sobald du NW Publisher für diesen Monat geöffnet hast. Tippe auf **✕**, um es für diesen Monat auszublenden (sofort rückgängig machbar), oder schalte es unter **Einstellungen → Berichtseinstellungen → NW Publisher-Erinnerung** ganz aus.
 
 ---
 
@@ -204,6 +220,8 @@ Während der Gedenkmahl-Saison (ca. eine Woche vor und nach Nisan 14) erscheinen
 - **Wiederkehrende Rolle** — laufende Dienstrolle und Monatsstundenziel
 - **Einmalige Zuweisung** — temporärer Pioniersmonat
 - **Rollenverlauf** — vergangene Rollenwechsel
+- **Bibelschüler** — Bibelschüler hinzufügen, umbenennen, archivieren oder löschen
+- **NW Publisher-Erinnerung** — zeigt in den ersten 10 Tagen eines Monats das Banner zum Senden des Vormonatsberichts (standardmäßig an)
 
 ### Bibellese-Einstellungen
 

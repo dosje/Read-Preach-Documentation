@@ -70,6 +70,15 @@ Oui. Appuyez sur n'importe quel jour dans le calendrier pour basculer vers ce jo
 **Qu'est-ce qu'une mission ponctuelle ?**
 Une mission ponctuelle vous permet de définir un mois de pionnier auxiliaire temporaire (15 ou 30 heures) sans modifier votre rôle récurrent.
 
+**Comment envoyer mon rapport à NW Publisher ?**
+Dans l'onglet Rapport, ouvrez le mois précédent et appuyez sur **Envoyer à NW Publisher** dans le récapitulatif mensuel. Vérifiez les valeurs, puis appuyez sur **Ouvrir NW Publisher**. NW Publisher s'ouvre avec le rapport rempli, et vous l'envoyez depuis cette application. Pendant les 10 premiers jours du mois, une bannière dans l'onglet Rapport vous le rappelle. Voir [Fonctionnalités → Envoyer à NW Publisher](../features/).
+
+**Comment masquer la bannière NW Publisher ?**
+Appuyez sur **✕** sur la bannière pour la masquer pour ce mois, ou désactivez-la dans **Paramètres → Paramètres de rapport → Rappel NW Publisher**. Elle disparaît aussi dès que vous avez ouvert NW Publisher pour ce mois.
+
+**Puis-je supprimer un étudiant de la Bible ?**
+Oui, si vous ne l'avez coché aucun jour. Les étudiants qui apparaissent dans vos rapports peuvent seulement être archivés, pour que les mois passés gardent le bon nombre.
+
 ---
 
 ## Minuteur de ministère

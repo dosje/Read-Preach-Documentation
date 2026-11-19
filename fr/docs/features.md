@@ -52,7 +52,13 @@ Les pionniers réguliers peuvent enregistrer des heures de crédit. Elles compte
 
 ### Étudiants de la Bible
 
-Tenez une liste de vos étudiants de la Bible et cochez ceux avec qui vous avez étudié. Chaque mois, l'application compte vos différents cours bibliques. Les noms des étudiants restent sur votre appareil et ne sont jamais inclus dans un rapport envoyé.
+Tenez une liste de vos étudiants de la Bible et cochez chaque jour ceux avec qui vous avez étudié. Chaque étudiant compte une fois par mois : le récapitulatif mensuel affiche donc le nombre de cours bibliques **différents** (appuyez dessus pour voir les noms). Ce nombre est aussi utilisé dans le rapport partagé, la vue de l'année de service et le PDF.
+
+- Ajoutez un étudiant dans **Paramètres → Paramètres de rapport → Étudiants de la Bible**, ou directement dans le rapport du jour avec **+ Ajouter un étudiant de la Bible**
+- Un étudiant que vous n'avez coché aucun jour peut être supprimé (avec confirmation). Les étudiants déjà utilisés dans vos rapports peuvent seulement être archivés, pour que les mois passés restent exacts
+- Sans étudiant actif, vous pouvez toujours compter vos cours bibliques avec le compteur ; un message vous rappelle qu'ajouter un étudiant permet de compter par nom
+
+Les noms des étudiants restent sur votre appareil et dans votre fichier de sauvegarde. Ils n'apparaissent jamais dans un rapport partagé, dans le PDF ni dans un rapport envoyé à NW Publisher.
 
 ### Vue d'ensemble de l'année de service
 
@@ -79,7 +85,17 @@ Appuyez sur **Partager le rapport** en bas de la carte de récapitulatif mensuel
 
 ### Envoyer à NW Publisher
 
-Appuyez sur **Envoyer à NW Publisher** pour transmettre les totaux du mois dernier (heures, crédit d'heures, cours bibliques et une remarque facultative) à l'application NW Publisher de votre appareil. Les noms des étudiants ne sont jamais envoyés. L'application NW Publisher doit être installée sur le même appareil.
+Envoyez le rapport du mois précédent à l'application NW Publisher installée sur le même appareil :
+
+1. Dans l'onglet Rapport, allez au mois précédent et appuyez sur **Envoyer à NW Publisher** dans le récapitulatif mensuel
+2. Vérifiez les valeurs : **J'ai participé à la prédication ce mois-ci**, cours bibliques différents, heures entières (pionniers), crédit (pionniers réguliers) et une **remarque pour le secrétaire** facultative
+3. S'il reste des minutes, vous pouvez les reporter au 1er du mois en cours
+4. Appuyez sur **Ouvrir NW Publisher** : NW Publisher s'ouvre avec le formulaire de rapport rempli. Vérifiez les valeurs et appuyez sur **Envoyer**
+
+Le rapport est transmis uniquement à l'application NW Publisher installée, jamais à un site web, et les noms des étudiants ne sont jamais envoyés. Si NW Publisher n'est pas installé, rien n'est envoyé.
+
+**Bannière de rappel**
+Du 1er au 10 de chaque mois, l'onglet Rapport affiche une bannière telle que **« Rapport d'octobre · Envoyer à NW Publisher »** si le mois précédent contient des données. Appuyez dessus pour ouvrir la boîte de dialogue du mois précédent. La bannière disparaît dès que vous avez ouvert NW Publisher pour ce mois. Appuyez sur **✕** pour la masquer pour ce mois (vous pouvez annuler aussitôt), ou désactivez-la dans **Paramètres → Paramètres de rapport → Rappel NW Publisher**.
 
 ---
 
@@ -204,6 +220,8 @@ Pendant la saison du Mémorial (environ une semaine avant et après le 14 Nisan)
 - **Rôle récurrent** — rôle de ministère et objectif mensuel d'heures
 - **Mission ponctuelle** — mois de pionnier temporaire
 - **Historique des rôles** — entrées de rôles passées
+- **Étudiants de la Bible** — ajouter, renommer, archiver ou supprimer des étudiants
+- **Rappel NW Publisher** — affiche la bannière pour envoyer le rapport du mois précédent pendant les 10 premiers jours du mois (activé par défaut)
 
 ### Paramètres de lecture biblique
 

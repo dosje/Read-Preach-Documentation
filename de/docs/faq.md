@@ -70,6 +70,15 @@ Ja. Tippe im Kalender auf einen beliebigen Tag, um zu diesem Tag zu wechseln und
 **Was ist eine einmalige Zuweisung?**
 Eine einmalige Zuweisung ermöglicht es dir, einen temporären Hilfspionier-Monat (15 oder 30 Stunden) festzulegen, ohne deine wiederkehrende Rolle zu ändern.
 
+**Wie sende ich meinen Bericht an NW Publisher?**
+Öffne im Bericht-Reiter den Vormonat und tippe in der Monatsübersicht auf **An NW Publisher senden**. Prüfe die Werte und tippe auf **NW Publisher öffnen**. NW Publisher öffnet sich mit ausgefülltem Bericht, den du dort übermittelst. In den ersten 10 Tagen eines Monats erinnert dich ein Banner im Bericht-Reiter daran. Siehe [An NW Publisher senden](../features/#an-nw-publisher-senden).
+
+**Wie blende ich das NW Publisher-Banner aus?**
+Tippe auf **✕** im Banner, um es für diesen Monat auszublenden, oder schalte es unter **Einstellungen → Berichtseinstellungen → NW Publisher-Erinnerung** aus. Es verschwindet auch, sobald du NW Publisher für diesen Monat geöffnet hast.
+
+**Kann ich einen Bibelschüler löschen?**
+Ja, wenn du ihn an keinem Tag angehakt hast. Bibelschüler, die in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate richtig zählen.
+
 ---
 
 ## Diensttimer
