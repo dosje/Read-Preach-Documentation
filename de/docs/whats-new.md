@@ -17,7 +17,7 @@ Auf den meisten Geräten aktualisiert sich die App automatisch, daher beschreibt
 ### 1.6.1 — demnächst
 - **NW Publisher-Erinnerung:** vom 1. bis 10. jedes Monats erinnert ein Banner im Bericht-Reiter daran, den Bericht des Vormonats zu senden. Du kannst es für den Monat ausblenden oder in den Einstellungen ausschalten
 - **Bibelschüler:** ein Bibelschüler, den du nie angehakt hast, kann jetzt gelöscht werden; überall wird der volle Begriff „Bibelschüler" verwendet
-- Französische Texte verwenden das förmliche „vous"
+- Französische Texte für NW Publisher verwenden das förmliche „vous"
 
 ### 1.6.0 — November 2026
 - **Zeitgutschrift** für Reguläre Pioniere (Bethel, Bau, Pionierdienstschule), zählt zum Stundenziel

@@ -17,7 +17,7 @@ Sur la plupart des appareils, l'application se met à jour automatiquement : cet
 ### 1.6.1 — bientôt disponible
 - **Rappel NW Publisher :** du 1er au 10 de chaque mois, une bannière dans l'onglet Rapport vous rappelle d'envoyer le rapport du mois précédent. Vous pouvez la masquer pour le mois ou la désactiver dans les paramètres
 - **Étudiants de la Bible :** un étudiant que vous n'avez jamais coché peut maintenant être supprimé ; le terme complet « étudiant de la Bible » est utilisé partout
-- Les textes français utilisent le « vous »
+- Les textes français pour NW Publisher utilisent le « vous »
 
 ### 1.6.0 — novembre 2026
 - **Crédit d'heures** pour les pionniers réguliers (Béthel, construction, École du service de pionnier), compté dans l'objectif
