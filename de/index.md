@@ -34,6 +34,7 @@ permalink: /de/
 | [Funktionen](docs/features) | Vollständige Übersicht aller Funktionen |
 | [Installation](docs/installation) | App installieren und aktualisieren |
 | [FAQ](docs/faq) | Häufig gestellte Fragen |
+| [Neuigkeiten](docs/whats-new) | Änderungen in jeder App-Version |
 
 ## Support
 

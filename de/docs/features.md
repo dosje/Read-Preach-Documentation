@@ -6,6 +6,8 @@ permalink: /de/docs/features/
 
 # Funktionen
 
+> Funktionen mit *Verfügbar ab …* brauchen diese App-Version oder neuer. Aktualisiere die App, um sie zu erhalten. Alle Versionen findest du unter [Neuigkeiten](../whats-new/).
+
 ## Bericht-Reiter
 
 Der Bericht-Reiter ist dein tägliches Diensttagebuch.
@@ -48,19 +50,25 @@ Unter **Einstellungen → Berichtseinstellungen**:
 
 ### Zeitgutschrift
 
+*Verfügbar ab iOS 1.6.0 · Android 1.1.0*
+
 Reguläre Pioniere können Stunden als Zeitgutschrift erfassen. Sie zählen zum Stundenziel und werden getrennt von den Dienststunden angezeigt.
 
 ### Bibelschüler
 
+*Verfügbar ab iOS 1.6.0 · Android 1.1.0*
+
 Führe eine Liste deiner Bibelschüler und hake jeden Tag an, mit wem du studiert hast. Jeder Bibelschüler zählt einmal pro Monat, daher zeigt die Monatsübersicht die Anzahl der **verschiedenen** Bibelstudien (tippe darauf, um die Namen zu sehen). Diese Zahl wird auch im geteilten Bericht, in der Dienstjahr-Übersicht und im PDF verwendet.
 
 - Füge einen Bibelschüler unter **Einstellungen → Berichtseinstellungen → Bibelschüler** hinzu oder direkt im Tagesbericht mit **+ Bibelschüler hinzufügen**
-- Einen Bibelschüler, den du an keinem Tag angehakt hast, kannst du löschen (mit Bestätigung). Bibelschüler, die schon in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate stimmen
+- Einen Bibelschüler, den du an keinem Tag angehakt hast, kannst du löschen (mit Bestätigung). Bibelschüler, die schon in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate stimmen *(iOS 1.6.1 · Android 1.1.1)*
 - Ohne aktive Bibelschüler kannst du Bibelstudien weiterhin mit dem Zähler erfassen; ein Hinweis erinnert dich, dass Bibelschüler nach Namen gezählt werden
 
 Die Namen der Bibelschüler bleiben auf deinem Gerät und in deiner Sicherungsdatei. Sie erscheinen nie in einem geteilten Bericht, im PDF oder in einem Bericht an NW Publisher.
 
 ### Dienstjahr-Übersicht
+
+*Verfügbar ab iOS 1.5.0 · Android 1.0.0*
 
 Tippe auf **Dienstjahr anzeigen** am unteren Rand der Monatsübersichtskarte.
 
@@ -76,6 +84,8 @@ Tippe auf **Dienstjahr anzeigen** am unteren Rand der Monatsübersichtskarte.
 
 ### Bericht teilen
 
+*Verfügbar ab iOS 1.5.0 · Android 1.0.0*
+
 Tippe auf **Bericht teilen** am unteren Rand der Monatsübersichtskarte, um deinen Monatsbericht als Textnachricht zu senden.
 
 - Die Nachricht ist rollenabhängig:
@@ -84,6 +94,8 @@ Tippe auf **Bericht teilen** am unteren Rand der Monatsübersichtskarte, um dein
 - Das Teilen-Menü des Systems öffnet sich, sodass du die Nachricht per Nachrichten-App, WhatsApp, E-Mail oder einer anderen App senden kannst
 
 ### An NW Publisher senden
+
+*Verfügbar ab iOS 1.6.0 · Android 1.1.0*
 
 Sende den Bericht des Vormonats an die NW-Publisher-App auf demselben Gerät:
 
@@ -94,12 +106,14 @@ Sende den Bericht des Vormonats an die NW-Publisher-App auf demselben Gerät:
 
 Der Bericht geht nur an die installierte NW-Publisher-App, nie an eine Website, und Namen von Bibelschülern werden nie gesendet. Ist NW Publisher nicht installiert, wird nichts gesendet.
 
-**Erinnerungsbanner**
+**Erinnerungsbanner** *(iOS 1.6.1 · Android 1.1.1)*
 Vom 1. bis 10. jedes Monats zeigt der Bericht-Reiter ein Banner wie **„Bericht Oktober · An NW Publisher senden"**, wenn der Vormonat Einträge hat. Tippe darauf, um den Dialog für den Vormonat zu öffnen. Das Banner verschwindet, sobald du NW Publisher für diesen Monat geöffnet hast. Tippe auf **✕**, um es für diesen Monat auszublenden (sofort rückgängig machbar), oder schalte es unter **Einstellungen → Berichtseinstellungen → NW Publisher-Erinnerung** ganz aus.
 
 ---
 
 ## Diensttimer
+
+*Verfügbar ab iOS 1.3.3 · Android 1.0.0*
 
 Der Diensttimer misst, wie lange du im Predigtdienst bist, und ermöglicht das direkte Speichern der Zeit in deinen Tagesbericht.
 
@@ -170,6 +184,8 @@ Bei verpassten Tagen werden die Kapitel automatisch auf die kommenden Tage versc
 
 ### Lese-Streak
 
+*Verfügbar ab iOS 1.2.0 · Android 1.0.0*
+
 Der Streak-Zähler verfolgt aufeinanderfolgende Tage, an denen mindestens ein Kapitel gelesen wurde:
 - **2-tägige Schonfrist** — der Streak bleibt für zwei weitere Tage aktiv, wenn ein Tag verpasst wird
 - **Meilenstein-Feiern** mit Konfetti und haptischem Feedback nach: 5, 14, 30, 90, 180 und 365 Tagen
@@ -177,11 +193,15 @@ Der Streak-Zähler verfolgt aufeinanderfolgende Tage, an denen mindestens ein Ka
 
 ### Leseverlauf
 
+*Verfügbar ab iOS 1.2.0 · Android 1.0.0*
+
 Tippe auf **Verlauf anzeigen** in der Fortschrittskarte:
 - **Bibel-Abschlüsse** — Protokoll jedes Datums, an dem alle 1.189 Kapitel abgeschlossen wurden
 - **Tägliches Leseprotokoll** — alle gelesenen Kapitel, nach Datum gruppiert
 
 ### Lesequiz
+
+*Verfügbar ab iOS 1.3.0 · Android 1.0.0*
 
 Nachdem du die heutigen Kapitel als gelesen markiert hast, erscheint ein **Quiz**-Button im Bereich „Heutiges Lesen". Das Quiz prüft dein Verständnis der soeben gelesenen Kapitel.
 
@@ -193,7 +213,7 @@ Nachdem du die heutigen Kapitel als gelesen markiert hast, erscheint ein **Quiz*
 
 Das Quiz ist optional — du kannst es jederzeit überspringen.
 
-**Quiz-Wiederholung per Langdruck**
+**Quiz-Wiederholung per Langdruck** *(iOS 1.5.2 · Android 1.0.0)*
 Halte ein gelesenes Kapitel im Kapitelraster gedrückt, um es direkt zu quizzen — ohne den heutigen Leseplan abschließen zu müssen. Jedes Kapitel kann einmal pro Leseprogramm-Zyklus Punkte einbringen. Wurde ein Kapitel in diesem Zyklus bereits geprüft, startet derselbe Langdruck eine Wiederholungssitzung: Dein Ergebnis wird angezeigt, aber keine Punkte vergeben. Wenn du das gesamte Leseprogramm (alle 1 189 Kapitel) abgeschlossen hast, werden alle Kapitel für einen neuen Zyklus freigeschaltet.
 
 ### Gedenkmahl-Tracker

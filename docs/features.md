@@ -7,6 +7,8 @@ nav_order: 2
 
 # Features
 
+> Features marked *Available from …* need that app version or later. Update the app to get them. See [What's New](../whats-new/) for all versions.
+
 ## Report Tab
 
 The Report tab is your daily ministry log. It tracks everything you need for your monthly service report.
@@ -52,19 +54,25 @@ In **Settings → Report Settings** you can configure your ministry role:
 
 ### Credit Hours
 
+*Available from iOS 1.6.0 · Android 1.1.0*
+
 Regular Pioneers can record credit hours. They count towards the hour goal and are shown separately from ministry hours.
 
 ### Bible Students
 
+*Available from iOS 1.6.0 · Android 1.1.0*
+
 Keep a list of your Bible students and tick the ones you studied with each day. Each Bible student counts once per month, so the monthly summary shows your number of **different** Bible studies (tap it to see the names). This number is also used in the shared report, the service year overview and the PDF.
 
 - Add a Bible student in **Settings → Report Settings → Bible students**, or with **+ Add Bible student** directly in the daily report
-- A Bible student you never ticked on any day can be deleted (with confirmation). Bible students already used in your reports can only be archived, so past months stay correct
+- A Bible student you never ticked on any day can be deleted (with confirmation). Bible students already used in your reports can only be archived, so past months stay correct *(iOS 1.6.1 · Android 1.1.1)*
 - Without active Bible students you can still count Bible studies with the counter; a hint reminds you that adding a Bible student counts them by name
 
 Bible student names stay on your device and in your backup file. They are never included in a shared report, the PDF or a report sent to NW Publisher.
 
 ### Service Year Overview
+
+*Available from iOS 1.5.0 · Android 1.0.0*
 
 Tap **View service year** at the bottom of the monthly summary card to open the Service Year Overview.
 
@@ -80,6 +88,8 @@ Tap **View service year** at the bottom of the monthly summary card to open the 
 
 ### Share Report
 
+*Available from iOS 1.5.0 · Android 1.0.0*
+
 Tap **Share report** at the bottom of the monthly summary card to send your monthly report as a text message.
 
 - The message is role-aware:
@@ -88,6 +98,8 @@ Tap **Share report** at the bottom of the monthly summary card to send your mont
 - The system share sheet opens, so you can send via Messages, WhatsApp, email, or any other app
 
 ### Send to NW Publisher
+
+*Available from iOS 1.6.0 · Android 1.1.0*
 
 Send last month's report to the NW Publisher app on the same device:
 
@@ -98,12 +110,14 @@ Send last month's report to the NW Publisher app on the same device:
 
 The report goes only to the installed NW Publisher app, never to a website, and Bible student names are never sent. If NW Publisher is not installed, nothing is sent.
 
-**Reminder banner**
+**Reminder banner** *(iOS 1.6.1 · Android 1.1.1)*
 From the 1st to the 10th of each month, the Report tab shows a banner such as **"October report · Send to NW Publisher"** if last month has data. Tap it to open the dialog for last month. The banner disappears once you have opened NW Publisher for that month. Tap **✕** to hide it for this month (you can undo this right away), or turn it off completely with **Settings → Report Settings → NW Publisher reminder**.
 
 ---
 
 ## Ministry Timer
+
+*Available from iOS 1.3.3 · Android 1.0.0*
 
 The Ministry Timer tracks how long you spend in field ministry and lets you save the time directly to your daily report.
 
@@ -177,6 +191,8 @@ If you fall behind, the app automatically reschedules missed chapters into your 
 
 ### Reading Streak
 
+*Available from iOS 1.2.0 · Android 1.0.0*
+
 The streak counter tracks how many consecutive days you have read at least one chapter.
 
 - A **2-day grace period** applies before the streak resets — if you miss a day, the streak stays active for two more days
@@ -186,11 +202,15 @@ The streak counter tracks how many consecutive days you have read at least one c
 
 ### Reading History
 
+*Available from iOS 1.2.0 · Android 1.0.0*
+
 Tap **View History** in the Progress card to open the history sheet. It shows:
 - **Bible completions** — a log of every date you finished all 1,189 chapters (for tracking progress across multiple read-throughs over the years)
 - **Daily reading log** — every chapter you have read, grouped by date (newest first), in Bible order
 
 ### Reading Quiz
+
+*Available from iOS 1.3.0 · Android 1.0.0*
 
 After marking today's chapters as read, a **Quiz** button appears in the Today's Reading section. The quiz tests your comprehension of the chapters you have just read.
 
@@ -202,7 +222,7 @@ After marking today's chapters as read, a **Quiz** button appears in the Today's
 
 The quiz is optional — you can skip it at any time.
 
-**Quiz replay via long-press**
+**Quiz replay via long-press** *(iOS 1.5.2 · Android 1.0.0)*
 Long-press any read chapter in the chapter grid to quiz it directly — without needing to finish today's reading plan first. Each chapter can earn points once per reading program cycle. Once a chapter has already been quizzed this cycle, the same long-press starts a replay session that shows your score but does not award points. When you complete the full reading program (all 1,189 chapters), all chapters unlock again for a new cycle.
 
 ### Memorial Tracker

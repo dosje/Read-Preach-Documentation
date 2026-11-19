@@ -33,6 +33,7 @@ title: Home
 | [Features](docs/features) | Full overview of all features |
 | [Installation](docs/installation) | How to install and update the app |
 | [FAQ](docs/faq) | Frequently asked questions |
+| [What's New](docs/whats-new) | Changes in each app version |
 
 ## Support
 

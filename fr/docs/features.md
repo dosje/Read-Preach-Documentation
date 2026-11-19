@@ -6,6 +6,8 @@ permalink: /fr/docs/features/
 
 # Fonctionnalités
 
+> Les fonctionnalités marquées *Disponible à partir de …* nécessitent cette version de l'application ou une version ultérieure. Mettez l'application à jour pour en profiter. Toutes les versions sont décrites dans [Nouveautés](../whats-new/).
+
 ## Onglet Rapport
 
 L'onglet Rapport est votre journal de ministère quotidien.
@@ -48,19 +50,25 @@ Sous **Paramètres → Paramètres de rapport** :
 
 ### Crédit d'heures
 
+*Disponible à partir d'iOS 1.6.0 · Android 1.1.0*
+
 Les pionniers réguliers peuvent enregistrer des heures de crédit. Elles comptent pour l'objectif d'heures et sont affichées séparément des heures de ministère.
 
 ### Étudiants de la Bible
 
+*Disponible à partir d'iOS 1.6.0 · Android 1.1.0*
+
 Tenez une liste de vos étudiants de la Bible et cochez chaque jour ceux avec qui vous avez étudié. Chaque étudiant compte une fois par mois : le récapitulatif mensuel affiche donc le nombre de cours bibliques **différents** (appuyez dessus pour voir les noms). Ce nombre est aussi utilisé dans le rapport partagé, la vue de l'année de service et le PDF.
 
 - Ajoutez un étudiant dans **Paramètres → Paramètres de rapport → Étudiants de la Bible**, ou directement dans le rapport du jour avec **+ Ajouter un étudiant de la Bible**
-- Un étudiant que vous n'avez coché aucun jour peut être supprimé (avec confirmation). Les étudiants déjà utilisés dans vos rapports peuvent seulement être archivés, pour que les mois passés restent exacts
+- Un étudiant que vous n'avez coché aucun jour peut être supprimé (avec confirmation). Les étudiants déjà utilisés dans vos rapports peuvent seulement être archivés, pour que les mois passés restent exacts *(iOS 1.6.1 · Android 1.1.1)*
 - Sans étudiant actif, vous pouvez toujours compter vos cours bibliques avec le compteur ; un message vous rappelle qu'ajouter un étudiant permet de compter par nom
 
 Les noms des étudiants restent sur votre appareil et dans votre fichier de sauvegarde. Ils n'apparaissent jamais dans un rapport partagé, dans le PDF ni dans un rapport envoyé à NW Publisher.
 
 ### Vue d'ensemble de l'année de service
+
+*Disponible à partir d'iOS 1.5.0 · Android 1.0.0*
 
 Appuyez sur **Voir l'année de service** en bas de la carte de récapitulatif mensuel.
 
@@ -76,6 +84,8 @@ Appuyez sur **Voir l'année de service** en bas de la carte de récapitulatif me
 
 ### Partager le rapport
 
+*Disponible à partir d'iOS 1.5.0 · Android 1.0.0*
+
 Appuyez sur **Partager le rapport** en bas de la carte de récapitulatif mensuel pour envoyer votre rapport mensuel sous forme de message.
 
 - Le message s'adapte à votre rôle :
@@ -84,6 +94,8 @@ Appuyez sur **Partager le rapport** en bas de la carte de récapitulatif mensuel
 - La feuille de partage du système s'ouvre pour envoyer via Messages, WhatsApp, e-mail ou toute autre application
 
 ### Envoyer à NW Publisher
+
+*Disponible à partir d'iOS 1.6.0 · Android 1.1.0*
 
 Envoyez le rapport du mois précédent à l'application NW Publisher installée sur le même appareil :
 
@@ -94,12 +106,14 @@ Envoyez le rapport du mois précédent à l'application NW Publisher installée 
 
 Le rapport est transmis uniquement à l'application NW Publisher installée, jamais à un site web, et les noms des étudiants ne sont jamais envoyés. Si NW Publisher n'est pas installé, rien n'est envoyé.
 
-**Bannière de rappel**
+**Bannière de rappel** *(iOS 1.6.1 · Android 1.1.1)*
 Du 1er au 10 de chaque mois, l'onglet Rapport affiche une bannière telle que **« Rapport d'octobre · Envoyer à NW Publisher »** si le mois précédent contient des données. Appuyez dessus pour ouvrir la boîte de dialogue du mois précédent. La bannière disparaît dès que vous avez ouvert NW Publisher pour ce mois. Appuyez sur **✕** pour la masquer pour ce mois (vous pouvez annuler aussitôt), ou désactivez-la dans **Paramètres → Paramètres de rapport → Rappel NW Publisher**.
 
 ---
 
 ## Minuteur de ministère
+
+*Disponible à partir d'iOS 1.3.3 · Android 1.0.0*
 
 Le minuteur de ministère mesure la durée de votre activité de prédication et vous permet d'enregistrer ce temps directement dans votre rapport quotidien.
 
@@ -170,6 +184,8 @@ En cas de retard, l'application replanifie automatiquement les chapitres manqué
 
 ### Série de lecture
 
+*Disponible à partir d'iOS 1.2.0 · Android 1.0.0*
+
 Le compteur de série suit les jours consécutifs pendant lesquels au moins un chapitre a été lu :
 - **Période de grâce de 2 jours** — la série reste active deux jours supplémentaires en cas de jour manqué
 - **Célébrations de jalons** avec confettis et retour haptique après : 5, 14, 30, 90, 180 et 365 jours
@@ -177,11 +193,15 @@ Le compteur de série suit les jours consécutifs pendant lesquels au moins un c
 
 ### Historique de lecture
 
+*Disponible à partir d'iOS 1.2.0 · Android 1.0.0*
+
 Appuyez sur **Voir l'historique** dans la carte de progression :
 - **Achèvements de la Bible** — journal de chaque date où vous avez terminé tous les 1 189 chapitres
 - **Journal de lecture quotidien** — tous les chapitres lus, groupés par date
 
 ### Quiz de lecture
+
+*Disponible à partir d'iOS 1.3.0 · Android 1.0.0*
 
 Après avoir marqué les chapitres du jour comme lus, un bouton **Quiz** apparaît dans la section Lecture du jour. Le quiz teste votre compréhension des chapitres que vous venez de lire.
 
@@ -193,7 +213,7 @@ Après avoir marqué les chapitres du jour comme lus, un bouton **Quiz** appara�
 
 Le quiz est facultatif — vous pouvez le passer à tout moment.
 
-**Replay du quiz par appui long**
+**Replay du quiz par appui long** *(iOS 1.5.2 · Android 1.0.0)*
 Appuyez longuement sur un chapitre lu dans la grille des chapitres pour le quizzer directement — sans avoir à terminer le plan de lecture du jour. Chaque chapitre peut rapporter des points une fois par cycle du programme de lecture. Si un chapitre a déjà été quizzé dans ce cycle, le même appui long lance une session de replay : votre score est affiché, mais aucun point n'est attribué. Lorsque vous terminez le programme complet (les 1 189 chapitres), tous les chapitres se débloquent pour un nouveau cycle.
 
 ### Suivi du Mémorial
