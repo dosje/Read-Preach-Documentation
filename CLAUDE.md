@@ -3,6 +3,10 @@
 Jekyll site on GitHub Pages (minima theme), live at https://docs.read-preach.com.
 Pushing `main` to the remote **`docs-repo`** (not `origin`) publishes the site.
 
+**Always pull before editing** (`git pull --ff-only docs-repo main`): the iOS and Android CI push
+screenshot commits ("[UPD] iOS/Android screenshots X.Y.Z") straight to `main`.
+`assets/screenshots/` is used by www.read-preach.com. Never move, rename or delete files there.
+
 ## Structure
 
 - One set of pages for iPhone/iPad **and** Android. Platform-specific content goes in
