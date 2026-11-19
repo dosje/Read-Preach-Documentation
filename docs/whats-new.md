@@ -11,6 +11,8 @@ The most important changes in each version of Read & Preach. To find your versio
 
 The app updates automatically on most devices, so these docs always describe the newest version. Features added later are marked *Available from …* on the [Features](../features/) page.
 
+**Jump to:** [iPhone & iPad](#iphone--ipad) · [Android](#android)
+
 ## iPhone & iPad
 
 ### 1.6.1 — coming soon
@@ -18,21 +20,15 @@ The app updates automatically on most devices, so these docs always describe the
 - **Bible students:** a Bible student you never ticked can now be deleted; the full term "Bible student" is used everywhere
 - French texts use the formal "vous"
 
-### 1.6.0 — coming soon
+### 1.6.0 — November 2026
 - **Credit hours** for Regular Pioneers (Bethel, construction, Pioneer School), counted towards your goal
 - **Bible students list:** tick who you studied with; the month counts your different Bible studies
 - **Send to NW Publisher:** hand last month's report to the NW Publisher app
+- **Quiz for any chapter:** long-press a read chapter to take its quiz; each chapter earns points once per reading cycle
 - Same backup format as the Android app, so you can move your data between iPhone and Android
+- Includes all fixes from 1.5.4 and 1.5.5, which were not released separately: more reliable reminders and reading streak, missed chapters rescheduled correctly, Memorial tracker and Memorial dates, service year goals, reading history, roles, date format, and safer backups, import and iCloud sync
 
-### 1.5.5 — coming soon
-- Fixes for roles, the Memorial tracker, service year goals, reading history and custom book orders
-
-### 1.5.4 — September 2026
-- Reminders and the reading streak work more reliably; missed chapters are rescheduled correctly
-- The Memorial tracker only appears in the week before the Memorial
-- Import checks the file first and tells you if something was skipped
-
-### 1.5.0 – 1.5.2 — April 2026
+### 1.5.0 – 1.5.3 — April 2026
 - **Service year overview** with a PDF report to print or share
 - **Share report:** send your monthly report as a message
 - **Name** in General Settings, used in the PDF and the shared report

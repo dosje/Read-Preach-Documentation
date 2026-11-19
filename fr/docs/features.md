@@ -213,7 +213,7 @@ Après avoir marqué les chapitres du jour comme lus, un bouton **Quiz** appara�
 
 Le quiz est facultatif — vous pouvez le passer à tout moment.
 
-**Replay du quiz par appui long** *(iOS 1.5.2 · Android 1.0.0)*
+**Replay du quiz par appui long** *(iOS 1.6.0 · Android 1.0.0)*
 Appuyez longuement sur un chapitre lu dans la grille des chapitres pour le quizzer directement — sans avoir à terminer le plan de lecture du jour. Chaque chapitre peut rapporter des points une fois par cycle du programme de lecture. Si un chapitre a déjà été quizzé dans ce cycle, le même appui long lance une session de replay : votre score est affiché, mais aucun point n'est attribué. Lorsque vous terminez le programme complet (les 1 189 chapitres), tous les chapitres se débloquent pour un nouveau cycle.
 
 ### Suivi du Mémorial

@@ -222,7 +222,7 @@ After marking today's chapters as read, a **Quiz** button appears in the Today's
 
 The quiz is optional — you can skip it at any time.
 
-**Quiz replay via long-press** *(iOS 1.5.2 · Android 1.0.0)*
+**Quiz replay via long-press** *(iOS 1.6.0 · Android 1.0.0)*
 Long-press any read chapter in the chapter grid to quiz it directly — without needing to finish today's reading plan first. Each chapter can earn points once per reading program cycle. Once a chapter has already been quizzed this cycle, the same long-press starts a replay session that shows your score but does not award points. When you complete the full reading program (all 1,189 chapters), all chapters unlock again for a new cycle.
 
 ### Memorial Tracker

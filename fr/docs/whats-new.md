@@ -10,6 +10,8 @@ Les changements les plus importants de chaque version de Read & Preach. Pour con
 
 Sur la plupart des appareils, l'application se met à jour automatiquement : cette documentation décrit donc toujours la version la plus récente. Les fonctionnalités ajoutées plus tard sont marquées *Disponible à partir de …* sur la page [Fonctionnalités](../features/).
 
+**Aller à :** [iPhone & iPad](#iphone--ipad) · [Android](#android)
+
 ## iPhone & iPad
 
 ### 1.6.1 — bientôt disponible
@@ -17,21 +19,15 @@ Sur la plupart des appareils, l'application se met à jour automatiquement : cet
 - **Étudiants de la Bible :** un étudiant que vous n'avez jamais coché peut maintenant être supprimé ; le terme complet « étudiant de la Bible » est utilisé partout
 - Les textes français utilisent le « vous »
 
-### 1.6.0 — bientôt disponible
+### 1.6.0 — novembre 2026
 - **Crédit d'heures** pour les pionniers réguliers (Béthel, construction, École du service de pionnier), compté dans l'objectif
 - **Liste des étudiants de la Bible :** cochez ceux avec qui vous avez étudié ; le mois compte vos cours bibliques différents
 - **Envoyer à NW Publisher :** transmettez le rapport du mois précédent à l'application NW Publisher
+- **Quiz pour chaque chapitre :** appuyez longuement sur un chapitre lu pour faire son quiz ; chaque chapitre rapporte des points une fois par cycle de lecture
 - Même format de sauvegarde que l'application Android : vous pouvez transférer vos données entre iPhone et Android
+- Inclut toutes les corrections des versions 1.5.4 et 1.5.5, qui n'ont pas été publiées séparément : rappels et série de lecture plus fiables, chapitres manqués correctement replanifiés, Suivi du Mémorial et dates du Mémorial, objectifs de l'année de service, historique de lecture, rôles, format de date, ainsi que sauvegardes, import et synchronisation iCloud plus sûrs
 
-### 1.5.5 — bientôt disponible
-- Corrections pour les rôles, le Suivi du Mémorial, les objectifs de l'année de service, l'historique de lecture et l'ordre personnalisé des livres
-
-### 1.5.4 — septembre 2026
-- Les rappels et la série de lecture fonctionnent de façon plus fiable ; les chapitres manqués sont correctement replanifiés
-- Le Suivi du Mémorial n'apparaît que la semaine précédant le Mémorial
-- L'import vérifie d'abord le fichier et signale ce qui a été ignoré
-
-### 1.5.0 – 1.5.2 — avril 2026
+### 1.5.0 – 1.5.3 — avril 2026
 - **Vue d'ensemble de l'année de service** avec un rapport PDF à imprimer ou partager
 - **Partager le rapport :** envoyez votre rapport mensuel sous forme de message
 - **Nom** dans les paramètres généraux, utilisé dans le PDF et le rapport partagé

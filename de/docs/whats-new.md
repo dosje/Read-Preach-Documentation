@@ -10,6 +10,8 @@ Die wichtigsten Änderungen jeder Version von Read & Preach. Deine Version finde
 
 Auf den meisten Geräten aktualisiert sich die App automatisch, daher beschreibt diese Dokumentation immer die neueste Version. Später hinzugekommene Funktionen sind auf der Seite [Funktionen](../features/) mit *Verfügbar ab …* markiert.
 
+**Direkt zu:** [iPhone & iPad](#iphone--ipad) · [Android](#android)
+
 ## iPhone & iPad
 
 ### 1.6.1 — demnächst
@@ -17,21 +19,15 @@ Auf den meisten Geräten aktualisiert sich die App automatisch, daher beschreibt
 - **Bibelschüler:** ein Bibelschüler, den du nie angehakt hast, kann jetzt gelöscht werden; überall wird der volle Begriff „Bibelschüler" verwendet
 - Französische Texte verwenden das förmliche „vous"
 
-### 1.6.0 — demnächst
+### 1.6.0 — November 2026
 - **Zeitgutschrift** für Reguläre Pioniere (Bethel, Bau, Pionierdienstschule), zählt zum Stundenziel
 - **Bibelschüler-Liste:** hake an, mit wem du studiert hast; der Monat zählt deine verschiedenen Bibelstudien
 - **An NW Publisher senden:** den Bericht des Vormonats an die NW-Publisher-App übergeben
+- **Quiz zu jedem Kapitel:** ein gelesenes Kapitel lang drücken, um sein Quiz zu machen; jedes Kapitel bringt einmal pro Lesezyklus Punkte
 - Gleiches Sicherungsformat wie die Android-App, sodass du deine Daten zwischen iPhone und Android übertragen kannst
+- Enthält alle Korrekturen aus 1.5.4 und 1.5.5, die nicht einzeln veröffentlicht wurden: zuverlässigere Erinnerungen und Lese-Streak, verpasste Kapitel richtig neu eingeplant, Gedenkmahl-Tracker und Gedenkmahl-Daten, Dienstjahr-Ziele, Leseverlauf, Rollen, Datumsformat sowie sicherere Sicherungen, Import und iCloud-Synchronisierung
 
-### 1.5.5 — demnächst
-- Korrekturen bei Rollen, Gedenkmahl-Tracker, Dienstjahr-Zielen, Leseverlauf und benutzerdefinierter Buchreihenfolge
-
-### 1.5.4 — September 2026
-- Erinnerungen und Lese-Streak funktionieren zuverlässiger; verpasste Kapitel werden richtig neu eingeplant
-- Der Gedenkmahl-Tracker erscheint nur in der Woche vor dem Gedenkmahl
-- Der Import prüft die Datei zuerst und meldet, wenn etwas übersprungen wurde
-
-### 1.5.0 – 1.5.2 — April 2026
+### 1.5.0 – 1.5.3 — April 2026
 - **Dienstjahr-Übersicht** mit PDF-Bericht zum Drucken oder Teilen
 - **Bericht teilen:** den Monatsbericht als Nachricht senden
 - **Name** in den allgemeinen Einstellungen, verwendet im PDF und im geteilten Bericht

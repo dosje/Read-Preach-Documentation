@@ -213,7 +213,7 @@ Nachdem du die heutigen Kapitel als gelesen markiert hast, erscheint ein **Quiz*
 
 Das Quiz ist optional — du kannst es jederzeit überspringen.
 
-**Quiz-Wiederholung per Langdruck** *(iOS 1.5.2 · Android 1.0.0)*
+**Quiz-Wiederholung per Langdruck** *(iOS 1.6.0 · Android 1.0.0)*
 Halte ein gelesenes Kapitel im Kapitelraster gedrückt, um es direkt zu quizzen — ohne den heutigen Leseplan abschließen zu müssen. Jedes Kapitel kann einmal pro Leseprogramm-Zyklus Punkte einbringen. Wurde ein Kapitel in diesem Zyklus bereits geprüft, startet derselbe Langdruck eine Wiederholungssitzung: Dein Ergebnis wird angezeigt, aber keine Punkte vergeben. Wenn du das gesamte Leseprogramm (alle 1 189 Kapitel) abgeschlossen hast, werden alle Kapitel für einen neuen Zyklus freigeschaltet.
 
 ### Gedenkmahl-Tracker
