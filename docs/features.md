@@ -65,7 +65,7 @@ Regular Pioneers can record credit hours. They count towards the hour goal and a
 Keep a list of your Bible students and tick the ones you studied with each day. Each Bible student counts once per month, so the monthly summary shows your number of **different** Bible studies (tap it to see the names). This number is also used in the shared report, the service year overview and the PDF.
 
 - Add a Bible student in **Settings → Report Settings → Bible students**, or with **+ Add Bible student** directly in the daily report
-- A Bible student you never ticked on any day can be deleted (with confirmation). Bible students already used in your reports can only be archived, so past months stay correct *(iOS 1.6.1 · Android 1.1.1)*
+- A Bible student you never ticked on any day can be deleted (with confirmation). Bible students already used in your reports can only be archived, so past months stay correct *(iOS 1.7.0 · Android 1.1.1)*
 - Without active Bible students you can still count Bible studies with the counter; a hint reminds you that adding a Bible student counts them by name
 
 Bible student names stay on your device and in your backup file. They are never included in a shared report, the PDF or a report sent to NW Publisher.
@@ -110,7 +110,7 @@ Send last month's report to the NW Publisher app on the same device:
 
 The report goes only to the installed NW Publisher app, never to a website, and Bible student names are never sent. If NW Publisher is not installed, nothing is sent.
 
-**Reminder banner** *(iOS 1.6.1 · Android 1.1.1)*
+**Reminder banner** *(iOS 1.7.0 · Android 1.1.1)*
 From the 1st to the 10th of each month, the Report tab shows a banner such as **"October report · Send to NW Publisher"** if last month has data. Tap it to open the dialog for last month. The banner disappears once you have opened NW Publisher for that month. Tap **✕** to hide it for this month (you can undo this right away), or turn it off completely with **Settings → Report Settings → NW Publisher reminder**.
 
 ---

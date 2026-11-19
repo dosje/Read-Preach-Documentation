@@ -61,7 +61,7 @@ Les pionniers réguliers peuvent enregistrer des heures de crédit. Elles compte
 Tenez une liste de vos étudiants de la Bible et cochez chaque jour ceux avec qui vous avez étudié. Chaque étudiant compte une fois par mois : le récapitulatif mensuel affiche donc le nombre de cours bibliques **différents** (appuyez dessus pour voir les noms). Ce nombre est aussi utilisé dans le rapport partagé, la vue de l'année de service et le PDF.
 
 - Ajoutez un étudiant dans **Paramètres → Paramètres de rapport → Étudiants de la Bible**, ou directement dans le rapport du jour avec **+ Ajouter un étudiant de la Bible**
-- Un étudiant que vous n'avez coché aucun jour peut être supprimé (avec confirmation). Les étudiants déjà utilisés dans vos rapports peuvent seulement être archivés, pour que les mois passés restent exacts *(iOS 1.6.1 · Android 1.1.1)*
+- Un étudiant que vous n'avez coché aucun jour peut être supprimé (avec confirmation). Les étudiants déjà utilisés dans vos rapports peuvent seulement être archivés, pour que les mois passés restent exacts *(iOS 1.7.0 · Android 1.1.1)*
 - Sans étudiant actif, vous pouvez toujours compter vos cours bibliques avec le compteur ; un message vous rappelle qu'ajouter un étudiant permet de compter par nom
 
 Les noms des étudiants restent sur votre appareil et dans votre fichier de sauvegarde. Ils n'apparaissent jamais dans un rapport partagé, dans le PDF ni dans un rapport envoyé à NW Publisher.
@@ -106,7 +106,7 @@ Envoyez le rapport du mois précédent à l'application NW Publisher installée 
 
 Le rapport est transmis uniquement à l'application NW Publisher installée, jamais à un site web, et les noms des étudiants ne sont jamais envoyés. Si NW Publisher n'est pas installé, rien n'est envoyé.
 
-**Bannière de rappel** *(iOS 1.6.1 · Android 1.1.1)*
+**Bannière de rappel** *(iOS 1.7.0 · Android 1.1.1)*
 Du 1er au 10 de chaque mois, l'onglet Rapport affiche une bannière telle que **« Rapport d'octobre · Envoyer à NW Publisher »** si le mois précédent contient des données. Appuyez dessus pour ouvrir la boîte de dialogue du mois précédent. La bannière disparaît dès que vous avez ouvert NW Publisher pour ce mois. Appuyez sur **✕** pour la masquer pour ce mois (vous pouvez annuler aussitôt), ou désactivez-la dans **Paramètres → Paramètres de rapport → Rappel NW Publisher**.
 
 ---

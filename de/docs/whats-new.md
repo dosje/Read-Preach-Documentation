@@ -14,7 +14,7 @@ Auf den meisten Geräten aktualisiert sich die App automatisch, daher beschreibt
 
 ## iPhone & iPad
 
-### 1.6.1 — demnächst
+### 1.7.0 — demnächst
 - **NW Publisher-Erinnerung:** vom 1. bis 10. jedes Monats erinnert ein Banner im Bericht-Reiter daran, den Bericht des Vormonats zu senden. Du kannst es für den Monat ausblenden oder in den Einstellungen ausschalten
 - **Bibelschüler:** ein Bibelschüler, den du nie angehakt hast, kann jetzt gelöscht werden; überall wird der volle Begriff „Bibelschüler" verwendet
 - Französische Texte für NW Publisher verwenden das förmliche „vous"

@@ -61,7 +61,7 @@ Reguläre Pioniere können Stunden als Zeitgutschrift erfassen. Sie zählen zum 
 Führe eine Liste deiner Bibelschüler und hake jeden Tag an, mit wem du studiert hast. Jeder Bibelschüler zählt einmal pro Monat, daher zeigt die Monatsübersicht die Anzahl der **verschiedenen** Bibelstudien (tippe darauf, um die Namen zu sehen). Diese Zahl wird auch im geteilten Bericht, in der Dienstjahr-Übersicht und im PDF verwendet.
 
 - Füge einen Bibelschüler unter **Einstellungen → Berichtseinstellungen → Bibelschüler** hinzu oder direkt im Tagesbericht mit **+ Bibelschüler hinzufügen**
-- Einen Bibelschüler, den du an keinem Tag angehakt hast, kannst du löschen (mit Bestätigung). Bibelschüler, die schon in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate stimmen *(iOS 1.6.1 · Android 1.1.1)*
+- Einen Bibelschüler, den du an keinem Tag angehakt hast, kannst du löschen (mit Bestätigung). Bibelschüler, die schon in deinen Berichten vorkommen, können nur archiviert werden, damit vergangene Monate stimmen *(iOS 1.7.0 · Android 1.1.1)*
 - Ohne aktive Bibelschüler kannst du Bibelstudien weiterhin mit dem Zähler erfassen; ein Hinweis erinnert dich, dass Bibelschüler nach Namen gezählt werden
 
 Die Namen der Bibelschüler bleiben auf deinem Gerät und in deiner Sicherungsdatei. Sie erscheinen nie in einem geteilten Bericht, im PDF oder in einem Bericht an NW Publisher.
@@ -106,7 +106,7 @@ Sende den Bericht des Vormonats an die NW-Publisher-App auf demselben Gerät:
 
 Der Bericht geht nur an die installierte NW-Publisher-App, nie an eine Website, und Namen von Bibelschülern werden nie gesendet. Ist NW Publisher nicht installiert, wird nichts gesendet.
 
-**Erinnerungsbanner** *(iOS 1.6.1 · Android 1.1.1)*
+**Erinnerungsbanner** *(iOS 1.7.0 · Android 1.1.1)*
 Vom 1. bis 10. jedes Monats zeigt der Bericht-Reiter ein Banner wie **„Bericht Oktober · An NW Publisher senden"**, wenn der Vormonat Einträge hat. Tippe darauf, um den Dialog für den Vormonat zu öffnen. Das Banner verschwindet, sobald du NW Publisher für diesen Monat geöffnet hast. Tippe auf **✕**, um es für diesen Monat auszublenden (sofort rückgängig machbar), oder schalte es unter **Einstellungen → Berichtseinstellungen → NW Publisher-Erinnerung** ganz aus.
 
 ---

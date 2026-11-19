@@ -14,7 +14,7 @@ Sur la plupart des appareils, l'application se met à jour automatiquement : cet
 
 ## iPhone & iPad
 
-### 1.6.1 — bientôt disponible
+### 1.7.0 — bientôt disponible
 - **Rappel NW Publisher :** du 1er au 10 de chaque mois, une bannière dans l'onglet Rapport vous rappelle d'envoyer le rapport du mois précédent. Vous pouvez la masquer pour le mois ou la désactiver dans les paramètres
 - **Étudiants de la Bible :** un étudiant que vous n'avez jamais coché peut maintenant être supprimé ; le terme complet « étudiant de la Bible » est utilisé partout
 - Les textes français pour NW Publisher utilisent le « vous »

@@ -15,7 +15,7 @@ The app updates automatically on most devices, so these docs always describe the
 
 ## iPhone & iPad
 
-### 1.6.1 — coming soon
+### 1.7.0 — coming soon
 - **NW Publisher reminder:** from the 1st to the 10th of each month, a banner on the Report tab reminds you to send last month's report. You can hide it for the month or turn it off in Settings
 - **Bible students:** a Bible student you never ticked can now be deleted; the full term "Bible student" is used everywhere
 - French NW Publisher texts use the formal "vous"
