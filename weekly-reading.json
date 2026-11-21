@@ -1,0 +1,178 @@
+{
+    "version": 1,
+    "weeks": [
+        {
+            "weekStart": "2026-11-02",
+            "chapters": [
+                "Jeremiah|49",
+                "Jeremiah|50"
+            ]
+        },
+        {
+            "weekStart": "2026-11-09",
+            "chapters": [
+                "Jeremiah|51",
+                "Jeremiah|52"
+            ]
+        },
+        {
+            "weekStart": "2026-11-16",
+            "chapters": [
+                "Lamentations|1",
+                "Lamentations|2"
+            ]
+        },
+        {
+            "weekStart": "2026-11-23",
+            "chapters": [
+                "Lamentations|3",
+                "Lamentations|4",
+                "Lamentations|5"
+            ]
+        },
+        {
+            "weekStart": "2026-11-30",
+            "chapters": [
+                "Ezekiel|1",
+                "Ezekiel|2"
+            ]
+        },
+        {
+            "weekStart": "2026-12-07",
+            "chapters": [
+                "Ezekiel|3",
+                "Ezekiel|4"
+            ]
+        },
+        {
+            "weekStart": "2026-12-14",
+            "chapters": [
+                "Ezekiel|5",
+                "Ezekiel|6"
+            ]
+        },
+        {
+            "weekStart": "2026-12-21",
+            "chapters": [
+                "Ezekiel|7",
+                "Ezekiel|8"
+            ]
+        },
+        {
+            "weekStart": "2026-12-28",
+            "chapters": [
+                "Ezekiel|9",
+                "Ezekiel|10"
+            ]
+        },
+        {
+            "weekStart": "2027-01-04",
+            "chapters": [
+                "Ezekiel|11",
+                "Ezekiel|12"
+            ]
+        },
+        {
+            "weekStart": "2027-01-11",
+            "chapters": [
+                "Ezekiel|13",
+                "Ezekiel|14"
+            ]
+        },
+        {
+            "weekStart": "2027-01-18",
+            "chapters": [
+                "Ezekiel|15",
+                "Ezekiel|16"
+            ]
+        },
+        {
+            "weekStart": "2027-01-25",
+            "chapters": [
+                "Ezekiel|17",
+                "Ezekiel|18"
+            ]
+        },
+        {
+            "weekStart": "2027-02-01",
+            "chapters": [
+                "Ezekiel|19",
+                "Ezekiel|20"
+            ]
+        },
+        {
+            "weekStart": "2027-02-08",
+            "chapters": [
+                "Ezekiel|21",
+                "Ezekiel|22"
+            ]
+        },
+        {
+            "weekStart": "2027-02-15",
+            "chapters": [
+                "Ezekiel|23",
+                "Ezekiel|24"
+            ]
+        },
+        {
+            "weekStart": "2027-02-22",
+            "chapters": [
+                "Ezekiel|25",
+                "Ezekiel|26"
+            ]
+        },
+        {
+            "weekStart": "2027-03-01",
+            "chapters": [
+                "Ezekiel|27",
+                "Ezekiel|28"
+            ]
+        },
+        {
+            "weekStart": "2027-03-08",
+            "chapters": [
+                "Ezekiel|29",
+                "Ezekiel|30"
+            ]
+        },
+        {
+            "weekStart": "2027-03-15",
+            "chapters": [
+                "Ezekiel|31",
+                "Ezekiel|32"
+            ]
+        },
+        {
+            "weekStart": "2027-03-29",
+            "chapters": [
+                "Ezekiel|33"
+            ]
+        },
+        {
+            "weekStart": "2027-04-05",
+            "chapters": [
+                "Ezekiel|34"
+            ]
+        },
+        {
+            "weekStart": "2027-04-12",
+            "chapters": [
+                "Ezekiel|35",
+                "Ezekiel|36"
+            ]
+        },
+        {
+            "weekStart": "2027-04-19",
+            "chapters": [
+                "Ezekiel|37"
+            ]
+        },
+        {
+            "weekStart": "2027-04-26",
+            "chapters": [
+                "Ezekiel|38",
+                "Ezekiel|39"
+            ]
+        }
+    ]
+}
